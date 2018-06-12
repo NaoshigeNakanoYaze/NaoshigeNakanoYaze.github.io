@@ -14,15 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yaze Webspace
-email: your-email@example.com
+email: naoshige.nakano.yaze@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  楽に楽しく聞く話す。しかしビジネスコミュニケーションは時として厳しいものです。「敬語を使いましょう」「5W1Hを明確にしましょう」「報連相」などさまざまなHow Toが広まっていますが、すべて気をつけながらできるでしょうか。このサイトでは演劇・インプロビゼーションを利用した、ビジネスコミュニケーションのためのTo Beに至る考察をします。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ya_ze_
+github_username:  NaoshigeNakanoYaze
 
 # Build settings
 markdown: kramdown
