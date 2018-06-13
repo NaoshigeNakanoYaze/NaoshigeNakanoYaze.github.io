@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 楽に楽しく聞く話す
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  ビジネスコミュニケーションは時として厳しいものです。「敬語を使いましょう」「5W1Hを明確にしましょう」「報連相」などさまざまなHow Toが広まっていますが、すべて気をつけながらできるでしょうか。How Toは使い続けることで身についてきます。そして、いつかは目標とした自分、To Beに至ります。このサイトでは演劇・インプロビゼーションを利用した、ビジネスコミュニケーションのためのTo Beに至る考察をします。最初からTo Beをめざしてみようじゃないかと。そんなアプローチがあってもよいと思います。
+  
+  ビジネスコミュニケーションはそこかしこに存在します。楽に楽しくやっていきたい。楽に、だけでもなく楽しく、だけでもなく。より楽に楽しく聞き、話せる瞬間を増やしていくためにこのブログと中野直重の活動があります。
+  
+## このサイトでこれから書くこと
+演劇、インプロについての話が多くなると思います。
+たまに技術ネタとか旅行記とか。でもつぶやき程度。
+ともかく私の個人的なことが多くなると思います。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 「Yaze Webspace」という名前はどっから
+先輩のブログが、昔 「XX Webspace」という感じの名前だったから。
+Yazeは私のインプロするときのニックネームなので。ヤーゼと読みます。
+ 
+ 
 
-
-[jekyll-organization]: https://github.com/jekyll
