@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-13T21:05:59+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。しかしビジネスコミュニケーションは時として厳しいものです。「敬語を使いましょう」「5W1Hを明確にしましょう」「報連相」などさまざまなHow Toが広まっていますが、すべて気をつけながらできるでしょうか。このサイトでは演劇・インプロビゼーションを利用した、ビジネスコミュニケーションのためのTo Beに至る考察をします。</subtitle><entry><title type="html">「Yaze Webspace」開設</title><link href="http://localhost:4000/about/2018/06/13/greetings.html" rel="alternate" type="text/html" title="「Yaze Webspace」開設" /><published>2018-06-13T10:33:43+09:00</published><updated>2018-06-13T10:33:43+09:00</updated><id>http://localhost:4000/about/2018/06/13/greetings</id><content type="html" xml:base="http://localhost:4000/about/2018/06/13/greetings.html">&lt;h2 id=&quot;yaze-webspace開設&quot;&gt;「Yaze Webspace」開設&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-13T21:19:38+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。中野直重のホームページです。</subtitle><entry><title type="html">「Yaze Webspace」開設</title><link href="http://localhost:4000/about/2018/06/13/greetings.html" rel="alternate" type="text/html" title="「Yaze Webspace」開設" /><published>2018-06-13T10:33:43+09:00</published><updated>2018-06-13T10:33:43+09:00</updated><id>http://localhost:4000/about/2018/06/13/greetings</id><content type="html" xml:base="http://localhost:4000/about/2018/06/13/greetings.html">&lt;h2 id=&quot;yaze-webspace開設&quot;&gt;「Yaze Webspace」開設&lt;/h2&gt;
 &lt;p&gt;ブログ開設しました。
 GitHub Pagesというサービスを使って。&lt;/p&gt;
 
@@ -15,31 +15,6 @@ Rubyインストールしても、パスを設定しても、ぜんぜんバー�
 デザイン、記事、ギミックなどこれから増やしていく。
 もっとも重要なのは楽しんでやること。続けられること。&lt;/p&gt;
 
-&lt;h2 id=&quot;このサイトでこれから書くこと&quot;&gt;このサイトでこれから書くこと&lt;/h2&gt;
-&lt;p&gt;演劇、インプロについての話が多くなると思います。
-たまに技術ネタとか旅行記とか。でもつぶやき程度。
-ともかく私の個人的なことが多くなると思います。&lt;/p&gt;
-
-&lt;h2 id=&quot;yaze-webspaceという名前はどっから&quot;&gt;「Yaze Webspace」という名前はどっから&lt;/h2&gt;
-&lt;p&gt;先輩のブログが、昔 「XX Webspace」という感じの名前だったから。
-Yazeは私のインプロするときのニックネームなので。ヤーゼと読みます。&lt;/p&gt;
-
 &lt;p&gt;がんばっていこう。&lt;/p&gt;</content><summary type="html">「Yaze Webspace」開設
 ブログ開設しました。
-GitHub Pagesというサービスを使って。</summary></entry><entry><title type="html">from my iPad</title><link href="http://localhost:4000/jekyll/update/2018/06/11/from-iPad.html" rel="alternate" type="text/html" title="from my iPad" /><published>2018-06-11T10:33:43+09:00</published><updated>2018-06-11T10:33:43+09:00</updated><id>http://localhost:4000/jekyll/update/2018/06/11/from-iPad</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/11/from-iPad.html">&lt;h1 id=&quot;ipadで作成&quot;&gt;iPadで作成&lt;/h1&gt;
-
-&lt;h2 id=&quot;iphoneで編集&quot;&gt;iPhoneで編集&lt;/h2&gt;
-
-&lt;p&gt;さて、どう見えるかな。&lt;/p&gt;</content><summary type="html">iPadで作成</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/06/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-06-10T10:33:43+09:00</published><updated>2018-06-10T10:33:43+09:00</updated><id>http://localhost:4000/jekyll/update/2018/06/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+GitHub Pagesというサービスを使って。</summary></entry></feed>
