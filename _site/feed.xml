@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-08T00:08:01+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。中野直重のホームページです。</subtitle><entry><title type="html">悪役たちの反省会２と綺畸</title><link href="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki.html" rel="alternate" type="text/html" title="悪役たちの反省会２と綺畸" /><published>2018-07-07T20:33:43+09:00</published><updated>2018-07-07T20:33:43+09:00</updated><id>http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki</id><content type="html" xml:base="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki.html">&lt;p&gt;芝居観て芝居教えて帰るという、ありがたい日でした。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-09T10:48:15+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。中野直重のホームページです。</subtitle><entry><title type="html">パワハラ解消できないかな</title><link href="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/08/harassment.html" rel="alternate" type="text/html" title="パワハラ解消できないかな" /><published>2018-07-08T07:33:43+09:00</published><updated>2018-07-08T07:33:43+09:00</updated><id>http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/08/harassment</id><content type="html" xml:base="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/08/harassment.html">&lt;p&gt;インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;パワハラについて&quot;&gt;パワハラについて&lt;/h1&gt;
+
+&lt;p&gt;昨今、パワハラと呼ばれる例は、いくつか私も体験してきた。&lt;br /&gt;
+それが影響して精神を病んでしまって仕事にいけなくなったことも２シーズンある。&lt;br /&gt;
+それさえなければ、、、と思って悲しくなることも日常的にあるし、損傷してしまった私の精神はもはや取り返しがつかない部分もある。（それを成長という見方もできなくはないし、なんでもポジティブに考えるべきなんだろうけど、そんな気分にはなかなかなれない）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;「それ、パワハラです〜何がアウトで、何がセーフか〜」&lt;/strong&gt; という本があって、ひどい事例が書かれている。&lt;br /&gt;
+明らかにパワハラだなとみんなが納得するようなことばかり。&lt;br /&gt;
+そこで我々の日常を見てみると、明らかなパワハラなので注意する、という光景はあまり見られない。&lt;br /&gt;
+パワハラっぽいなという状況がそこかしこで見られて、それによって意気消沈していき、思考停止に陥る。&lt;br /&gt;
+それで言われた通りに動いて仕事するのであれば、経営視点で見た一時的な生産性という観点ではいいのかもしれない。&lt;br /&gt;
+ただ、長期で見ると国の労働力が減っていくバイアスをかけているような気がしてて、それは人類として損失なんじゃないかなと思ったりする。&lt;br /&gt;
+&lt;strong&gt;こういう感覚を裏付ける事実・データあたりを探していかんとなと思う。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;次、パワハラはなぜ起こるのか。&lt;br /&gt;
+自己防衛が一番大きいんじゃないかなと思う。&lt;br /&gt;
+自分を安全圏に置きたいから、必要以上に相手を攻撃して、こちらに攻撃してこれないまでに叩きのめしておくという。&lt;br /&gt;
+生存戦略として理解できなくもないが、悲しい。&lt;/p&gt;
+
+&lt;p&gt;例として、よく見るのが、仕事のディスカッションである。&lt;br /&gt;
+こちらが何か提案して、それについて弱点を補強したり、より面白い案にしたり（面白い、という言葉を使うと怒られることもよくあるけど）するのが目的である。&lt;br /&gt;
+まず、資料をパッと見て鼻で笑ったり、わざとらしく落胆したり、「この時点でお前にやる気がないのがわかる」と言ってみたり、とにかく建設的とはかけ離れた態度で議論を開始する。&lt;br /&gt;
+これによって立場の低い人は議論に参加できない。&lt;br /&gt;
+自分がいかにダメな人間かという自責を延々とさせられることになる。&lt;/p&gt;
+
+&lt;p&gt;こんなことしなきゃいけないんだろうか。&lt;br /&gt;
+立場の高い人たちは、&lt;strong&gt;「別に傷つける意図なんてない。ただ、ひどい資料を持ってきたからひどいと思ったまま言っただけ。それすらも言っちゃいけないの？」&lt;/strong&gt; となる。&lt;br /&gt;
+そして &lt;strong&gt;「こんなひどい資料を持ってこさせないよう、ガツンと言っておかないと」&lt;/strong&gt; となる。&lt;br /&gt;
+うーん、よくわかる。&lt;br /&gt;
+よくわかるんだけど、それで損なわれる自由な発想が勿体無いし、疲弊していく労働力が勿体無い。&lt;/p&gt;
+
+&lt;p&gt;ちょっと話を戻す。&lt;br /&gt;
+&lt;strong&gt;「別に傷つける意図なんてない。ただ、ひどい資料を持ってきたからひどいと思ったまま言っただけ。それすらも言っちゃいけないの？」&lt;/strong&gt;
+言っちゃいけないの？ と言われて言っちゃいけません、と言うとなんか違う。&lt;br /&gt;
+自由な表現はどちらにもあって良い。&lt;br /&gt;
+ただ、生産的であって欲しいだけ。&lt;br /&gt;
+ガツンと意気消沈させることがクセになってて、建設的になれてないのでは、と感じる。
+この辺りを深掘りしたいな。 &lt;strong&gt;なぜこれを辛く感じてしまうのか、なぜ辛さを引き起こす言い方をしてしまうのか。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;インプロでどう解消するか&quot;&gt;インプロでどう解消するか&lt;/h1&gt;
+&lt;p&gt;相手が攻撃してくることから防御したいだけだったら、２種類アプローチがある。パワハラまがいのことをしてしまう人に向けて。&lt;br /&gt;
+自分が強くなる、相手を信じる。&lt;br /&gt;
+自分が強くなるには舞台上で失敗してみて、それでも思ったほど恥にならないような体験をしてみるといいのではないか。パス回しでもなんでもいい。&lt;br /&gt;
+相手を信じる、うーん、相手がいるからなあ。長期の関係性作りが重要な気がするけど、ワークショップのメニューとしてはどうだろう。相手が怖くないものだと認識するには。。。うーん。ここ課題だな。&lt;/p&gt;
+
+&lt;p&gt;相手を成長させようとしてパワハラまがいのことになってしまうのは。。。&lt;br /&gt;
+パワハラまがいの「ご指導」をやってみて、別の建設的なフィードバックと比べて見るとか。リクエストという形式がいいのではと思う。しかも指導者が自分の言葉で言う。&lt;br /&gt;
+「みんなこうやってるからこうしなさい」「普通は君みたいに考えないでしょ」と言いたくなる場合もあるけど、なるべく自分がちゃんとリスクを負って指導に当たれるといいと思う。&lt;br /&gt;
+そのためのトレーニング。。。うーん。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;これからやるべきこと&quot;&gt;これからやるべきこと&lt;/h1&gt;
+
+&lt;p&gt;不明確・不明瞭なところが書いててたくさん出てきた。&lt;br /&gt;
+これを読んだ方、ご意見ご感想をお願いしたい。（と言いつつフォームもないサイトですが。メールアドレスぐらいしか公開されてない。がんばります）&lt;/p&gt;</content><summary type="html">インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。</summary></entry><entry><title type="html">悪役たちの反省会２と綺畸</title><link href="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki.html" rel="alternate" type="text/html" title="悪役たちの反省会２と綺畸" /><published>2018-07-07T20:33:43+09:00</published><updated>2018-07-07T20:33:43+09:00</updated><id>http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki</id><content type="html" xml:base="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/07/07/TeaforTwo_Kiki.html">&lt;p&gt;芝居観て芝居教えて帰るという、ありがたい日でした。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1 id=&quot;悪役たちの反省会&quot;&gt;悪役たちの反省会&lt;/h1&gt;
@@ -262,22 +320,4 @@ http://r.goope.jp/junki/info/1919881</summary></entry><entry><title type="html">
 
 
 
-なんでクラウドファンディング実行委員に？</summary></entry><entry><title type="html">開演時間に間に合わず</title><link href="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/06/14/KeepOut-KomabaShow.html" rel="alternate" type="text/html" title="開演時間に間に合わず" /><published>2018-06-14T10:33:43+09:00</published><updated>2018-06-14T10:33:43+09:00</updated><id>http://localhost:4000/%E6%BC%94%E5%8A%87/2018/06/14/KeepOut-KomabaShow</id><content type="html" xml:base="http://localhost:4000/%E6%BC%94%E5%8A%87/2018/06/14/KeepOut-KomabaShow.html">&lt;p&gt;最近、芝居を見るペースがとても落ちている。
-年間５０〜６０本ぐらい見てた時期もあったが、最近はぜんぜん。
-やっぱり、早く帰って子供を見たい。子供と話したい。&lt;/p&gt;
-
-&lt;p&gt;しかし芝居だって見たい。
-仕事だって追っかけてくる。
-絡みつく仕事をこねてまとめて引き剥がして走り、足首を掴まれ、指を一本一本引き剥がして劇場に走った。
-開演時間を３分過ぎていた。&lt;/p&gt;
-
-&lt;p&gt;「申し訳ありませんが、開演してしまいましたので。。。」&lt;/p&gt;
-
-&lt;p&gt;ノオオオ！&lt;/p&gt;
-
-&lt;p&gt;仕事をしなければよかったとか、そういうことじゃない。
-今日はそういう日だった。&lt;/p&gt;
-
-&lt;p&gt;餃子食って帰りました。&lt;/p&gt;</content><summary type="html">最近、芝居を見るペースがとても落ちている。
-年間５０〜６０本ぐらい見てた時期もあったが、最近はぜんぜん。
-やっぱり、早く帰って子供を見たい。子供と話したい。</summary></entry></feed>
+なんでクラウドファンディング実行委員に？</summary></entry></feed>
