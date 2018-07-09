@@ -4,7 +4,7 @@ title:  "「Yaze Webspace」開設"
 date:   2018-06-13 10:33:43 +0900
 categories: About
 ---
-## 「Yaze Webspace」開設
+#### 「Yaze Webspace」開設
 ブログ開設しました。
 GitHub Pagesというサービスを使って。
 

@@ -1,11 +1,11 @@
-- title: Getting Started
+- title: About this page
   docs:
   - home
-  - themes
-  - customization
-
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+ # - themes
+ # - customization
+#
+#- title: Examples
+ # docs:
+ # - cheatsheet
+ # - font-awesome
+ # - bootstrap
