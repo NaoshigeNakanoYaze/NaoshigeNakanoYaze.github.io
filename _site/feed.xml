@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-09T14:21:37+02:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。中野直重のホームページです。
-</subtitle><entry><title type="html">サイトリニューアル</title><link href="http://localhost:4000/blog/2018/07/09/renewal/" rel="alternate" type="text/html" title="サイトリニューアル" /><published>2018-07-09T00:33:43+02:00</published><updated>2018-07-09T00:33:43+02:00</updated><id>http://localhost:4000/blog/2018/07/09/renewal</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/09/renewal/">&lt;p&gt;リニューアルした！&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-09T21:39:42+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>楽に楽しく聞く話す。中野直重のホームページです。
+</subtitle><entry><title type="html">サイトリニューアル</title><link href="http://localhost:4000/blog/2018/07/09/renewal/" rel="alternate" type="text/html" title="サイトリニューアル" /><published>2018-07-09T07:33:43+09:00</published><updated>2018-07-09T07:33:43+09:00</updated><id>http://localhost:4000/blog/2018/07/09/renewal</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/09/renewal/">&lt;p&gt;リニューアルした！&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;リニューアル前&quot;&gt;リニューアル前&lt;/h3&gt;
 
-&lt;p&gt;とにかく立ち上げる、ということで化粧っ気も何もないけど公開した。&lt;/p&gt;
+&lt;p&gt;とにかく立ち上げる、ということで化粧っ気も何もないけど公開した。&lt;br /&gt;
+そのときの記事は&lt;a href=&quot;/blog/2018/06/13/greetings/&quot;&gt;「Yaze Webspace」開設&lt;/a&gt;参照。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/20180709_01_before.png&quot; alt=&quot;リニューアル前&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
@@ -19,7 +20,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/20180709_02_after.png&quot; alt=&quot;リニューアル後&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;画像が大きく表示されるのをなんとかしたいが、それは後日。。。&lt;/p&gt;</content><author><name></name></author><summary type="html">リニューアルした！</summary></entry><entry><title type="html">パワハラ解消できないかな</title><link href="http://localhost:4000/blog/2018/07/08/harassment/" rel="alternate" type="text/html" title="パワハラ解消できないかな" /><published>2018-07-08T00:33:43+02:00</published><updated>2018-07-08T00:33:43+02:00</updated><id>http://localhost:4000/blog/2018/07/08/harassment</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/08/harassment/">&lt;p&gt;インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。&lt;/p&gt;
+&lt;p&gt;画像が大きく表示されるのをなんとかしたいが、それは後日。。。&lt;/p&gt;</content><author><name></name></author><summary type="html">リニューアルした！</summary></entry><entry><title type="html">パワハラ解消できないかな</title><link href="http://localhost:4000/blog/2018/07/08/harassment/" rel="alternate" type="text/html" title="パワハラ解消できないかな" /><published>2018-07-08T07:33:43+09:00</published><updated>2018-07-08T07:33:43+09:00</updated><id>http://localhost:4000/blog/2018/07/08/harassment</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/08/harassment/">&lt;p&gt;インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;パワハラについて&quot;&gt;パワハラについて&lt;/h3&gt;
@@ -77,7 +78,7 @@
 &lt;h3 id=&quot;これからやるべきこと&quot;&gt;これからやるべきこと&lt;/h3&gt;
 
 &lt;p&gt;不明確・不明瞭なところが書いててたくさん出てきた。&lt;br /&gt;
-これを読んだ方、ご意見ご感想をお願いしたい。（と言いつつフォームもないサイトですが。メールアドレスぐらいしか公開されてない。がんばります）&lt;/p&gt;</content><author><name></name></author><summary type="html">インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。</summary></entry><entry><title type="html">悪役たちの反省会２と綺畸</title><link href="http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki/" rel="alternate" type="text/html" title="悪役たちの反省会２と綺畸" /><published>2018-07-07T13:33:43+02:00</published><updated>2018-07-07T13:33:43+02:00</updated><id>http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki/">&lt;p&gt;芝居観て芝居教えて帰るという、ありがたい日でした。&lt;/p&gt;
+これを読んだ方、ご意見ご感想をお願いしたい。（と言いつつフォームもないサイトですが。メールアドレスぐらいしか公開されてない。がんばります）&lt;/p&gt;</content><author><name></name></author><summary type="html">インプロを使ってコミュニケーショントレーニングを開発してるんですが、目的別でパッケージ用意してもいいかなと思ってきました。いろんなデータは必要になってくるし、開催時のデータを取るためのアンケート運用も考えないといけないけど、思いつきを記しておく。</summary></entry><entry><title type="html">悪役たちの反省会２と綺畸</title><link href="http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki/" rel="alternate" type="text/html" title="悪役たちの反省会２と綺畸" /><published>2018-07-07T20:33:43+09:00</published><updated>2018-07-07T20:33:43+09:00</updated><id>http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/07/TeaforTwo_Kiki/">&lt;p&gt;芝居観て芝居教えて帰るという、ありがたい日でした。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;悪役たちの反省会&quot;&gt;悪役たちの反省会&lt;/h3&gt;
@@ -115,7 +116,7 @@
 &lt;p&gt;私はインプロを経験している身であるため、「エチュード」に重点を置いて恐れ多くもアドバイスしてきた。&lt;br /&gt;
 この刺激が、さらなる学びの意欲をお互いに引き起こせるといいな。　　&lt;/p&gt;
 
-&lt;p&gt;今日もいい日であった。　　　　　 　&lt;/p&gt;</content><author><name></name></author><summary type="html">芝居観て芝居教えて帰るという、ありがたい日でした。</summary></entry><entry><title type="html">悪役たちの反省会</title><link href="http://localhost:4000/blog/2018/07/04/TeaforTwo/" rel="alternate" type="text/html" title="悪役たちの反省会" /><published>2018-07-04T13:33:43+02:00</published><updated>2018-07-04T13:33:43+02:00</updated><id>http://localhost:4000/blog/2018/07/04/TeaforTwo</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/04/TeaforTwo/">&lt;p&gt;空回りしたような、素直なような、そんな日でした。 　&lt;/p&gt;
+&lt;p&gt;今日もいい日であった。　　　　　 　&lt;/p&gt;</content><author><name></name></author><summary type="html">芝居観て芝居教えて帰るという、ありがたい日でした。</summary></entry><entry><title type="html">悪役たちの反省会</title><link href="http://localhost:4000/blog/2018/07/04/TeaforTwo/" rel="alternate" type="text/html" title="悪役たちの反省会" /><published>2018-07-04T20:33:43+09:00</published><updated>2018-07-04T20:33:43+09:00</updated><id>http://localhost:4000/blog/2018/07/04/TeaforTwo</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/04/TeaforTwo/">&lt;p&gt;空回りしたような、素直なような、そんな日でした。 　&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;帰ることの罪悪感&quot;&gt;帰ることの罪悪感&lt;/h3&gt;
@@ -152,7 +153,7 @@
 
 &lt;p&gt;結論、もう一度観る。 　  &lt;br /&gt;
 すごく面白かったから、というわけではない。 　 　　　　 　  &lt;br /&gt;
-義理と責任と成長。 　 　　　　 　&lt;/p&gt;</content><author><name></name></author><summary type="html">空回りしたような、素直なような、そんな日でした。 　</summary></entry><entry><title type="html">一人で舞台をもたせること</title><link href="http://localhost:4000/blog/2018/06/30/AoyamaShokichi/" rel="alternate" type="text/html" title="一人で舞台をもたせること" /><published>2018-06-30T13:33:43+02:00</published><updated>2018-06-30T13:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/30/AoyamaShokichi</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/30/AoyamaShokichi/">&lt;hr /&gt;
+義理と責任と成長。 　 　　　　 　&lt;/p&gt;</content><author><name></name></author><summary type="html">空回りしたような、素直なような、そんな日でした。 　</summary></entry><entry><title type="html">一人で舞台をもたせること</title><link href="http://localhost:4000/blog/2018/06/30/AoyamaShokichi/" rel="alternate" type="text/html" title="一人で舞台をもたせること" /><published>2018-06-30T20:33:43+09:00</published><updated>2018-06-30T20:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/30/AoyamaShokichi</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/30/AoyamaShokichi/">&lt;hr /&gt;
 &lt;h3 id=&quot;春風亭昇吉落語会&quot;&gt;春風亭昇吉落語会&lt;/h3&gt;
 
 &lt;p&gt;隔月で一緒に落語会を運営している昇吉さんのソロ落語会を観てきた。 &lt;br /&gt;
@@ -181,7 +182,7 @@
 &lt;p&gt;たまたま同じ回を見にきていた、カッコエエ役者と飲みに行った。 &lt;br /&gt;
 相変わらずかっこよかった。 &lt;br /&gt;
 持続可能な能力開発をするにはどうすればいいか、その課題は何かということを話した。 &lt;br /&gt;
-今日もいい日であった。&lt;/p&gt;</content><author><name></name></author><summary type="html">春風亭昇吉落語会</summary></entry><entry><title type="html">ワークショップ：コマシバ第三回</title><link href="http://localhost:4000/blog/2018/06/30/Komashiba/" rel="alternate" type="text/html" title="ワークショップ：コマシバ第三回" /><published>2018-06-30T10:33:43+02:00</published><updated>2018-06-30T10:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/30/Komashiba</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/30/Komashiba/">&lt;hr /&gt;
+今日もいい日であった。&lt;/p&gt;</content><author><name></name></author><summary type="html">春風亭昇吉落語会</summary></entry><entry><title type="html">ワークショップ：コマシバ第三回</title><link href="http://localhost:4000/blog/2018/06/30/Komashiba/" rel="alternate" type="text/html" title="ワークショップ：コマシバ第三回" /><published>2018-06-30T17:33:43+09:00</published><updated>2018-06-30T17:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/30/Komashiba</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/30/Komashiba/">&lt;hr /&gt;
 &lt;p&gt;受講者５名でワークショップ講師を務めた。 13時〜17時。&lt;br /&gt;
 目的は即興劇の体験。全員、演劇経験者。  &lt;br /&gt;
 問題意識は「即興は苦手。アイデア出しに詰まると辛い」というものがあった。 &lt;br /&gt;
@@ -190,7 +191,7 @@
 &lt;p&gt;今までに経験したことを総動員して、「共演者を見る」「場所とつながる」というアプローチでアイデア出しの苦しさを感じないようにメニューを組んだ。&lt;br /&gt;
 果たして、みんな効果を感じてくれたようだった。本当にありがたいことである。&lt;/p&gt;
 
-&lt;p&gt;自分で自分の首を絞めるような、他人を困らせるような「泥舟」シーンを量産してきた自分だからこそ身についたTipsをうまく伝えられたように思う。本当にありがたいことである。&lt;/p&gt;</content><author><name></name></author><summary type="html">受講者５名でワークショップ講師を務めた。 13時〜17時。 目的は即興劇の体験。全員、演劇経験者。 問題意識は「即興は苦手。アイデア出しに詰まると辛い」というものがあった。 ということで今日のテーマは「辛くならないインプロ」。 今までに経験したことを総動員して、「共演者を見る」「場所とつながる」というアプローチでアイデア出しの苦しさを感じないようにメニューを組んだ。 果たして、みんな効果を感じてくれたようだった。本当にありがたいことである。 自分で自分の首を絞めるような、他人を困らせるような「泥舟」シーンを量産してきた自分だからこそ身についたTipsをうまく伝えられたように思う。本当にありがたいことである。</summary></entry><entry><title type="html">学生シアタースポーツに出よう！</title><link href="http://localhost:4000/blog/2018/06/29/TheatreSports_Students/" rel="alternate" type="text/html" title="学生シアタースポーツに出よう！" /><published>2018-06-29T03:33:43+02:00</published><updated>2018-06-29T03:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/29/TheatreSports_Students</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/29/TheatreSports_Students/">&lt;hr /&gt;
+&lt;p&gt;自分で自分の首を絞めるような、他人を困らせるような「泥舟」シーンを量産してきた自分だからこそ身についたTipsをうまく伝えられたように思う。本当にありがたいことである。&lt;/p&gt;</content><author><name></name></author><summary type="html">受講者５名でワークショップ講師を務めた。 13時〜17時。 目的は即興劇の体験。全員、演劇経験者。 問題意識は「即興は苦手。アイデア出しに詰まると辛い」というものがあった。 ということで今日のテーマは「辛くならないインプロ」。 今までに経験したことを総動員して、「共演者を見る」「場所とつながる」というアプローチでアイデア出しの苦しさを感じないようにメニューを組んだ。 果たして、みんな効果を感じてくれたようだった。本当にありがたいことである。 自分で自分の首を絞めるような、他人を困らせるような「泥舟」シーンを量産してきた自分だからこそ身についたTipsをうまく伝えられたように思う。本当にありがたいことである。</summary></entry><entry><title type="html">学生シアタースポーツに出よう！</title><link href="http://localhost:4000/blog/2018/06/29/TheatreSports_Students/" rel="alternate" type="text/html" title="学生シアタースポーツに出よう！" /><published>2018-06-29T10:33:43+09:00</published><updated>2018-06-29T10:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/29/TheatreSports_Students</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/29/TheatreSports_Students/">&lt;hr /&gt;
 &lt;h3 id=&quot;学生シアタースポーツを盛り上げたく思ってます&quot;&gt;学生シアタースポーツを盛り上げたく思ってます！&lt;/h3&gt;
 
 &lt;p&gt;学生シアタースポーツという企画に関わってます。 
@@ -243,7 +244,7 @@ Platformをぜひ利用していただきたい。&lt;/p&gt;
 
 &lt;p&gt;学生の皆様、この機会をぜひ利用してください。私が受けた限りの演劇の学校、劇団の研修所などで行われているワークショップの中で、もっとも高品質でもっとも低価格（無料なんで）で、もっとも低リスクなものです。Platformが少しずつ大きな劇団になってきたことによって、こんなボランティア色の強いものができるようになったのでしょう。それでもすごい決断です。これで学生が集まらなかったら、この企画がなくなるかもしれません。&lt;/p&gt;
 
-&lt;p&gt;嘘なく言います。この機会、お見逃しなく。&lt;/p&gt;</content><author><name></name></author><summary type="html">学生シアタースポーツを盛り上げたく思ってます！</summary></entry><entry><title type="html">Happy新作落語会</title><link href="http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai/" rel="alternate" type="text/html" title="Happy新作落語会" /><published>2018-06-25T13:33:43+02:00</published><updated>2018-06-25T13:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai/">&lt;hr /&gt;
+&lt;p&gt;嘘なく言います。この機会、お見逃しなく。&lt;/p&gt;</content><author><name></name></author><summary type="html">学生シアタースポーツを盛り上げたく思ってます！</summary></entry><entry><title type="html">Happy新作落語会</title><link href="http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai/" rel="alternate" type="text/html" title="Happy新作落語会" /><published>2018-06-25T20:33:43+09:00</published><updated>2018-06-25T20:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/25/HappyShinsakuRakugokai/">&lt;hr /&gt;
 
 &lt;p&gt;Happy新作落語会でした。 &lt;br /&gt;
 今回は花いちさんお休み。 &lt;br /&gt;
@@ -258,7 +259,7 @@ Platformをぜひ利用していただきたい。&lt;/p&gt;
 昇吉さんのお知り合いの店。 &lt;br /&gt;
 5リットルのビールを40分で5人で飲んだ。&lt;/p&gt;
 
-&lt;p&gt;とてもいい日であった。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">即興激闘に出た</title><link href="http://localhost:4000/blog/2018/06/17/AfterImproBattle/" rel="alternate" type="text/html" title="即興激闘に出た" /><published>2018-06-17T15:33:43+02:00</published><updated>2018-06-17T15:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/17/AfterImproBattle</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/17/AfterImproBattle/">&lt;hr /&gt;
+&lt;p&gt;とてもいい日であった。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">即興激闘に出た</title><link href="http://localhost:4000/blog/2018/06/17/AfterImproBattle/" rel="alternate" type="text/html" title="即興激闘に出た" /><published>2018-06-17T22:33:43+09:00</published><updated>2018-06-17T22:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/17/AfterImproBattle</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/17/AfterImproBattle/">&lt;hr /&gt;
 &lt;h3 id=&quot;即興激闘&quot;&gt;即興激闘&lt;/h3&gt;
 &lt;p&gt;http://r.goope.jp/junki/info/1919881&lt;/p&gt;
 
@@ -285,7 +286,7 @@ Platformをぜひ利用していただきたい。&lt;/p&gt;
 
 &lt;p&gt;ものの２０分の全開の演技で体が耐えられなかった。喉は枯れる。思考は隙間だらけ。その中で臨んだ準決勝は、爆発力を欠いたものだったように思う。ただ、落ち着いてはいた。チームメイトが頼りになるので、何か隙間が発生しても慌てて自分で埋める必要はないなと思った。ありがたかった。&lt;/p&gt;
 
-&lt;p&gt;しかしそれでは勝てなかった。海原優騎の一人芝居は圧巻だった。体力が持ったとしても勝てたかどうか分からない。でも全力全開で戦えなかったというのは非常に悔しい。即興激闘、参加して良かった。悔しさで自分の課題が体に刻み付けられた。また次回。&lt;/p&gt;</content><author><name></name></author><summary type="html">即興激闘 http://r.goope.jp/junki/info/1919881</summary></entry><entry><title type="html">即興激闘に出る</title><link href="http://localhost:4000/blog/2018/06/17/BeforeImproBattle/" rel="alternate" type="text/html" title="即興激闘に出る" /><published>2018-06-17T03:33:43+02:00</published><updated>2018-06-17T03:33:43+02:00</updated><id>http://localhost:4000/blog/2018/06/17/BeforeImproBattle</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/17/BeforeImproBattle/">&lt;hr /&gt;
+&lt;p&gt;しかしそれでは勝てなかった。海原優騎の一人芝居は圧巻だった。体力が持ったとしても勝てたかどうか分からない。でも全力全開で戦えなかったというのは非常に悔しい。即興激闘、参加して良かった。悔しさで自分の課題が体に刻み付けられた。また次回。&lt;/p&gt;</content><author><name></name></author><summary type="html">即興激闘 http://r.goope.jp/junki/info/1919881</summary></entry><entry><title type="html">即興激闘に出る</title><link href="http://localhost:4000/blog/2018/06/17/BeforeImproBattle/" rel="alternate" type="text/html" title="即興激闘に出る" /><published>2018-06-17T10:33:43+09:00</published><updated>2018-06-17T10:33:43+09:00</updated><id>http://localhost:4000/blog/2018/06/17/BeforeImproBattle</id><content type="html" xml:base="http://localhost:4000/blog/2018/06/17/BeforeImproBattle/">&lt;hr /&gt;
 &lt;h3 id=&quot;即興激闘&quot;&gt;即興激闘&lt;/h3&gt;
 &lt;p&gt;http://r.goope.jp/junki/info/1919881&lt;/p&gt;
 
