@@ -11,6 +11,7 @@ categories: Blog
 ### リニューアル前
 
 とにかく立ち上げる、ということで化粧っ気も何もないけど公開した。  
+そのときの記事は[Jekyll Doc Theme]({{site.baseurl}}/blog/2018/06/13/greetings/)参照。
 
 ![リニューアル前]({{site.baseurl}}/img/20180709_01_before.png){: .img-responsive}
 
