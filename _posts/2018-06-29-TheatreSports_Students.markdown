@@ -10,7 +10,7 @@ categories: 演劇
 学生シアタースポーツという企画に関わってます。 
 経緯は次の記事をご参照。 
 
-[クラウドファンディングご協力のお願い](https://naoshigenakanoyaze.github.io/%E6%BC%94%E5%8A%87/2018/06/15/CloudFunding.html)　
+[クラウドファンディングご協力のお願い](https://naoshigenakanoyaze.github.io/Blog/2018/06/15/CloudFunding.html)　
  
  で、クラウドファンディングもそうなんですが、学生に出演して欲しい！ というのがこの記事の主旨です。 
  昨年もFacebookにオススメの記事を書いたのですが、その気持ちが変わってませんのでここに再掲します。 
