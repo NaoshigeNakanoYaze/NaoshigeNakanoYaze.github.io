@@ -9,7 +9,7 @@ categories: Blog
 自分が実行委員になっていなくて支援するなら、という立場で考えてみた。  
 クラウドファンディングについては次の記事をご参照。  
 
-[クラウドファンディングご協力のお願い](https://naoshigenakanoyaze.github.io/Blog/2018/06/15/CloudFunding.html)　
+[クラウドファンディングご協力のお願い](https://naoshigenakanoyaze.github.io/blog/2018/06/15/CloudFunding/)　
 
 ### 3000円
 リターン内容は、
