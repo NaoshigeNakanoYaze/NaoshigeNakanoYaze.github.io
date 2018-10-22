@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "とある鰈℃ scope"
+title:  "scope"
 date:   2018-10-20 07:33:43 +0900
 categories: Blog
 ---
