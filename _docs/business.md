@@ -1,5 +1,5 @@
 ---
-title: Business：中野直重興業
+title: Business
 permalink: /docs/business/
 redirect_from: /docs/business.html
 ---
