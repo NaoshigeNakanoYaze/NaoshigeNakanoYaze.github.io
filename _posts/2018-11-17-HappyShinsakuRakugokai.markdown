@@ -31,7 +31,7 @@ Happy新作落語会、というものを隔月でやっています。
 
 #### 場所  
 両国亭  
-http://www.ntgp.co.jp/engei/ryougoku/index.html
+[http://www.ntgp.co.jp/engei/ryougoku/index.html](http://www.ntgp.co.jp/engei/ryougoku/index.html)
 
 
 #### 料金  
