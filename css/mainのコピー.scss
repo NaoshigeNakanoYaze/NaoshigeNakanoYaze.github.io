@@ -33,15 +33,10 @@ body {
 
 img {
 max-width: 60%;
-border: 0;
+border: 2px solid #eee;
 }
 
 img-responsive {
-max-width: 60%;
-border: 0;
-}
-
-img-responsive-border {
 max-width: 60%;
 border: 2px solid #eee;
 }
@@ -53,8 +48,6 @@ border: 2px solid #eee;
     padding: 10px 0;
   }
 }
-
-
 
 
 .header-container {

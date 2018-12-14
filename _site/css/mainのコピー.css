@@ -653,7 +653,7 @@ img { vertical-align: middle; }
 
 .img-rounded { border-radius: 3px; }
 
-.img-thumbnail { padding: 4px; line-height: 1.846; background-color: #fff; border: 0; border-radius: 3px; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; display: inline-block; max-width: 100%; height: auto; }
+.img-thumbnail { padding: 4px; line-height: 1.846; background-color: #fff; border: 1px solid #ddd; border-radius: 3px; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; display: inline-block; max-width: 100%; height: auto; }
 
 .img-circle { border-radius: 50%; }
 
@@ -2447,9 +2447,9 @@ html { position: relative; min-height: 100%; }
 
 body { padding-top: 87px; margin-bottom: 46px; }
 
-img { max-width: 60%; border: 0px solid #eee; }
+img { max-width: 60%; border: 2px solid #eee; }
 
-img-responsive { max-width: 60%; border: 0px solid #eee; }
+img-responsive { max-width: 60%; border: 2px solid #eee; }
 
 .navbar-brand img { margin: -20.5px 0; height: 64px; padding: 10px 0; }
 
