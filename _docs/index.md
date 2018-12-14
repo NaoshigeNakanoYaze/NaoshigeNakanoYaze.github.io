@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-
+![中野直重]({{site.baseurl}}/img/nakanonaoshige.JPG){: .img-responsive}
 ### 中野直重
 
 中野直重といいます。芸名です。  

@@ -4,6 +4,8 @@ permalink: /docs/business/
 redirect_from: /docs/business.html
 ---
 
+![ロゴ]({{site.baseurl}}/img/logo_01.png){: .img-responsive}
+
 個人事業主として開業しております。  
 ２０１８年８月１日開業、８月２４日に税務署からOKが出ました。  
 **演劇・インプロの振興、社会との融合** をテーマに活動しております。  
