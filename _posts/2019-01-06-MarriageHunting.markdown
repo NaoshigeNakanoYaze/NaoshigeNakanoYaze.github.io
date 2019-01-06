@@ -29,3 +29,5 @@ Toastmasters（スピーチクラブ）で、忙しい先輩方が入念に準�
 
 [イベント詳細・申し込み（Peatix）はこちら](https://impro-konkatsu.peatix.com/?fbclid=IwAR2PRYFWO0nAFSVUmACiT9StylHvBfFVEIoZ4hrk10BGarGyo6mByYXPzVg)
 
+
+![イベント画像]({{site.baseurl}}/img/20190106_01.jpeg){: .img-responsive-border}  
