@@ -9,7 +9,7 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20190316_02.jpg){: .img-responsive-border} 
 
-([CRファクトリー](https://crfactory.com/4817/)より引用)
+(画像は[CRファクトリー](https://crfactory.com/4817/)より引用)
 
 コミュニティフォーラム、出席してきた。
 
