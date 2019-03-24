@@ -5,6 +5,12 @@ date:   2019-03-15 07:33:43 +0900
 categories: Blog
 ---
 
+![IMG]({{site.baseurl}}/img/20190316_01.png){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20190316_02.jpg){: .img-responsive-border} 
+
+([CRファクトリー](https://crfactory.com/4817/)より引用)
+
 コミュニティフォーラム、出席してきた。
 
 子育て、教育、幸福それぞれのテーマに対して、コミュニティという軸でプレゼンテーションとパネルディスカッションが挟まれる形式。
