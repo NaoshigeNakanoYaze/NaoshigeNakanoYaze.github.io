@@ -7,7 +7,7 @@ categories: Blog
 
 
 
-![IMG]({{site.baseurl}}/img/20190326_01.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20190326_01.JPG){: .img-responsive-border} 
 
 
 [次回公演]({{site.baseurl}}/blog/2019/02/27/ShuumatsunoYotei/)の役名。風祭自由（かざまつり　じゆう）。職業、弁護士。  
@@ -101,4 +101,4 @@ ESSなので、英語でやる。
 まずはおいしいものを飲んだ。
 
 
-![IMG]({{site.baseurl}}/img/20190326_02.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20190326_02.JPG){: .img-responsive-border} 
