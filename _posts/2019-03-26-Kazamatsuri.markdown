@@ -5,8 +5,9 @@ date:   2019-03-26 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/20190326_01.jpg){: .img-responsive-border} 
 
+
+![IMG]({{site.baseurl}}/img/20190326_01.jpg){: .img-responsive-border} 
 
 
 [次回公演]({{site.baseurl}}/blog/2019/02/27/ShuumatsunoYotei/)の役名。風祭自由（かざまつり　じゆう）。職業、弁護士。  
