@@ -88,6 +88,8 @@ redirect_from: /docs/business.html
 ![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
 
 <a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
+
+---
 ## お問い合わせ
 フォームなどを後ほど用意しますが、まずは下記メールアドレスにご連絡ください。
 
