@@ -8,7 +8,7 @@ categories: Blog
 
 
 
-![中野宣伝画像]({{site.baseurl}}/img/20190413_01.JPG){: .img-responsive-border} 
+![中野宣伝画像]({{site.baseurl}}/img/20190413_01.jpg){: .img-responsive-border} 
 
 弁護士役です。  
 ちゃんとこういうキャラクタービジュアルを作るという、発信力がすごい団体にいるなあと思います。
