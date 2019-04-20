@@ -6,7 +6,7 @@ categories: Blog
 ---
 
 
-![フライヤー画像]({{site.baseurl}}/img/20190420_01.png){: .img-responsive-border} 
+![フライヤー画像]({{site.baseurl}}/img/20190420_01.jpg){: .img-responsive-border} 
 
 (写真は稽古場でのもの。世界で二人生き残って、錯乱し、もう一人に「おまえのせいでこうなった！」と言う様)
 
