@@ -81,7 +81,15 @@ redirect_from: /docs/business.html
 
 
 ---
-## LINE@
+## SNS
+
+### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### LINE@
+
 サービス内容や記事の更新について通知します。
 ご登録よろしくお願いします。
 
