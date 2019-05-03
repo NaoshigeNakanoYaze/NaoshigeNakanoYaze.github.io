@@ -1,5 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-02T12:39:17+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
-</subtitle><entry><title type="html">「シュウマツの予定」開演しました</title><link href="http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei/" rel="alternate" type="text/html" title="「シュウマツの予定」開演しました" /><published>2019-05-02T07:33:43+09:00</published><updated>2019-05-02T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei/">&lt;p&gt;&lt;img src=&quot;/img/20190502_01.jpg&quot; alt=&quot;シーンの三人&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-03T11:06:49+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
+</subtitle><entry><title type="html">なぜこんなにもよい芝居をするのか</title><link href="http://localhost:4000/blog/2019/05/03/TheatreCompany/" rel="alternate" type="text/html" title="なぜこんなにもよい芝居をするのか" /><published>2019-05-03T07:33:43+09:00</published><updated>2019-05-03T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/05/03/TheatreCompany</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/03/TheatreCompany/">&lt;p&gt;いままで自分が出た芝居、関わった芝居、いい芝居ばかりしてきたように思う。&lt;br /&gt;
+自分が関わるからにはよいものにしようと思ってきたというのもあるが、劇団としておもしろい要素がそれぞれにある気がする。&lt;br /&gt;
+ざっと振り返ってみよう。参加順。&lt;/p&gt;
+
+&lt;p&gt;あと、出演履歴を&lt;a href=&quot;/docs/history/&quot;&gt;Historyページ&lt;/a&gt;に追加しました。&lt;br /&gt;
+抜けているものもあるので、随時追加していきます。&lt;/p&gt;
+
+&lt;h3 id=&quot;劇団だるい&quot;&gt;劇団だるい&lt;/h3&gt;
+
+&lt;p&gt;後述する「正直者達」との共通点でもあるが、効率と新規性。&lt;br /&gt;
+主体がオフィスワーク系の会社員たちなので、オフィス系のスキルが高い。&lt;br /&gt;
+なので指示連絡、情報整理、優先順位づけなどが得意だし、共有も早い。&lt;br /&gt;
+稽古時間は、学生の頃と比較すると圧倒的に少ない。効率化しないと幕があかない。&lt;br /&gt;
+そして、自分たちがどこかで観たようなものは基本的にやらない。新しくてワクワクするものに絞る。&lt;br /&gt;
+なんだか笑いが取れそう、ということでいくつも書いていくけど、だいたい「これほんとにやりたい？」というチェックが入り、消えていくことになる。&lt;br /&gt;
+絞り込まれた、その時点でもっとも表現したいことが、コントになる。&lt;/p&gt;
+
+&lt;p&gt;劇団だるいはポートフォリオを組むのがうまい。&lt;br /&gt;
+短編、コントが主体なので、どう組み合わせると最大の効果が出てもっとも笑えるか、をよく考える。(「構成会議」と呼んでいた)&lt;/p&gt;
+
+&lt;p&gt;あとは、幸せな結末を、明日からがんばっていこう、みたいな感じを大切にしている。&lt;/p&gt;
+
+&lt;h3 id=&quot;正直者達&quot;&gt;正直者達&lt;/h3&gt;
+
+&lt;p&gt;うってかわってこちらは「後味の悪さ」。&lt;br /&gt;
+スカッとして帰らせることはしない。&lt;br /&gt;
+主宰佐溝の「おもしろいことをやろう」という思いと、ひねくれたというか妬み嫉みというか、そんなものがミックスされて気持ちが悪いものができあがっていく。&lt;br /&gt;
+だからこそ深みのあるおもしろさが生まれるんだと思う。&lt;/p&gt;
+
+&lt;p&gt;劇団だるい、正直者達、後述のダブルデックはすべて学生団体からの成長。&lt;br /&gt;
+ホーム感があるし、お互いの特色や歴史をよくわかっているので、コミュニケーションコストが低い。&lt;br /&gt;
+阿吽の呼吸、みたいなものが起こりやすい。&lt;/p&gt;
+
+&lt;h3 id=&quot;ダブルデック&quot;&gt;ダブルデック&lt;/h3&gt;
+
+&lt;p&gt;１度だけ出演したことがあるが、これは体力勝負。&lt;br /&gt;
+とにかく動く。&lt;br /&gt;
+あまりにも過酷な動作を要求され、毎回立ちくらみをシーン中に起こすために、演出の変更をお願いしてしまうという悲しいことをしてしまった。&lt;br /&gt;
+動くから、「演じる」より先に「動き」「ショー」みたいな要素が大きくなる。&lt;br /&gt;
+なので、観ててスカッとする。&lt;/p&gt;
+
+&lt;p&gt;笑いのセンスも親しみやすいものが多く、置いてけぼりにされることは、、、あるけど、演者が楽しそうにやっているのでたとえ置いてけぼりにされても微笑ましくなる。&lt;/p&gt;
+
+&lt;p&gt;あとは主宰の牽引力。&lt;br /&gt;
+なんでかわからないが、ついていきたくなる、こちらに圧のない覇王色みたいなものがある。&lt;/p&gt;
+
+&lt;h3 id=&quot;platform&quot;&gt;Platform&lt;/h3&gt;
+
+&lt;p&gt;そしていままさに本番中のPlatform。&lt;br /&gt;
+即興技術がまっさきに思い浮かぶ。&lt;br /&gt;
+年がら年中即興の稽古・本番をやっている人たちなので、技術力がむちゃくちゃ高い。&lt;/p&gt;
+
+&lt;p&gt;そして、チームビルディング能力。&lt;br /&gt;
+落ち込むこともあるが、それを個人の問題として片付けず、全員で聞き、薄め、あるいは解決し、先に進む。&lt;br /&gt;
+このチームビルディング能力がお互いの信頼感を生み出し、いい状態での稽古・本番を迎えられるようにしている。&lt;/p&gt;
+
+&lt;p&gt;実際、雰囲気が悪くなったときの対処がすごい。&lt;br /&gt;
+うるせえ黙れお前のせいだろ、とはならない。&lt;br /&gt;
+なので、調子が悪いことを安心して共有できる。共有すると薄まって楽になる。&lt;br /&gt;
+ナアナアになりやすくなるかもしれないが、自発的なエネルギーを最大限に利用できる雰囲気になる。&lt;/p&gt;
+
+&lt;p&gt;だから心地よく続けられるのだと思う。&lt;/p&gt;
+
+&lt;h3 id=&quot;そして次は&quot;&gt;そして次は、、、&lt;/h3&gt;
+
+&lt;p&gt;何かしら、団体をうまくいかせるためのテクニックはあるんだろう。&lt;br /&gt;
+テクニックと、思いと、そのあたりを大切に。&lt;/p&gt;</content><author><name></name></author><summary type="html">いままで自分が出た芝居、関わった芝居、いい芝居ばかりしてきたように思う。 自分が関わるからにはよいものにしようと思ってきたというのもあるが、劇団としておもしろい要素がそれぞれにある気がする。 ざっと振り返ってみよう。参加順。</summary></entry><entry><title type="html">「シュウマツの予定」開演しました</title><link href="http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei/" rel="alternate" type="text/html" title="「シュウマツの予定」開演しました" /><published>2019-05-02T07:33:43+09:00</published><updated>2019-05-02T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/02/ShuumatsunoYotei/">&lt;p&gt;&lt;img src=&quot;/img/20190502_01.jpg&quot; alt=&quot;シーンの三人&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;(写真は、今日の自分のシーンに関わったお二人と私)&lt;/p&gt;
 
@@ -766,77 +832,4 @@ ESSなので、英語でやる。&lt;br /&gt;
 
 &lt;p&gt;帰りの電車ぐらい、休むか、、、&lt;/p&gt;
 
-&lt;p&gt;ああ。&lt;/p&gt;</content><author><name></name></author><summary type="html">PMP落ちた！</summary></entry><entry><title type="html">観劇：Vote Show、そして能力の話</title><link href="http://localhost:4000/blog/2019/03/14/VoteShowAndAbility/" rel="alternate" type="text/html" title="観劇：Vote Show、そして能力の話" /><published>2019-03-14T07:33:43+09:00</published><updated>2019-03-14T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/03/14/VoteShowAndAbility</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/14/VoteShowAndAbility/">&lt;p&gt;今日はウルトラCな日だった。&lt;br /&gt;
-予定よりかなりオーバーして仕事をし(そして終わってない。なんとかする)、子供をギリギリで迎えに行って習い事に送り、折込チラシを持ち、補助チラシを道すがら設計し、印刷し、折り込み、観劇。綱渡りな日だった。（折り込みは遅刻、観劇もギリギリ。申し訳なかった）&lt;br /&gt;
-本当は今から明日のPMP受験のための勉強なのだが、今日しか感想書けないと思う。書く。&lt;/p&gt;
-
-&lt;h3 id=&quot;観劇の感想&quot;&gt;観劇の感想&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://plafovote.amebaownd.com/&quot;&gt;Vote Show-サナトリウム-&lt;/a&gt;　＠下北沢亭 を観た。&lt;br /&gt;
-おもしろかった。&lt;/p&gt;
-
-&lt;p&gt;(ネタバレはしないようにしましたが、ネタバレを回避したい方は読まれないようお願いします)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;このシステムの芝居は何度か観たことがあるが、以前はシステム自体はそんなに楽しめなかった。&lt;br /&gt;
-というのも、ゲームを見ればいいのかドラマを見ればいいのかよくわからなくなってしまうから。&lt;br /&gt;
-どちらも楽しめる、というのがきっといいところなんだろうけど、そこまで器用に観られなかった。&lt;br /&gt;
-推理系がそんなに得意でないので、そもそも自分はターゲットのど真ん中にはいないんだろうけど。&lt;/p&gt;
-
-&lt;p&gt;今回は、ゲームがドラマの一部となっていて観やすかった。&lt;br /&gt;
-「みんなどうせ近いうちに死ぬ」という人ばかり集まったサナトリウムで、「ゲームをクリアできたらどんな願いでも叶う」という触れ込みでゲームが始まる。&lt;br /&gt;
-登場人物が必死になる理由がよくわかる。&lt;br /&gt;
-それぞれの登場人物の関係性にも因縁をいろいろ付けていて、感情が動くように設計されている。&lt;br /&gt;
-その因縁がこちらにも伝わると、こちらの感情も動く。&lt;br /&gt;
-ドラマがちゃんと入って来て、かつゲームにも感情移入できた。&lt;/p&gt;
-
-&lt;p&gt;システム上、どうしても感情を積み上げる時間が少なく、大きく感情が動くに足る積み重ねが舞台上で起こりにくそうだな、とは思った。&lt;br /&gt;
-そこを因縁でカバーするというプランなのか、確かに何らかの補助が必要だなと思った。&lt;/p&gt;
-
-&lt;p&gt;必死の中に、プレイヤー同士の遊び心が見えるところもあって、楽しめた。&lt;br /&gt;
-自分も即興をやるので他人事ではないんだけれど、即興でこんなにできるっていうのは、本当にびっくり人間たちだなと思う。すごい能力だなと思う。&lt;/p&gt;
-
-&lt;h3 id=&quot;能力についてだらだらと&quot;&gt;「能力」についてだらだらと&lt;/h3&gt;
-
-&lt;p&gt;(まとまらないまま公開してます。読みづらいです)&lt;/p&gt;
-
-&lt;p&gt;教員の人と話をすることが増えた中で、教員の能力とは何だろう、という疑問が湧くようになった。&lt;br /&gt;
-何をやればすごい教員となるのだろう。どんな指標があるのだろう。&lt;br /&gt;
-セールスであれば売り上げ、経営者であれば利益、エンジニアであれば品質や生産性、など。&lt;br /&gt;
-ただ、生産性のすごく高い人がとんでもないパワハラを常態化させていて、トータルで見ると困ってしまうということもあるだろうから、能力指標をクリアしたからといって即座にスゲーとは言えないところもあるだろう。&lt;/p&gt;
-
-&lt;p&gt;今日見た即興の能力、というのは、能力そのものの測定がすごくしづらい。&lt;br /&gt;
-すげえな、と思うが、どう測定していいかわからない。&lt;br /&gt;
-だから基準も作りづらいし、インセンティブも定義が難しい。&lt;/p&gt;
-
-&lt;p&gt;100メートルを9秒台で走れる、４桁の掛け算を暗算でできる、相手にYesと100％言わせる、などなど、いろんな能力がある。&lt;br /&gt;
-明日の自分のPMPも、資格になっているということで、取るとプロジェクトマネジメントの知識があるとみなされる。間接的に能力の足しになる。勉強せな。&lt;/p&gt;
-
-&lt;p&gt;仕事してて、演劇してて、自分の能力とは何だろうと思う。&lt;br /&gt;
-捻ればいくらでも思いつくが、「こういう能力があります！」と公言するのはけっこう苦労する。&lt;br /&gt;
-自分で、ホンマか？ と突っ込んでしまうからである。&lt;/p&gt;
-
-&lt;p&gt;たとえば、プログラミングの経験はトータル７年ぐらいあるけど、「自分にはプログラミングの能力があります！」と言うと、&lt;a href=&quot;https://naoshigenakanoyaze.github.io/blog/2019/03/13/USA/&quot;&gt;先日カラオケした&lt;/a&gt;人たちの中では最下位な自信があるので、あんまり自信がない。&lt;br /&gt;
-劇団だるいや正直者達でいい芝居をした自信はあるし、いい台本、いい演出、いい運営をできた自信もある。もっとすごいことをしているなと思う人はいくらでもいる。それをどう「能力」と言うのか。&lt;/p&gt;
-
-&lt;p&gt;能力があれば誰のどういう役に立つのか、他人がどう嬉しいのか。&lt;br /&gt;
-かといって、そればっかり考えているとしんどくて何も勉強したくなくなる。&lt;br /&gt;
-かといって、自分の楽なほうにどんどん行くと、だいぶ怠惰な感じになってくる。&lt;/p&gt;
-
-&lt;p&gt;能力とは何か。&lt;br /&gt;
-能力をどう伸ばせば誰がどううれしいのか。&lt;br /&gt;
-これ、誰かがうれしいと言ってくれた方がやりやすい。&lt;br /&gt;
-だから、会社が奨励する資格を取ると会社から補助金とかがが出るわけだ。&lt;/p&gt;
-
-&lt;p&gt;役者としての能力、これってどういう扱いになるんだろう。&lt;br /&gt;
-自分が納得できるかどうか、という側面がすごく強い気がする。&lt;br /&gt;
-もちろん観客の評価も大きな要素ではあるけれど。&lt;/p&gt;
-
-&lt;p&gt;「表現」の比率があるもの、人間の感情が扱われるもの、そういうものは能力として定義しづらいのだろう。&lt;br /&gt;
-だからインセンティブも付けづらい。&lt;/p&gt;
-
-&lt;p&gt;EQに可能性があるかも、とは思っている。&lt;br /&gt;
-質的研究なのかもしれない。&lt;br /&gt;
-でも、即興の能力を何らかの数値で表したいなあ。&lt;br /&gt;
-すごいなと思う人を、すごいだろと言いたい。勝手に言えばいいんだけど。&lt;/p&gt;</content><author><name></name></author><summary type="html">今日はウルトラCな日だった。 予定よりかなりオーバーして仕事をし(そして終わってない。なんとかする)、子供をギリギリで迎えに行って習い事に送り、折込チラシを持ち、補助チラシを道すがら設計し、印刷し、折り込み、観劇。綱渡りな日だった。（折り込みは遅刻、観劇もギリギリ。申し訳なかった） 本当は今から明日のPMP受験のための勉強なのだが、今日しか感想書けないと思う。書く。</summary></entry></feed>
+&lt;p&gt;ああ。&lt;/p&gt;</content><author><name></name></author><summary type="html">PMP落ちた！</summary></entry></feed>
