@@ -46,10 +46,6 @@ Twitter、Facebookで仲間集めをしたところ、三人が名乗りを上�
 参加者みんなでの打ち上げの足しにしました！  
 
 
-[アガリ]({{site.baseurl}}/img/20190503_04.JPG){: .img-responsive-border} 
+![アガリ]({{site.baseurl}}/img/20190503_04.JPG){: .img-responsive-border} 
 
-[参加者みんな]({{site.baseurl}}/img/20190503_05.jpg){: .img-responsive-border} 
-
-[演技風景]({{site.baseurl}}/img/20190503_06.jpg){: .img-responsive-border} 
-
-[演技風景]({{site.baseurl}}/img/20190503_07.JPG){: .img-responsive-border} 
+![演技風景]({{site.baseurl}}/img/20190503_07.JPG){: .img-responsive-border} 
