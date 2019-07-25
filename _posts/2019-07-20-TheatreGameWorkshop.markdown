@@ -47,6 +47,6 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20190720_09.JPG){: .img-responsive-border} 
 
-![IMG]({{site.baseurl}}/img/20190720_10.JPG){: .img-responsive-border} 
+
 
 
