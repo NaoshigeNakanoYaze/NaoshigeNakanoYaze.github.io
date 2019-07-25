@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-25T21:58:16+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-26T06:55:51+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
 </subtitle><entry><title type="html">落語会、落語、やります。7月25日</title><link href="http://localhost:4000/blog/2019/07/25/HappyShinsakuRakugokai/" rel="alternate" type="text/html" title="落語会、落語、やります。7月25日" /><published>2019-07-25T07:33:43+09:00</published><updated>2019-07-25T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/07/25/HappyShinsakuRakugokai</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/25/HappyShinsakuRakugokai/">&lt;p&gt;もう明日の話ですが、落語会やります。 
 インプロと落語の融合、ということでいろいろやってきました。 
 私はインプロ担当として舞台に出ていたわけですが、今回、なんと落語をやることになりました。&lt;/p&gt;
@@ -30,36 +30,24 @@
 おかげさまで１２名の方々にご参加いただき、シアターゲーム体験会を開きました。&lt;br /&gt;
 さっそく、公開OKをいただいたご感想の一部を掲載します。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;「よかったところ」「身についたこと」など&lt;/th&gt;
-      &lt;th&gt;「よくなかったところ」&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(回答なし)&lt;/td&gt;
-      &lt;td&gt;実技が短すぎた&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;演技ではない素の感情表現の面白さを実感できた。間違えていい・間違いが面白い、という場は実生活ではなかなか無く、新鮮で素敵だった。&lt;/td&gt;
-      &lt;td&gt;参加料が高すぎた&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;そこが安全な場であるということをみんなが分かっているところがよかった&lt;/td&gt;
-      &lt;td&gt;(回答なし)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;楽しい雰囲気だったのが良かった。自己表現は苦手ですが、自分を知る事や出す練習になったかと思います。&lt;/td&gt;
-      &lt;td&gt;会場が暑かった&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;さまざまな背景の方と会えたこと&lt;/td&gt;
-      &lt;td&gt;(回答なし)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h4 id=&quot;よかったところ身についたことなど&quot;&gt;「よかったところ」「身についたこと」など&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;演技ではない素の感情表現の面白さを実感できた。間違えていい・間違いが面白い、という場は実生活ではなかなか無く、新鮮で素敵だった。&lt;/li&gt;
+  &lt;li&gt;そこが安全な場であるということをみんなが分かっているところがよかった&lt;/li&gt;
+  &lt;li&gt;楽しい雰囲気だったのが良かった。自己表現は苦手ですが、自分を知る事や出す練習になったかと思います。&lt;/li&gt;
+  &lt;li&gt;さまざまな背景の方と会えたこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;よくなかったところ&quot;&gt;「よくなかったところ」&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;実技が短すぎた&lt;/li&gt;
+  &lt;li&gt;参加料が高すぎた&lt;/li&gt;
+  &lt;li&gt;会場が暑かった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ご意見いただいて思ったこと&quot;&gt;ご意見いただいて思ったこと&lt;/h4&gt;
 
 &lt;p&gt;ありがたいコメントばかりです。「よくなかったところ」も、真摯に受け止め、今後に活かしていきます。&lt;/p&gt;
 
@@ -67,8 +55,8 @@
 (後片付けを参加者の方が率先してやってくださったので任せてしまいましたが、、、いいんだろうか)&lt;br /&gt;
 反面、即興劇をやることによって、何がどう良くなるのか、いま何ができたのか、そういうことの言語化に改善の余地があると思いました。&lt;/p&gt;
 
-&lt;p&gt;さっそく主催者のリベロファーム代表・柴田様と振り返り会を行い、さらに良いものにするにはどうすればいいか、という話もしました。
-さらに良いプログラムを提供できるよう、精進いたします。
+&lt;p&gt;さっそく主催者のリベロファーム代表・柴田様と振り返り会を行い、さらに良いものにするにはどうすればいいか、という話もしました。&lt;br /&gt;
+さらに良いプログラムを提供できるよう、精進いたします。&lt;br /&gt;
 今後ともご贔屓にお願いいたします。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/20190720_02.JPG&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
@@ -85,9 +73,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/20190720_08.JPG&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/20190720_09.JPG&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/20190720_10.JPG&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">【今週末です】シアターゲーム体験会、開催します</title><link href="http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop/" rel="alternate" type="text/html" title="【今週末です】シアターゲーム体験会、開催します" /><published>2019-07-15T07:33:43+09:00</published><updated>2019-07-15T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop/">&lt;p&gt;&lt;img src=&quot;/img/20190624_01.jpg&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/20190720_09.JPG&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">【今週末です】シアターゲーム体験会、開催します</title><link href="http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop/" rel="alternate" type="text/html" title="【今週末です】シアターゲーム体験会、開催します" /><published>2019-07-15T07:33:43+09:00</published><updated>2019-07-15T07:33:43+09:00</updated><id>http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/15/TheatreGameWorkshop/">&lt;p&gt;&lt;img src=&quot;/img/20190624_01.jpg&quot; alt=&quot;IMG&quot; class=&quot;img-responsive-border&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;今回もリベロファームさんに講師として呼んでもらえました。もう3回目。愛想をつかされないで毎回呼んでもらえるというのは自信になります。&lt;/p&gt;
 
