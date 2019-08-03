@@ -31,7 +31,7 @@ categories: Blog
 [過去ブログ：やりたいことをやりたいと言えるように深耕できる塾の話](https://naoshigenakanoyaze.github.io/blog/2019-03-12-FightingSpirits/)　
 
 
-[過去ブログ：コミュニティ・エンパワメント・ラボの最終プレゼンテーション](https://naoshigenakanoyaze.github.io/blog/2018-12-16-CRfactoryFinalPresentation/)　
+[過去ブログ：コミュニティ・エンパワメント・ラボの最終プレゼンテーション](https://naoshigenakanoyaze.github.io/blog/2018/12/16/CRfactoryFinalPresentation/)　
 
 [コミュニティ・エンパワメント・ラボの説明](https://crfactory.com/service/labo/)
 
