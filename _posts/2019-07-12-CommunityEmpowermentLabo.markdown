@@ -28,10 +28,10 @@ categories: Blog
 ぜひ、説明会に行ってみてください。7月24日と8月6日です。行けなさそうなら個別に説明します。相当おトクなので、とても広めたいサービスです。
 
 
-[過去ブログ：やりたいことをやりたいと言えるように深耕できる塾の話](https://naoshigenakanoyaze.github.io/blog/2019-03-12-FightingSpirits/)　
+[過去ブログ：やりたいことをやりたいと言えるように深耕できる塾の話]({{site.baseurl}}/blog/2019/03/12/FightingSpirits/)　
 
 
-[過去ブログ：コミュニティ・エンパワメント・ラボの最終プレゼンテーション](https://naoshigenakanoyaze.github.io/blog/2018/12/16/CRfactoryFinalPresentation/)　
+[過去ブログ：コミュニティ・エンパワメント・ラボの最終プレゼンテーション]({{site.baseurl}}/blog/2018/12/16/CRfactoryFinalPresentation/)　
 
 [コミュニティ・エンパワメント・ラボの説明](https://crfactory.com/service/labo/)
 
