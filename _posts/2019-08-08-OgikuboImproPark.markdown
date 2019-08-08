@@ -6,6 +6,7 @@ categories: Blog
 ---
 
 ![IMG]({{site.baseurl}}/img/20190808_01.jpg){: .img-responsive-border} 
+
 (写真は白石涼子様撮影。黒田めぐみ様のFacebookから転載)
 
 仕事やら引っ越しやらで告知が遅くなりましたが、荻窪インプロパークに出演します。  
