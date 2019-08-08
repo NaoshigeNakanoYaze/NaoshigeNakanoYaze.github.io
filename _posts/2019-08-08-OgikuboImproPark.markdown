@@ -72,7 +72,7 @@ yesandyeah@ezweb.ne.jp ０８０－６５９８－０８７８鈴木聡之（イ
 １０月１４日（月・祝）１３：００開演～即響BUNGA１０時間スペシャル（Platformと共催）  
 １２月９日（月）１９：３０開演  
 
-※LIVEBAR“BUNGA” の HP [http://www.livebar-bunga.com/  ](http://www.livebar-bunga.com/  )
+※LIVEBAR“BUNGA” の HP [http://www.livebar-bunga.com/  ](http://www.livebar-bunga.com/  )  
 〒167-0032杉並区天沼3-1-5サン建設ビルB1電話・FAX03-3220-9355
 
 ※アクセス  
