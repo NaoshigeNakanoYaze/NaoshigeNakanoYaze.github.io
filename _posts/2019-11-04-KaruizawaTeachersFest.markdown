@@ -5,7 +5,7 @@ date:   2019-11-04 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/20191104_01.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20191104_01.JPG){: .img-responsive-border} 
 
 写真は、フェスで作ることができたミッションステートメント。
 
@@ -80,81 +80,27 @@ categories: Blog
 いい時間でした。明日からもがんばろう。
 
 
+![IMG]({{site.baseurl}}/img/20191104_02.JPG){: .img-responsive-border} 
 
+![IMG]({{site.baseurl}}/img/20191104_03.JPG){: .img-responsive-border} 
 
+![IMG]({{site.baseurl}}/img/20191104_04.JPG){: .img-responsive-border} 
 
+![IMG]({{site.baseurl}}/img/20191104_05.JPG){: .img-responsive-border} 
 
+![IMG]({{site.baseurl}}/img/20191104_06.JPG){: .img-responsive-border} 
 
-３月ぐらいから行こうと決めていた、軽井沢Teacher's Fest。  
-正直行って何が起こるかわからない。  
-何が学べるのかもわからない。  
-おそらく「教育」というキーワードに敏感な人たちが集まって、その中でもっとも本質的で興味のあることを挙げ、それについて知見を持ち寄ることになるだろう。  
-それが今後すぐに使える知識になるとは限らない。  
-もしかしたら誰も知見なんて持ってなくて、愚痴大会で終わる可能性すらある。
+![IMG]({{site.baseurl}}/img/20191104_07.JPG){: .img-responsive-border} 
 
-これに三連休をすべて投入する。  
-お金もまあまあかかる。  
-旅費・宿泊費もまあまあかかる。  
-それでも、なんか行きたい。
+![IMG]({{site.baseurl}}/img/20191104_08.JPG){: .img-responsive-border} 
 
-最近、読書の時間を楽しめるようになってきた。  
-読書は、知識を得ることであり、短時間に大量の知識を仕入れることが重要だと思っていた。  
-しかし、あんまり定着しない。  
-それよりも、読書をしている時間を思索の時間ととらえると、グッと楽しくなる。  
-目の前にある文章は知であるが、刺激する触媒でもある。  
-本来自分の中にあるものを表出させてくれるものとして書をとらえると、「暗記しなきゃ」みたいな気負いがなくて非常にラク。
+![IMG]({{site.baseurl}}/img/20191104_09.JPG){: .img-responsive-border} 
 
-学びとは、決まった何かを覚えるということだけではない。  
-今、周りにある、気になっていることを調べ、感じ、考え、アクションを起こすことまでが学びだと思う。  
-学びと実践をごっちゃにしている気もするが、アクションまで起こせたら最高だなと思う。
+![IMG]({{site.baseurl}}/img/20191104_10.JPG){: .img-responsive-border} 
 
-今回参加するTeacher's Festは、これを満たしてくれるんじゃないかと思う。  
-そして、この中に身を置くことによって、自分が理想とする学びのクセがつくといいと思うし、自分が即興技術を他人に伝える力に大きな後押しがあるのではないかと期待している。
+![IMG]({{site.baseurl}}/img/20191104_11.JPG){: .img-responsive-border} 
 
-私は、自分が嫌だと思うコミュニケーションの取り方を、同じように嫌だと思っている人たちにこれ以上嫌だと思わせないために何かをしたいと思っている。  
-それが目下のところ、即興技術でトレーニングまたはセラピーをすることによって解決できるんじゃないかと思うし、そしてそれを自分が実践したい。  
-実践できなくてもいいのかもしれないが、まあ、これは自分のエゴとして、自分でやってすげぇと言われて感謝されたいのはある。
-
-目の前にいる人と自分との間にある苦しみのどこかを、自分が持っているものでやわらげる。  
-これを実現する力になるんじゃないか。  
-そんな期待があります。
-
-今日は仕事のひとつの山場だった。  
-成功と言ってもいい成果を残せた。  
-連日のあれこれで体はだいぶ疲弊しているが、心はいくぶんラクだ。  
-チームとしての仕事で自分が活躍して成果を出せたのは、自覚する限りでは初めてのことのように思う。  
-今までも成果は出してきていたが、ずっと怒られながらだったので、お荷物感を感じていた。
-
-今回は怒られる回数は減ったし、（自覚する限りでは）即興技術と積み重ねたトレーニングのおかげで、たとえ怒られても次の仕事にすぐさま繋げられるようになったと思っている。  
-べつに即興技術がすべてではないけど、私にとってはインパクトが強いものだった。
-
-まだまだ自分は強くなりたいし、周りを助け、感謝されたい。  
-そのために軽井沢に向かっている。
-
-
-
-
-![IMG]({{site.baseurl}}/img/20191104_02.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_03.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_04.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_05.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_06.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_07.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_08.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_09.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_10.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_11.jpg){: .img-responsive-border} 
-
-![IMG]({{site.baseurl}}/img/20191104_12.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20191104_12.JPG){: .img-responsive-border} 
 
 
 
