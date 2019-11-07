@@ -109,3 +109,11 @@ categories: Blog
 ![IMG]({{site.baseurl}}/img/20191104_15.jpg){: .img-responsive-border} 
 
 ![IMG]({{site.baseurl}}/img/20191104_16.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20191104_17.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20191104_18.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20191104_19.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20191104_20.jpg){: .img-responsive-border} 
