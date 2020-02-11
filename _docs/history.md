@@ -40,7 +40,7 @@ redirect_from: /docs/history.html
 | 2018年6月  | 即興芝居                       | -                          | Happy新作落語会                                     | 司会・出演       | 1 | 落語と即興の融合                                  | [Web](http://hanashi.jp/schedule/happy%E6%96%B0%E4%BD%9C%E8%90%BD%E8%AA%9E%E7%99%BA%E8%A1%A8%E4%BC%9A-3) |
 
 
-### ワークショップ
+### 教育・講座・ワークショップ等
 
 Coming soon...
 
