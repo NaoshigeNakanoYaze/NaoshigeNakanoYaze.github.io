@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "上演中止：虹の素「夜明け」"
+date:   2020-04-03 07:33:43 +0900
+categories: Blog
+---
+
+公式から本日、発表がありました。新型肺炎の流行に関し、悩みに悩んだ上での中止です。
+
+[→公式ブログ](https://ameblo.jp/element-of-rainbow/entry-12586763279.html)
+
+ご予約いただいた方々、ご検討・応援いただいた方々、わざわざご連絡をくださった方々、本当にありがとうございます。  
+残念ながら、2020年5月の上演はなくなりました。
+
+気持ちを文章にしておきます。  
+ただの気持ちの垂れ流しなので読みづらいし結論も別にないです。
+
+虹の素は初参加の座組でした。  
+いろんな人がいて、特に印象深かったのは劇団員の意志の深さ（強さ、とはなんか違う気がする）、キャリア・経験と学生・若手への手厚さです。  
+もともと、虹の素や青の素の作品は見ていました。印象的だったのは、高校生の演技力です。  
+本当に舞台上で苦しみ、悩み、喜ぶという、自分が目標としている「舞台上で生きる」ということを高校生がビリビリくるレベルでやってのけていたことです。  
+この劇団に呼んでもらえるというのは本当に楽しみで、実際に稽古に入っていろいろ体験してみて、なるほどこうやっているのかと勉強になりました。  
+ここから完成に向けて、さらに勉強できることは多くあったでしょうが。
+
+自分は、他人とあれこれ比べて一喜一憂する人間なのですが、その性格がいい方に働いたと思います。  
+こんなんじゃ若手への示しがつかない、と意識を改める機会が多くあったように思います。  
+稽古に集中できるよう、小さいながらもいろいろ手を打ってきたのですが、これも「どうだ、俺すごいだろう」と周りにジャーンとするための布石でした。  
+その布石は別のところで活きると思います。
+
+去年決めた方針があって、虹の素「夜明け」をいったん区切りとして、2022年4月までは出演を見合わせます。  
+2年弱の休止予定が、2年以上となってしまいました。
+
+じゃあここからどうする？ どうやって世の中にオモローを増やして、「どうだ、俺すごいだろう」と周りにジャーンとする？   
+そのために、ひとつずつやっていかねばなりません。  
+中止となった別の公演の作・演出を務めていた友人が、こんなことをTwitterに投稿していました。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自分にできることは何か。とりあえずはこれからもずっと演劇を好きでいることかなぁと思う。まずは心と身体の健康を保ち、また当たり前に演劇ができるようになった時に観たい芝居にガンガン行く。たまには自分も創り手に回る（頑張ります）。そうやって演劇用の体力と情熱を失わないようにしておこう。</p>&mdash; もっちょ (@mottyo385) <a href="https://twitter.com/mottyo385/status/1245945773121867776?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+いやもう、その通りだと思います。
+
+そうだし、さらに、これまで調べた武部寛則さんのことやガーナのことは自分に生き続けるし、座組を通して得られた経験、出会えた人は私の宝物です。  
+公演がなくなったというのは、演劇というプロジェクトの最終成果物がなくなったということですが、中間成果物も相当の価値があると思っています。  
+残念な気持ちもありますが、やれてよかった。
+
+この公演を通して出会えた皆様に最大の感謝を込めます。  
+だって楽しかったし、怖かったし、勉強になったし、うれしかったもの。
+
+
+![IMG]({{site.baseurl}}/img/20200403_01.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_02.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_03.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_04.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_05.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_06.jpg){: .img-responsive-border} 
+
+![IMG]({{site.baseurl}}/img/20200403_07.jpg){: .img-responsive-border} 
+
+---
+#### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+#### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+#### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
