@@ -26,10 +26,10 @@ categories: Blog
 
 |   日程    | カテゴリ                 |                   タイトル                   |                          内容サマリ                          |
 | :-------: | ------------------------ | :------------------------------------------: | :----------------------------------------------------------: |
-| 2020/4/9  | オンラインインプロWS     |                  ショーンWS                  | オンラインではじめてインプロWS受講。<br />ルースムースシアターのインプロバイザー、<br />ショーン・キンリーが講師。 |
-| 2020/4/18 | オンラインインプロショー | あつまれ！ポンドポーチ<br />「コードネーム」 |            対戦パーティーゲームのオンラインショー            |
-| 2020/4/30 | オンラインインプロWS     |                   ゲールWS                   | インプロバイズド宮崎駿。<br />フランスのインプロバイザー、<br />ゲール・ソーン・フェリーが講師。 |
-| 2020/5/10 | オンラインインプロショー |            あつまれ！ポンドポーチ <br />「マイクロフォン誘拐事件」<br />「キュウリ泥棒を捕まえろ」           |          「その探偵の名、」の世界観でのインプロショー          |
+| 2020/4/9  | オンライン<br />インプロWS     |                  ショーンWS                  | オンラインではじめてインプロWS受講。<br />ルースムースシアターのインプロバイザー、<br />ショーン・キンリーが講師。 |
+| 2020/4/18 | オンライン<br />インプロショー | あつまれ！ポンドポーチ<br />「コードネーム」 |            対戦パーティーゲームのオンラインショー            |
+| 2020/4/30 | オンライン<br />インプロWS     |                   ゲールWS                   | インプロバイズド宮崎駿。<br />フランスのインプロバイザー、<br />ゲール・ソーン・フェリーが講師。 |
+| 2020/5/10 | オンライン<br />インプロショー |            あつまれ！ポンドポーチ <br />「マイクロフォン誘拐事件」<br />「キュウリ泥棒を捕まえろ」           |          「その探偵の名、」の世界観でのインプロショー          |
 | 2020/5/31 | 演劇教育                 |       第一回演劇教育ナレッジフォーラム       |     テーマ「コロナ禍での演劇教育」のオンラインフォーラム     |
 
 
@@ -137,6 +137,23 @@ ZOOM画面上で、二人の腕の方向が重ならないよう、「３，２�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ゲールの「インプロバイズド宮崎駿」WS。<br>彼独自の視点で宮崎駿を切り取って、創られたエクササイズ。<br>思わず入り込みたくなるようなイメージを創るにはどうすればいいか。。。<br>これは探究のしがいがあるな！そしてこれはオフラインでやりたいな！！！<a href="https://twitter.com/hashtag/%E6%B5%B7%E5%A4%96%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AD?src=hash&amp;ref_src=twsrc%5Etfw">#海外オンラインプロ</a> <a href="https://t.co/zJrGO2KRoM">pic.twitter.com/zJrGO2KRoM</a></p>&mdash; 忍翔（OSHOW） (@osho_jam) <a href="https://twitter.com/osho_jam/status/1255868136319971330?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### インプロオンラインショー出演
+
+Platformさんに呼んでいただいて、出番を二ついただいた。  
+いずれも「あつまれ！ポンドポーチ」という企画。
+
+#### コードネーム
+
+「コードネーム」というボードゲームで遊ぶ様を配信するショー。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#あつポン</a> まもなくスタート！<br>ヤーゼこと中野直重さんをゲストに迎え、コードネームというゲームで遊びます✨<br><br>zoomアプリをダウンロードの上、<br>こちらのURLからパスワードを入力してご覧下さい。<a href="https://t.co/q8cTbd5VcP">https://t.co/q8cTbd5VcP</a><br>パスワード：070062<br><br>皆様のお越しを心からお待ちしております！ <a href="https://t.co/YSBXvv6jqj">pic.twitter.com/YSBXvv6jqj</a></p>&mdash; インプロカンパニーPlatform (@impro_plafo) <a href="https://twitter.com/impro_plafo/status/1251449396551577600?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### 「マイクロフォン誘拐事件」「キュウリ泥棒を捕まえろ！」
+
+「その探偵の名、」の世界観を使ったインプロショー。
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⭐️本日のあつまれポンドポーチ⭐️<br>【19:30より配信】<br>◉マイクロフォン誘拐事件<br>◉きゅうり泥棒を捕まえろ！<br>またしても新たな事件が発生<br>サマーレインボーはこの二つの事件を解決できるのか⁉️<br><br>ゲスト出演<br>池田一開<br>進藤恵太<br>青木紫水<br>中野直重<br>植野龍二<br><br>どんどん広がるポンドポーチの輪‼️<a href="https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#あつポン</a> <a href="https://t.co/m7wvs6vtJz">pic.twitter.com/m7wvs6vtJz</a></p>&mdash; インプロカンパニーPlatform (@impro_plafo) <a href="https://twitter.com/impro_plafo/status/1259335627994103808?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
