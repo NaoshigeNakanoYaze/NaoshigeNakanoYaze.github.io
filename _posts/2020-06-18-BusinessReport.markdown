@@ -31,6 +31,7 @@ categories: Blog
 | 4/30  | オンラインインプロWS  |  ゲールWS   |
 | 5/10  | オンラインインプロショー  |  あつまれ！ポンドポーチ「マイクロフォン誘拐事件」「キュウリ泥棒を捕まえろ」   |
 | 5/31  | 演劇教育  |  第一回演劇教育ナレッジフォーラム   |
+| 6月  | オンライン収録  |  すいようギョウザ   |
 
 ### インプロオンラインワークショップ受講
 
@@ -145,9 +146,13 @@ Platformさんに呼んでいただいて、出番を二ついただいた。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#あつポン</a> まもなくスタート！<br>ヤーゼこと中野直重さんをゲストに迎え、コードネームというゲームで遊びます✨<br><br>zoomアプリをダウンロードの上、<br>こちらのURLからパスワードを入力してご覧下さい。<a href="https://t.co/q8cTbd5VcP">https://t.co/q8cTbd5VcP</a><br>パスワード：070062<br><br>皆様のお越しを心からお待ちしております！ <a href="https://t.co/YSBXvv6jqj">pic.twitter.com/YSBXvv6jqj</a></p>&mdash; インプロカンパニーPlatform (@impro_plafo) <a href="https://twitter.com/impro_plafo/status/1251449396551577600?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-一発ドーンという奇跡が起こった。こんなことあるか。
+[【ボードゲーム紹介】『コードネーム（Codenames）』のルール＆レビュー](https://boku-boardgame.net/codename)
 
-とても楽しくプレイできた。
+一発ドーンという奇跡が起こった。こんなことあるか。  
+ヒントとなる単語に「夜」が入っていたのに、「夜」を選んだら一発で相手側カードだった。  
+全員爆笑。これが笑える失敗というものか。感動したわ。
+
+とても楽しくプレイできた。  
 在宅勤務に切り替わってしばらく経っていて、虹の素の公演延期も決まり、かなり疲弊していた時期なので、この機会をもらえて本当にありがたかった。
 
 
@@ -159,10 +164,27 @@ Platformさんに呼んでいただいて、出番を二ついただいた。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⭐️本日のあつまれポンドポーチ⭐️<br>【19:30より配信】<br>◉マイクロフォン誘拐事件<br>◉きゅうり泥棒を捕まえろ！<br>またしても新たな事件が発生<br>サマーレインボーはこの二つの事件を解決できるのか⁉️<br><br>ゲスト出演<br>池田一開<br>進藤恵太<br>青木紫水<br>中野直重<br>植野龍二<br><br>どんどん広がるポンドポーチの輪‼️<a href="https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#あつポン</a> <a href="https://t.co/m7wvs6vtJz">pic.twitter.com/m7wvs6vtJz</a></p>&mdash; インプロカンパニーPlatform (@impro_plafo) <a href="https://twitter.com/impro_plafo/status/1259335627994103808?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+ハウサムとグルケル（バルドルに似た人）を演じた。  
+キャラクターを掘り起こして演じるのは楽しかった。  
+楽しく演じられた一方、もうちょっと踏み込んだ芝居をしたかった。  
+キャラとしてそこに居るというレベルをもう一段深めて、なんでそこに居て、なにがしたいのかという強い動機があれば、さらに興味深いものになったと思う。  
+共演者たちを見ていて、いやそう、それがやりたかった、という感覚。
+
+いずれにせよ、ショーの本番が演じられたのは本当にうれしかった。
+
+
+### 第一回演劇教育ナレッジフォーラム
 
 
 
+### すいよう餃子
 
+オンラインでネタ合わせ、稽古、撮影した。
+もともと、虹の素で共演予定（稽古はしたが本番は延期）だったが、稽古後に飲んでいて「M-1いっしょに出ようぜ」と話していた。
+その後コロナ騒ぎになり、オンラインでできることを考え、台本をコントから短編芝居に変えた。
+勝手が分からない中、光る瞬間が見える芝居ができたのは、本当にうれしく思う。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヤーゼこと、中野直重さんに出ていただきました(^^)<br>とても楽しかった。<br>本編だけでも見てほしい。<br><br>【すいよう餃子】しょーちゃんがリモートで◯◯に挑戦！<a href="https://t.co/0OxmtcXAMy">https://t.co/0OxmtcXAMy</a></p>&mdash; 藤沼翔舞 (@b_s124) <a href="https://twitter.com/b_s124/status/1275659074256896000?ref_src=twsrc%5Etfw">June 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
