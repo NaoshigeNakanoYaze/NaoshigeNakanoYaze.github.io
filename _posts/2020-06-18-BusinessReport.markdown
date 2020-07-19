@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "活動メモ：2020年4月～6月"
-date:   2020-06-19 07:33:43 +0900
+date:   2020-06-18 07:33:43 +0900
 categories: Blog
 ---
 
@@ -31,7 +31,7 @@ categories: Blog
 | 4/30  | オンラインインプロWS  |  ゲールWS   |
 | 5/10  | オンラインインプロショー  |  あつまれ！ポンドポーチ「マイクロフォン誘拐事件」「キュウリ泥棒を捕まえろ」   |
 | 5/31  | 演劇教育  |  第一回演劇教育ナレッジフォーラム   |
-| 6月  | オンライン収録  |  すいようギョウザ   |
+| 6月  | オンライン収録  |  すいよう餃子   |
 
 ### インプロオンラインワークショップ受講
 
@@ -178,6 +178,12 @@ Platformさんに呼んでいただいて、出番を二ついただいた。
 演劇を教育に活用し、「人間力」を向上させたいという想いを持った人たちが世話人となり開催するフォーラム。
 ありがたくも、そのうちの一人として参画させていただいた。  
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ナレッジフォーラムでは、Keynoteスピーカーのプレゼンテーションを基に、参加者の皆さんと共に、セッションテーマを設け、自由闊達に話し合っていただく場です。参加者の方々の英知を結集し、これからの演劇教育について前向きな提言が出来ればと考えています。<a href="https://t.co/OpLTwbHmCk">https://t.co/OpLTwbHmCk</a><a href="https://twitter.com/hashtag/%E6%BC%94%E5%8A%87%E6%95%99%E8%82%B2?src=hash&amp;ref_src=twsrc%5Etfw">#演劇教育</a></p>&mdash; Art-Loving (@ArtLoving1) <a href="https://twitter.com/ArtLoving1/status/1259666398646689792?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">演劇教育ナレッジフォーラム定員に達しました。皆様早々にお申込み有難うございました！当日に向け、共同世話人も最終準備を進めております。円滑な進行が出来るようテクニカルチェック等も行い、当日に臨みます。フォーラム共同世話人のプロフィールをご紹介します。<a href="https://twitter.com/hashtag/%E6%BC%94%E5%8A%87%E6%95%99%E8%82%B2%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0?src=hash&amp;ref_src=twsrc%5Etfw">#演劇教育ナレッジフォーラム</a> <a href="https://t.co/Qu7YasPLqN">pic.twitter.com/Qu7YasPLqN</a></p>&mdash; Art-Loving (@ArtLoving1) <a href="https://twitter.com/ArtLoving1/status/1265251916914647042?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 「人間力」が何を表すか、世話人同士でもちょっとずつ違う。大枠は同じだし、こだわりも共感できるけど、どこか違う。  
 それでいいかなと思う。
 
@@ -189,6 +195,9 @@ Platformさんに呼んでいただいて、出番を二ついただいた。
 そういう団体に参加できているのはありがたいことだt思う。  
 
 当日は満員御礼。私はファシリテーターとして進行役を担った。  
+入念な下準備と、当日の臨機応変さを全員一丸でやれたと思った。  
+人とオフラインで接触しづらくなったことで起こる、演劇教育を実践する上での不都合を、浮き彫りにすることができた。
+
 この活動に参画できていることを、本当にありがたく思います。
 
 
@@ -200,6 +209,11 @@ Platformさんに呼んでいただいて、出番を二ついただいた。
 勝手が分からない中、光る瞬間が見える芝居ができたのは、本当にうれしく思う。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヤーゼこと、中野直重さんに出ていただきました(^^)<br>とても楽しかった。<br>本編だけでも見てほしい。<br><br>【すいよう餃子】しょーちゃんがリモートで◯◯に挑戦！<a href="https://t.co/0OxmtcXAMy">https://t.co/0OxmtcXAMy</a></p>&mdash; 藤沼翔舞 (@b_s124) <a href="https://twitter.com/b_s124/status/1275659074256896000?ref_src=twsrc%5Etfw">June 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+飲みの席の社交辞令じゃなく、本当に付き合ってくれて、私の台本を作品として世に送り出してくださった藤沼さん（しょーちゃん）に本当に感謝。  
+
+オンラインで、かつ自室ということで集中の仕方が違った。  
+その状況すらも表現の一部としやすい台本にできたと思っている。
 
 
 
