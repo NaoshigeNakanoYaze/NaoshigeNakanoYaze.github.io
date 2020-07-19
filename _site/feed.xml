@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-11T10:37:11+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
-</subtitle><entry><title type="html">活動メモ：2020年4月～6月</title><link href="http://localhost:4000/blog/2020/06/19/BusinessReport/" rel="alternate" type="text/html" title="活動メモ：2020年4月～6月" /><published>2020-06-19T07:33:43+09:00</published><updated>2020-06-19T07:33:43+09:00</updated><id>http://localhost:4000/blog/2020/06/19/BusinessReport</id><content type="html" xml:base="http://localhost:4000/blog/2020/06/19/BusinessReport/">&lt;p&gt;なんだかんだと、前回更新から2か月以上経ってしまった。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-19T22:54:32+09:00</updated><id>http://localhost:4000/</id><title type="html">Yaze Webspace</title><subtitle>中野直重のホームページです。
+</subtitle><entry><title type="html">活動メモ：2020年4月～6月</title><link href="http://localhost:4000/blog/2020/06/18/BusinessReport/" rel="alternate" type="text/html" title="活動メモ：2020年4月～6月" /><published>2020-06-18T07:33:43+09:00</published><updated>2020-06-18T07:33:43+09:00</updated><id>http://localhost:4000/blog/2020/06/18/BusinessReport</id><content type="html" xml:base="http://localhost:4000/blog/2020/06/18/BusinessReport/">&lt;p&gt;なんだかんだと、前回更新から2か月以上経ってしまった。
 コロナの影響もあり、生活様式が一変した。
 在宅勤務、保育園も登園不可となったため、買い物以外はずっと家にいるという生活が2か月以上続いている。&lt;/p&gt;
 
@@ -22,41 +22,40 @@
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;日程&lt;/th&gt;
-      &lt;th&gt;カテゴリ&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;カテゴリ&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;タイトル&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;内容サマリ&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2020/4/9&lt;/td&gt;
-      &lt;td&gt;オンライン&lt;br /&gt;インプロWS&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4/9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;オンラインインプロWS&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;ショーンWS&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;オンラインではじめてインプロWS受講。&lt;br /&gt;ルースムースシアターのインプロバイザー、&lt;br /&gt;ショーン・キンリーが講師。&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2020/4/18&lt;/td&gt;
-      &lt;td&gt;オンライン&lt;br /&gt;インプロショー&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4/18&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;オンラインインプロショー&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;あつまれ！ポンドポーチ&lt;br /&gt;「コードネーム」&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;対戦パーティーゲームのオンラインショー&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2020/4/30&lt;/td&gt;
-      &lt;td&gt;オンライン&lt;br /&gt;インプロWS&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4/30&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;オンラインインプロWS&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;ゲールWS&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;インプロバイズド宮崎駿。&lt;br /&gt;フランスのインプロバイザー、&lt;br /&gt;ゲール・ソーン・フェリーが講師。&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2020/5/10&lt;/td&gt;
-      &lt;td&gt;オンライン&lt;br /&gt;インプロショー&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;あつまれ！ポンドポーチ &lt;br /&gt;「マイクロフォン誘拐事件」&lt;br /&gt;「キュウリ泥棒を捕まえろ」&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;「その探偵の名、」の世界観でのインプロショー&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5/10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;オンラインインプロショー&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;あつまれ！ポンドポーチ「マイクロフォン誘拐事件」「キュウリ泥棒を捕まえろ」&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2020/5/31&lt;/td&gt;
-      &lt;td&gt;演劇教育&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5/31&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;演劇教育&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;第一回演劇教育ナレッジフォーラム&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;テーマ「コロナ禍での演劇教育」のオンラインフォーラム&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6月&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;オンライン収録&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;すいよう餃子&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -176,12 +175,71 @@
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#あつポン&lt;/a&gt; まもなくスタート！&lt;br /&gt;ヤーゼこと中野直重さんをゲストに迎え、コードネームというゲームで遊びます✨&lt;br /&gt;&lt;br /&gt;zoomアプリをダウンロードの上、&lt;br /&gt;こちらのURLからパスワードを入力してご覧下さい。&lt;a href=&quot;https://t.co/q8cTbd5VcP&quot;&gt;https://t.co/q8cTbd5VcP&lt;/a&gt;&lt;br /&gt;パスワード：070062&lt;br /&gt;&lt;br /&gt;皆様のお越しを心からお待ちしております！ &lt;a href=&quot;https://t.co/YSBXvv6jqj&quot;&gt;pic.twitter.com/YSBXvv6jqj&lt;/a&gt;&lt;/p&gt;&amp;mdash; インプロカンパニーPlatform (@impro_plafo) &lt;a href=&quot;https://twitter.com/impro_plafo/status/1251449396551577600?ref_src=twsrc%5Etfw&quot;&gt;April 18, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://boku-boardgame.net/codename&quot;&gt;【ボードゲーム紹介】『コードネーム（Codenames）』のルール＆レビュー&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;一発ドーンという奇跡が起こった。こんなことあるか。&lt;br /&gt;
+ヒントとなる単語に「夜」が入っていたのに、「夜」を選んだら一発で相手側カードだった。&lt;br /&gt;
+全員爆笑。これが笑える失敗というものか。感動したわ。&lt;/p&gt;
+
+&lt;p&gt;とても楽しくプレイできた。&lt;br /&gt;
+在宅勤務に切り替わってしばらく経っていて、虹の素の公演延期も決まり、かなり疲弊していた時期なので、この機会をもらえて本当にありがたかった。&lt;/p&gt;
+
 &lt;h4 id=&quot;マイクロフォン誘拐事件キュウリ泥棒を捕まえろ&quot;&gt;「マイクロフォン誘拐事件」「キュウリ泥棒を捕まえろ！」&lt;/h4&gt;
 
 &lt;p&gt;「その探偵の名、」の世界観を使ったインプロショー。&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;⭐️本日のあつまれポンドポーチ⭐️&lt;br /&gt;【19:30より配信】&lt;br /&gt;◉マイクロフォン誘拐事件&lt;br /&gt;◉きゅうり泥棒を捕まえろ！&lt;br /&gt;またしても新たな事件が発生&lt;br /&gt;サマーレインボーはこの二つの事件を解決できるのか⁉️&lt;br /&gt;&lt;br /&gt;ゲスト出演&lt;br /&gt;池田一開&lt;br /&gt;進藤恵太&lt;br /&gt;青木紫水&lt;br /&gt;中野直重&lt;br /&gt;植野龍二&lt;br /&gt;&lt;br /&gt;どんどん広がるポンドポーチの輪‼️&lt;a href=&quot;https://twitter.com/hashtag/%E3%81%82%E3%81%A4%E3%83%9D%E3%83%B3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#あつポン&lt;/a&gt; &lt;a href=&quot;https://t.co/m7wvs6vtJz&quot;&gt;pic.twitter.com/m7wvs6vtJz&lt;/a&gt;&lt;/p&gt;&amp;mdash; インプロカンパニーPlatform (@impro_plafo) &lt;a href=&quot;https://twitter.com/impro_plafo/status/1259335627994103808?ref_src=twsrc%5Etfw&quot;&gt;May 10, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;ハウサムとグルケル（バルドルに似た人）を演じた。&lt;br /&gt;
+キャラクターを掘り起こして演じるのは楽しかった。&lt;br /&gt;
+楽しく演じられた一方、もうちょっと踏み込んだ芝居をしたかった。&lt;br /&gt;
+キャラとしてそこに居るというレベルをもう一段深めて、なんでそこに居て、なにがしたいのかという強い動機があれば、さらに興味深いものになったと思う。&lt;br /&gt;
+共演者たちを見ていて、いやそう、それがやりたかった、という感覚。&lt;/p&gt;
+
+&lt;p&gt;いずれにせよ、ショーの本番が演じられたのは本当にうれしかった。&lt;/p&gt;
+
+&lt;h3 id=&quot;第一回演劇教育ナレッジフォーラム&quot;&gt;第一回演劇教育ナレッジフォーラム&lt;/h3&gt;
+
+&lt;p&gt;演劇を教育に活用し、「人間力」を向上させたいという想いを持った人たちが世話人となり開催するフォーラム。
+ありがたくも、そのうちの一人として参画させていただいた。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ナレッジフォーラムでは、Keynoteスピーカーのプレゼンテーションを基に、参加者の皆さんと共に、セッションテーマを設け、自由闊達に話し合っていただく場です。参加者の方々の英知を結集し、これからの演劇教育について前向きな提言が出来ればと考えています。&lt;a href=&quot;https://t.co/OpLTwbHmCk&quot;&gt;https://t.co/OpLTwbHmCk&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E6%BC%94%E5%8A%87%E6%95%99%E8%82%B2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#演劇教育&lt;/a&gt;&lt;/p&gt;&amp;mdash; Art-Loving (@ArtLoving1) &lt;a href=&quot;https://twitter.com/ArtLoving1/status/1259666398646689792?ref_src=twsrc%5Etfw&quot;&gt;May 11, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;演劇教育ナレッジフォーラム定員に達しました。皆様早々にお申込み有難うございました！当日に向け、共同世話人も最終準備を進めております。円滑な進行が出来るようテクニカルチェック等も行い、当日に臨みます。フォーラム共同世話人のプロフィールをご紹介します。&lt;a href=&quot;https://twitter.com/hashtag/%E6%BC%94%E5%8A%87%E6%95%99%E8%82%B2%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#演劇教育ナレッジフォーラム&lt;/a&gt; &lt;a href=&quot;https://t.co/Qu7YasPLqN&quot;&gt;pic.twitter.com/Qu7YasPLqN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Art-Loving (@ArtLoving1) &lt;a href=&quot;https://twitter.com/ArtLoving1/status/1265251916914647042?ref_src=twsrc%5Etfw&quot;&gt;May 26, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;「人間力」が何を表すか、世話人同士でもちょっとずつ違う。大枠は同じだし、こだわりも共感できるけど、どこか違う。&lt;br /&gt;
+それでいいかなと思う。&lt;/p&gt;
+
+&lt;p&gt;このフォーラム、というか筆頭世話人（と勝手に呼ぶが）のArt−Loving代表まんぼさんは「ゆるやかなつながり」を重視している。&lt;br /&gt;
+演劇教育の実践家たちは、それぞれの手法にこだわりを持っていて、お互いを認めない、なんてことも起こり得る。&lt;br /&gt;
+それもあってよいが、なるべくなら連携して業界全体を盛り上げていきたい、という趣旨。&lt;/p&gt;
+
+&lt;p&gt;毎週末、深夜まで打ち合わせした。それでも時間が足りない。語りたいことは尽きない。&lt;br /&gt;
+そういう団体に参加できているのはありがたいことだt思う。&lt;/p&gt;
+
+&lt;p&gt;当日は満員御礼。私はファシリテーターとして進行役を担った。&lt;br /&gt;
+入念な下準備と、当日の臨機応変さを全員一丸でやれたと思った。&lt;br /&gt;
+人とオフラインで接触しづらくなったことで起こる、演劇教育を実践する上での不都合を、浮き彫りにすることができた。&lt;/p&gt;
+
+&lt;p&gt;この活動に参画できていることを、本当にありがたく思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;すいよう餃子&quot;&gt;すいよう餃子&lt;/h3&gt;
+
+&lt;p&gt;オンラインでネタ合わせ、稽古、撮影した。&lt;br /&gt;
+もともと、虹の素で共演予定（稽古はしたが本番は延期）だったが、稽古後に飲んでいて「M-1いっしょに出ようぜ」と話していた。&lt;br /&gt;
+その後コロナ騒ぎになり、オンラインでできることを考え、台本をコントから短編芝居に変えた。&lt;br /&gt;
+勝手が分からない中、光る瞬間が見える芝居ができたのは、本当にうれしく思う。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ヤーゼこと、中野直重さんに出ていただきました(^^)&lt;br /&gt;とても楽しかった。&lt;br /&gt;本編だけでも見てほしい。&lt;br /&gt;&lt;br /&gt;【すいよう餃子】しょーちゃんがリモートで◯◯に挑戦！&lt;a href=&quot;https://t.co/0OxmtcXAMy&quot;&gt;https://t.co/0OxmtcXAMy&lt;/a&gt;&lt;/p&gt;&amp;mdash; 藤沼翔舞 (@b_s124) &lt;a href=&quot;https://twitter.com/b_s124/status/1275659074256896000?ref_src=twsrc%5Etfw&quot;&gt;June 24, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;飲みの席の社交辞令じゃなく、本当に付き合ってくれて、私の台本を作品として世に送り出してくださった藤沼さん（しょーちゃん）に本当に感謝。&lt;/p&gt;
+
+&lt;p&gt;オンラインで、かつ自室ということで集中の仕方が違った。&lt;br /&gt;
+その状況すらも表現の一部としやすい台本にできたと思っている。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h4 id=&quot;コメント&quot;&gt;コメント&lt;/h4&gt;
