@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "読書感想文：マッキンゼーで学んだ感情コントロールの技術"
+date:   2020-09-01 07:33:43 +0900
+categories: Blog
+---
+
+
+
+読書感想文です。中野視点でのメモ。
+
+これ↓を読みました。合計で2時間ちょっとで読めました。
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/1ca5f605.82ce4061.1ca5f606.c59d51f1/_RTLink9366?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15604450%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/1ca5f605.82ce4061.1ca5f606.c59d51f1/?me_id=1213310&item_id=19289162&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F1022%2F9784413231022.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="" title=""></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/1ca5f605.82ce4061.1ca5f606.c59d51f1/_RTLink9366?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15604450%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  >マッキンゼーで学んだ感情コントロールの技術 [ 大嶋祥誉 ]</a></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/1ca5f605.82ce4061.1ca5f606.c59d51f1/_RTLink9366?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15604450%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/ichiba/1ca5f605.82ce4061.1ca5f606.c59d51f1/_RTLink9366?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15604450%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff !important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
+
+
+
+## 概要
+
+- タイトル
+  - 「マッキンゼーで学んだ感情コントロールの技術」
+- 著者
+  - 大嶋 祥誉
+- 出版社
+  - 青春出版社
+
+
+
+## なんで読もうと思ったか
+
+9月27日の第五回演劇教育ナレッジフォーラムにおいて、キーノートを担当している。フォーラムのテーマは「感情と思考と身体」。
+
+そのためのネタづくり、というか「売れてそうなビジネス本で感情を扱ってるとしたらどう表現しているのか」が見たかった。
+
+自分は演劇を神聖視してる部分がおそらくあると思うので、それ以外のセクターの人たちがどういう考察なら受け入れやすいのかを知りたかった。
+
+そして、おそらくビジネスと演劇では求められる感情についての対応がぜんぜん違うだろうなと思っていて、その違いは何かを知りたかった。
+
+
+
+## どんな本だったか
+
+「感情を上手に仕分けるコツで、 あなたの仕事・人生が一変する」という見出しから始まる。仕分ける、とは何だろうと読み進めていくと、「感情のコントロールこそが重要」「感情を「見える化」し、解決すべき問題や課題に落とし込む」と書かれており、感情を「思考」の制御下に置こうとしているのかと読める。
+
+項目として、目次の一部を抜粋すると、
+
+- 「仕事の９割は感情コントロールで決まる！」
+- 「怒りやイライラを引き起こす本人も気づかない原因」
+- 「マッキンゼーで学んだ問題解決力が最大のヒントに！」
+- 「モヤモヤした感情を〝解決可能な課題〟に変える法」
+
+などがあり、仕事をする上での怒りやイライラを解決するためのノウハウが書かれている。著者の経験をひたすら書き留めたノウハウ本だと感じた。
+
+そのうえで、激しい感情に対する対処法、Tipsについても具体的に書かれている。
+
+
+
+## どう感じたか
+
+面倒見の良い大御所からの人生訓を聞いているような感じだった。詳しい裏付けとか理論の緻密さとかではなく、経験にもとづくノウハウを親切にも教えてくれている、と。まあ、お金を出して本を買っているので親切でやっているという認識は違うかもしれないが、大御所が多めにお金を出してくれる居酒屋で、自分は1500円ぐらいの負担でありがたい話を聞ける、という感じ。
+
+「ビジネスと演劇では求められる感情についての対応がぜんぜん違うだろうな」という予想からすると、そこまで違わなかったなという印象。感情を悪とせず、受け入れ、言語化し、対策していく。
+
+大きな違いは、ビジネスでは課題解決や利益の最大化が重要であるのに対し、演劇（というか舞台上）では感情を大切に扱うことそのものが重要となる。舞台上では、ともすれば社会的に歓迎されない感情や言動を取ることが求められる瞬間も大いにある。
+
+> こんな感じかな↓
+>
+> #### ビジネス：ビジネス目的を達成する
+>
+> - いやな感情の発露
+> - →感情を認め、受け入れ、衝動的な言動はとらない
+> - →思考し、嫌な感情を出す要因を把握し、解決
+>
+> #### 演劇（役としての演技）：想像の世界でリアルに生きる
+>
+> - いやな感情の発露
+> - →感情を認め、受け入れ、時には衝動的な言動をとる
+> - →思考し、嫌な感情を出す要因に対して立ち向かう（もしくは逃げる）
+
+
+
+という違いはあるものの、感情は悪ではないという立場は共感できるし、Tipsも有効そうだし、著者の経験として書かれていることで自分も試してみようかなと思えた。
+
+いろんな用語が出てくる。社会心理学の用語かなと思われる「ビリーフシステム」や脳科学の用語と思われる「ミラーニューロン」 など。おそらくその内容を事細かに言いたいわけではなく、主張のラベリングとして使っているように見える。出典が明記されていないので勝手にネットで調べて「こういう用語か」と理解したが、そんなことをしなくても主旨はじゅうぶんに理解できる。
+
+「マッキンゼー」という社名がタイトルに出ていることからも、ビジネスシーンでの感情とつきあう方法に特化した本だと思う。会社員1年目の後半あたりに読んでおきたかったな。そのときは自己啓発本を読む時間もないほど仕事や会社に追いつめられていたが、、、
+
+いろんな自己啓発本を読んでいて思うが、実践の一歩手前に演劇的体験・演劇教育があるといいかなと思った。相手の立場になってみる、違う立場を演じてみる、そこから自信の特性を感じ、自分事として刻み付ける。いきなり実践するとショックも大きいだろうし。
+
+読書はいい思考の時間をくれるな。
+
+
+
+---
+#### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+#### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+#### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>``
