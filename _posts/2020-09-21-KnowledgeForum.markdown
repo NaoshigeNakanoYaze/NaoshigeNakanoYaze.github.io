@@ -11,7 +11,7 @@ categories: Blog
 
 
 
-!({{site.baseurl}}/img/20200921_01.jpg){: .img-responsive-border} 
+!({{site.baseurl}}/img/20200921_01.jpg){: .img-responsive}
 
 
 
