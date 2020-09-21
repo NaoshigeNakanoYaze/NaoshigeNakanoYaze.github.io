@@ -11,9 +11,9 @@ categories: Blog
 
 
 
-!({{site.baseurl}}/img/20200921_01.jpg){: .img-responsive}
 
 
+![flyer]({{site.baseurl}}/img/20200921_01.jpg){: .img-responsive}
 
 9月27日(日)10:00～12:30の第5回演劇教育ナレッジフォーラム(オンライン開催)にて、キーノートスピーカーとして登壇します。
 
