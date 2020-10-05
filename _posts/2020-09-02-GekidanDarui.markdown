@@ -107,11 +107,19 @@ categories: Blog
 
 ![img]({{site.baseurl}}/img/20200902_16.jpg){: .img-responsive}
 
+(「オフ会」より)
+
 ![img]({{site.baseurl}}/img/20200902_17.jpg){: .img-responsive}
+
+(「ベッドルーム・ファルス」より)
 
 ![img]({{site.baseurl}}/img/20200902_19.jpg){: .img-responsive}
 
+(「熱〇殺人事件的なアレ」より)
+
 ![img]({{site.baseurl}}/img/20200902_20.jpg){: .img-responsive}
+
+(仕込み中。綺畸フリース)
 
 ### 2010年7月 劇団だるい００４「ずっと週末だったらいいのに。」
 
@@ -203,11 +211,13 @@ categories: Blog
 
 ### 2015年7月 劇団だるい０１１「The Goal」
 
+画像がない！　どこかで撮影した気がするのだが、、、
+
 
 
 ### 2016年6月 五発目「嘘吐き２」
 
-![img]({{site.baseurl}}/img/20200902_14.jpg){: .img-responsive}
+![img]({{site.baseurl}}/img/20200902_14.png){: .img-responsive}
 
 [画像は[正直者達ホームページ](http://honestpersons.sub.jp/)より]
 
