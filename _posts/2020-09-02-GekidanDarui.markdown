@@ -30,7 +30,7 @@ categories: Blog
 
 まったく個人的な振り返りになるので、団体としての公式見解とかそういうものではないです。
 
-そして、9月2日にこの記事を書き始めたが、もう10日以上経ってしまった。なかなか筆が遅い。
+そして、ただの垂れ流しなので長くて読みづらいです。
 
 それでは振り返ります。
 
@@ -56,6 +56,8 @@ categories: Blog
 
 ### 2007年9月 劇団だるい００２「くるま割り人形～割り忘れ編～」
 
+![img]({{site.baseurl}}/img/20200902_03.jpg){: .img-responsive}
+
 タイトルがセンスいいと思っている。正直者達との合同公演。
 
 この時期は精神疾患1回目の時期とバッチリ重なっていた。あまり記憶がない。稽古中、少し休憩すると、もうそこから立ち上がれない状態だった。このときも劇団だるいがなかったらまずかったかもしれない。
@@ -71,6 +73,10 @@ categories: Blog
 ここまでは写真もほぼ残っていない。公演をやる、ということだけが頭にあって、それ以外にはまったく手が回っていなかった。これが公演最後、と思っていた（これから毎回思うことになるが）。次のための広報とかいう気持ちもなかった。
 
 ### 2009年11月 劇団だるい００３「前略疾走」
+
+![img]({{site.baseurl}}/img/20200902_04.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
 
 はじめての外小屋。もう閉館した荻窪メガバックスシアターにて。
 
@@ -96,18 +102,70 @@ categories: Blog
 
 
 
-
 ### 2010年7月 劇団だるい００４「ずっと週末だったらいいのに。」
+
+![img]({{site.baseurl}}/img/20200902_05.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2011年2月 劇団だるい００５「流星キャッチャー」
+
+![img]({{site.baseurl}}/img/20200902_06.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2011年6月 4.9発目「轍」
+
+![img]({{site.baseurl}}/img/20200902_13.jpg){: .img-responsive}
+
+[画像は[正直者達ホームページ](http://honestpersons.sub.jp/)より]
+
+
+
 ### 2011年11月 劇団だるい００６「秋涙」
+
+![img]({{site.baseurl}}/img/20200902_07.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2012年3月 劇団だるい００７「春眠」
+
+![img]({{site.baseurl}}/img/20200902_08.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2012年11月 劇団だるい００８「全力疾走」
+
+![img]({{site.baseurl}}/img/20200902_09.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2013年7月 劇団だるい００９「I will say goodbye.」
+
+![img]({{site.baseurl}}/img/20200902_10.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2014年2月 番外公演「Don't know why」
+
+![img]({{site.baseurl}}/img/20200902_11.jpg){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2014年9月 劇団だるい０１０「This Planet is Ours」
+
+![img]({{site.baseurl}}/img/20200902_12.png){: .img-responsive}
+
+[画像は[劇団だるいホームページ](https://www.gekidandarui.com/)より]
+
 ### 2015年7月 劇団だるい０１１「The Goal」
+
+
+
 ### 2016年6月 五発目「嘘吐き２」
+
+
+
 ### 2018年5月 ７発目「追われる二兎」
 
 
