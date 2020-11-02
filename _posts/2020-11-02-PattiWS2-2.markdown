@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "受講しました：パティワークショップ第二期二回目"
+date:   2020-10-26 07:33:43 +0900
+categories: Blog
+---
+
+![IMG]({{site.baseurl}}/img/20201102_01.jpg){: .img-responsive-border} 
+
+
+
+2回目受講。パティ・スタイルズ（Patti Stiles）のWS。
+
+[→Patti Stiles .com](https://www.pattistiles.com/)
+
+[→1回目の記事]({{site.baseurl}}/blog/2020/10/26/PattiWS2-1/)
+
+他人のサポートができてないことが分かった。自分の感情の流ればかりに目が行って、共演者の観察、共演者を輝かせる方向に行かない。共演者のため、共演者のため、と念じていても、自分の方に舵を切ってしまう。
+
+今回は、「気づいたら自分に舵を切っていた」ではなく「自分に舵を切った・切ろうとした瞬間が分かった」というのは収穫。こういうときは「測定できないものは改善できない」のロジックに落とせるので、ここからはラクだろう。
+
+ただ、全体最適かつ自分の芸術性に対してどのような影響があるのかはよくわからない。これはPDCAサイクルでは実現できない気がしている。
+
+さて、振り返ろう。
+
+### メニューと振り返り
+
+#### ウォームアップ
+
+フォーカスまわし。媒体は個人特有のアクション。
+
+個人それぞれで自分のアクション（ポーズ）を作っておき、コールする相手のアクションをすることによってフォーカスを渡していく。
+
+4人一組でやったが、だれが自分にフォーカスを回しているのか、注意していないとぜんぜんできない。注意しててもできない。
+
+難易度が上がっていき、２つのフォーカスが回ったり、さらに連想ゲームまで同時進行するという。息切れした。
+
+
+
+終わった後、振り返った。
+
+「みんな起きたね」とのこと。舞台上で困ってたり思考に入ってたりすると「目が冷たくなる」んだそうだ。それを、共演者として Try to bring back to playしなければならない。そうすると目は輝きを取り戻し、"Madness"すら帯びるのだそうだ。そのためには共演者を驚かしたりする。Take care each other、だそうだ。
+
+#### Tilt exercise
+
+主人公とサポーターの役割に分け、主人公をTiltしていくエクササイズ。これを残り時間すべて行った。
+
+
+
+##### 着目課題
+
+"We try not to change to keep safe"である。なので、Partnerが変われるように助けるといい。それは、InspiringであってForcingではない。Inspiringとは、Invitation to exploreだそうだ。そのInspiringはmaybe nervous but curiousである。
+
+##### 手順
+
+まずは、シーンを始める「Opening Line」を2人一組で6つ作る。ペアを変えてそのうち3つを出し合ってシーン、最初のペアに戻って振り返り、また別のペアで残り3つを出し合ってシーン、最初のペアに戻って振り返り、という流れ。
+
+##### ポイント
+
+- 相手に影響を与えるのは、"Hey, you"のような「シーンに共演者を引っ張り出すだけで何の情報もない」ものではなく、「Wilson、出てこい。隠れているのは分かってる(鬼気迫る感じで)」のような、**Emotion, Character, Situationなどが分かるものがよい。Obligationではなく、舞台に出てきたくなるようなInvitationがよい。**
+- 主役のストーリーを続ける。主役にFocusが行くように。そのシーンは誰のシーンなのか？ 誰のシーンかわからない、主人公がわからないときがよくある。"We can't tilt our partner **unless we do not focus on the partner**"
+- 非日常感。結婚式の直前に、花嫁に「本当に結婚していいのか」とはふつう聞かない。だが、みんなが気になっているところであれば、それを言うべき。
+- Tilt change is very powerful in the scene. **Platform informs you how to change the partner**. StoryやPlatformからかけはなれたTiltをしても、それはこれまでの流れをCancelしていることとなってしまい、Chaosになる。
+
+
+
+
+#### 受講してみて
+びっくりするほど他人のサポートができなかった。しかし、冒頭にも書いたが、他人のサポートができなくなる瞬間は観測できた。クレアから、サディスティックであったほうがよいのでは、という意見をもらった。非常にInspiringだ。相手に服従するばかりで、相手に対して遊び心でTiltすることに慣れていない。が、サポートがうまくなりたいと思っているので、取り組んでいくべきところだ。これは技術というか心持ちの問題だが、その心持ちを変える技術が演劇にはあると思っている。想像の場であるからこそ、実社会でのリスクなしに（精神的なリスクはあるけど）苦手とするコミュニケーションの取り方に挑戦できる。
+
+ところで、昔、ダブルブローで雨宮さんが多用したFirst Line「よかったよ（煙草を吸いながら、気怠げに）」は相当使えることが分かった。
+
+
+
+---
+##### コメント
+[→コメント機能がないので、お問い合わせフォームからコメントください]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
