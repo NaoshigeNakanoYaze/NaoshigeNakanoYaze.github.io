@@ -5,7 +5,7 @@ date:   2020-11-16 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/20201116_01.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20201116_01.png){: .img-responsive-border} 
 
 
 
