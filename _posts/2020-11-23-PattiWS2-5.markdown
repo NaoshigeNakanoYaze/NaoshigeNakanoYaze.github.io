@@ -5,7 +5,7 @@ date:   2020-11-23 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/20201123_01.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20201123_01.JPG){: .img-responsive-border} 
 
 
 
@@ -78,7 +78,7 @@ Playfulであれ、と。
 Environmentalismの場合、木を切り倒す計画を立てる当局の担当者の話になるかもしれない。  
 こういう理解かな、と思って図を書いた。
 
-![IMG]({{site.baseurl}}/img/20201123_01.jpg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20201123_01.JPG){: .img-responsive-border} 
 
 （冒頭と同じ写真）
 
