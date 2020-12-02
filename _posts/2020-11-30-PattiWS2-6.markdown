@@ -1,0 +1,138 @@
+---
+layout: post
+title:  "受講しました：パティワークショップ第二期五回目"
+date:   2020-11-23 07:33:43 +0900
+categories: Blog
+---
+
+![IMG]({{site.baseurl}}/img/20201130_01.jpg){: .img-responsive-border} 
+
+
+
+6回目受講。パティ・スタイルズ（Patti Stiles）のWS。
+
+[→Patti Stiles .com](https://www.pattistiles.com/)
+
+[→1回目の記事]({{site.baseurl}}/blog/2020/10/26/PattiWS2-1/)
+
+[→2回目の記事]({{site.baseurl}}/blog/2020/11/02/PattiWS2-2/)
+
+[→3回目の記事]({{site.baseurl}}/blog/2020/11/09/PattiWS2-3/)
+
+[→4回目の記事]({{site.baseurl}}/blog/2020/11/16/PattiWS2-4/)
+
+[→5回目の記事]({{site.baseurl}}/blog/2020/11/23/PattiWS2-5/)
+
+全８回コースだから、もう折り返しを過ぎたことになる。
+いきなり成長できている感じはしないけど、成長のための土台を作っていっている感覚はある。
+
+
+## メニューと振り返り
+
+### 導入
+
+いつも通り、身の回りの人、先住民に敬意を表すところから始まる。  
+今回も、形から人を愛そうと思って、黙祷の格好をしてみた。前回と同じような神聖な気持ちになったかというとそうでもない。うーん。
+
+
+
+### No "S"
+ウォーミングアップのためにNo "S"をやった。日本語では「さしすせそ」を禁止。
+
+- 勝つためにやる、ということをしないように。
+- Too slow, too safeなプレイヤーがいたらTag outするように
+- Tag outされたらNo argueで退場するように
+
+楽しかったが、すぐNGワード言っちゃい過ぎた。もうちょっと緊迫感を楽しみたかった。まあこれはこれで頭がロジカルからエモーショナルに寄ったのでよかった。
+
+
+
+
+### What comes next?
+
+「次どうなるの」をやった。  手順などは前回参照。
+
+[→5回目の記事]({{site.baseurl}}/blog/2020/11/23/PattiWS2-5/)
+
+今回は、まず全体で実施し、どういう提案が出たか、それが採用されたかされなかったか、それはなぜかをパティの視点からレビューがあった。
+
+今日は120分のうち、これで90分を使った。
+
+
+
+#### 全体実施
+
+私がプレイヤーとなって、ディレクター3人、残りは観客（8人かな？）。
+
+海坊主の話になった。
+
+- ディレクターは、パフォーマンス側と同じ緊張感を持つ。Judgement、Failureの恐怖にさらされ、Every offer is going to be judgedになると知っている。
+- ディレクターはプレッシャーにより、ストーリーの必然性を見落とす
+- 観客にはプレッシャーがないため、クリアに見える。Offerが起これば、そのReactionを見たがる。
+
+楽しく演じられた。プレイヤーにはストーリー的な責任はないので、かなり自由にやれた。その場を楽しむことに集中できた。
+
+また、**途中でタイムアウトを取り、「Ding！」と「Er！」を大きく言うように指示された。**おそらく場のエネルギーを高め、物語への集中力やポジティブさを高める効果があったんだと思う。
+
+振り返りでパティが各オファーにレビューした。
+
+- 実家に行く：N
+  - すでにここにいるという前提がないまま、別の場所に行く。Delay Starting。
+  - 実家のドアをたたく、などにすればYかもしれない
+- 望遠鏡：Y
+  - 意見が割れた。何人かはYで何人かはN。これはNormalなことだ。
+- 海坊主：Y
+  - 多くの人がY。ExcitedNの人はPlatformがもっと欲しかったのかなと思う。
+- 海坊主が船に乗る：Y
+- 船が沈んでいく：Y
+  - Understandable。Consequence of actions so we feel story.
+- 海坊主がダイエットしなきゃと言う：N
+  - Funny and playful. However, it does not help the story. Gag. Gagをやろうとしてなくても、Gagになってしまうことはある。
+  - **Yes, and が支障をきたすという例。**おもしろいので、ここで「Y」にしてしまうと海坊主ダイエット記になってしまう。それがいいか悪いかわからないが、ストーリーが完全に変わってしまうというのは確かだ。
+- 海坊主の背中に乗る：Y
+- 背中が温かい：N
+- 背中にドアを見つける：N
+- 海の国に連れて行こうという：N
+  - すべてLovelyなIdeaだが、キャラクターに変化が見られない。これらは、avoiding the fact that he is sinkingである。沈んで、主人公がどうなるのかと思っている。
+
+
+
+
+
+
+
+
+##### やってみてどうだったか
+
+
+
+
+
+
+
+
+#### 受講してみて
+
+
+
+
+
+
+
+---
+##### コメント
+[→コメント機能がないので、お問い合わせフォームからコメントください]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a> 
