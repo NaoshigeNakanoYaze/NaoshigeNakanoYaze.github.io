@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "視聴：Race"
+date:   2020-12-10 07:33:43 +0900
+categories: Blog
+---
+
+![IMG]({{site.baseurl}}/img/20201210_01.jpg){: .img-responsive-border} 
+
+(画像は広報画像より転用)
+
+インプロカンパニーPlatform第18回公演「Race」の配信を視聴した。初日、リアルタイムで。
+
+今回は無観客公演・配信という形態。
+
+演劇配信を視聴していて画面の前でゲラゲラ笑ったのは初めてかもしれない。
+
+感想をメモしておく。このブログだいたいそうだが、自分のためのメモなので長いし推敲されてないです。すいません。
+
+ネタバレ注意、ではあるが、即興なのでネタバレはあまり気にしなくてよいはずだ。（もしまずかったら指摘してください。本ページ下部にお問い合わせフォームあります）
+
+### 仕組みについて
+
+公式サイトから画像を転載するが、こういうこと↓。
+
+![IMG]({{site.baseurl}}/img/20201211_02.jpeg){: .img-responsive-border} 
+
+配信では解説動画やオープニング動画のインサートで、非常に分かりやすく解説されている。動画もかっこいいし。
+
+12人がトーナメント形式で頂点を競う。負けた方は勝った方のひとつ下に配置される。2回戦を戦ったところで4人のチームが3つになり、そこで決勝をやって、勝ちチームが1位～4位の序列を確保する。台本がないので、だれが勝つか、演じてみないとわからない。ということで、主役がいない。即興群像劇。誰かひとりに感情移入させるというよりは、全体的に起こっていることを興味深く観せていく。
+
+序列を気にしている人たちが、序列の入れ替えに対して真剣になるのはよく分かる。一生懸命この「Race」に参加するという動機になる。
+
+誰一人欠けることなくゴールしなければならない、ということだったが、誰かが欠けそうになる展開もあるのだろうか？ 1位になれないなら自分を含め全員死ぬことも覚悟する、みたいな展開も期待できると思った。お互い、序列はあるが仲は良さそうなので、そこまでにはならないのかな。
+
+あと、インプロならではの観客参加について。オフラインであればお題を紙で渡したり、直接聞かれたりする。今回は視聴人数によって対戦の組み合わせが変わる。組み合わせはトランプで決定される。そのカードを何回シャッフルするかを視聴人数によって決定する。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">チケット買った人にとってうれしいし、演じる側にもすごく影響ありそう。観客の存在感やわずかな仕草で演者も影響を受け、芝居が変わっていく。インプロならストーリーが変わっていく。今回、「視聴している人の数を回数としてカードを切る」ことによって直接的に視聴者が貢献できる。よー考えたもんや <a href="https://t.co/yBIRpChHvm">https://t.co/yBIRpChHvm</a></p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1337146844825075714?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 配信について
+
+配信はどこでも観れるという利点がある。アーカイブが残るならいつでも観れる。しかし、その視聴環境をバッチリ確保するというのは非常に困難だなと思う。家族、近隣の生活音でだいぶ没入感は減る。それでも今回、画面の前でゲラゲラ笑えたのはよかった。私がインプロ好きなこともそうだろうが、出演者が混乱しつつもトライして（石巻さんとか）、それに対して冷静にストーリーに引き戻す人もいて（住吉さんとか）、ストーリーというか舞台上でのドラマがエキサイティングだったからだなと思う。
+
+照明は、かなり勝手が違いそうだなと思った。劇場での見え方と配信の見え方は違うだろう。劇場での演者に最高の影響を与えつつ、配信できれいに見せるというのは、両立しづらいと予想できる。（自分も動画を撮影しているとき、きれいに撮ろうとすると眩しい）
+
+この時期、配信があるというのは本当にありがたい。私が外出することによって公共の場の人口密度が上がってしまい、私を含むほかの人の感染リスクを上げてしまう。対策にも手間がかかるし。
+
+### 芝居について
+
+Platform（団体名でなく、インプロ用語として使ってます）ができて、その可能性の円の中にある出来事がキャラクターのパーソナルな感情により起こっていると心地よく観れる。Platform（こちらは団体名）では「コンセプトインプロ」ということであらかじめ役や、ベースの関係性が決まっている状態でこれを行う。なので、台本芝居と同様「演じる側は知っているが観客は知らない」設定が起こりやすい。しかし、さすがプロ集団。出来事・アクションではなく心のやりとりにすることで、その背景を推し量ることができ、分厚い情報量のシーンが連続する。さすがだなと思う。（出来事・アクションだけだと設定資料集的なものを読み込んでもついていけるかどうか、というところだろう）
+
+印象的だったのは、上述した石巻さんと住吉さんのシーン。グダグダ（と言ったら悪いが）になっている石巻さんを見てて必死さも混乱も伝わってきてエキサイティングだった。ただ、それだけだとただの混乱で終わってしまって興味深さが減ってしまうが、住吉さんがその混乱の情報量が途切れるギリギリのところで次のストーリーにつなげていった。助け合いだなあと思った。観ててこんなことをつぶやいた。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エネルギーだけが飛び交う。ロジックが破綻する。ロジックを戻そうとするが手はない。エネルギーだけが飛び交う。ロジックがあるから必死になる。そうだ、ロジックが要らないわけではない。ロジックに支配されて抵抗するからアートが生まれるのか。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1337001496018210819?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+こんなセリフも本番中に出てくるし。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「おまえなんかアイデアあんのか」ｗｗｗ</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1337001791683059713?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+また、いいなと思ったのは池田さんと青木さんのシーン。静かなシーンだった。お互いがお互いをうらやましく思う、それを素直に伝えるという、人間臭いしいい人たちなんだろうなと思わせるシーンだった。本当に素直なやりとり。大きな展開が起こるわけでもない。でもこれが興味深いということなんだろうな。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">神と旅人がお互いにうらやましく思うのが、人間くさくていいなあ</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1336994533704228870?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+住吉さん、戸草内さんのシーンもスゲェと思った。どちらも物語をバキッと前に進めるための行動を起こしていて、それが合致していなくて、でも統合されていく。唸った。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Tiltの応酬。チョコレートを渡すことで仕掛ける、チョコレートを「もらってやる」ことで仕掛ける。カチ合っているわけだが、前のめりに採用を読み合う。激しい。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1336999035144552450?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+やっぱり、即興なので、何の乱れもなくストーリーが進むことはない。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">すべてが完璧に進むわけではない。物語のボールがピヨピヨして、ハマったところで動き出す。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1337003338991165440?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+この動き出す瞬間が気持ちいいんだな。
+
+あと石戸さんの「乙女心でぶつかってこい！」というセリフ。乙女心ってそういうテンションだっけ！？ というミスマッチで可笑しみがあってよかった。これも、ギリギリのところで生まれたセリフ。セリフ単体のおもしろさというよりは、これがひねり出される瞬間が美しい。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「乙女心でぶつかってこい」ｗｗｗ</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1337003489508016128?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+### その他
+
+インプロはおもしろい。このおもしろさをもっと広めていきたい。余計なお世話なんだろうけど、インプロの技術や精神は人類をオモローに幸せにしていけると思っている。今回視聴して、再認識した。やることは変わらない。もっとおもしろいものを作る。もっとおもしろい体験の場を作る。その力をもらった。
+
+
+
+
+
+---
+
+##### コメント
+
+[→コメント機能がないので、お問い合わせフォームからコメントください]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@](C:/Users/kazuy/Documents/GitHub/NaoshigeNakanoYaze.github.io/_posts/{{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a> 
