@@ -139,6 +139,6 @@ MCの声がいい。いいショーが始まるんだ、と思わせてくれる
 サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
 ご登録よろしくお願いします。
 
-![LINE@](C:/Users/kazuy/Documents/GitHub/NaoshigeNakanoYaze.github.io/_posts/{{site.baseurl}}/img/lineat.png){: .img-responsive}
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
 
 <a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a> 
