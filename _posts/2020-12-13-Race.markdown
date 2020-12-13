@@ -1,0 +1,156 @@
+---
+layout: post
+title:  "視聴：Race千秋楽"
+date:   2020-12-13 07:33:43 +0900
+categories: Blog
+---
+
+![IMG]({{site.baseurl}}/img/20201210_01.jpg){: .img-responsive-border} 
+
+(画像は広報画像より転用)
+
+インプロカンパニーPlatform第18回公演「Race」の配信を視聴した。千秋楽、リアルタイムで。
+
+初日も観たので、それは別記事。[→初日の感想記事]({{site.baseurl}}/blog/2020/12/10/Race/)
+
+今回は仕組みを知っていたので、ゲラゲラ笑うというよりは技術寄りのところを観れたように思う。
+
+今回も、「とりあえず記した」レベル。読みづらい。が、早く書いてしまうことに意味があるように思う。
+
+
+
+### 仕組みについて
+
+新たに発見したのは、1位の種族を12位の種族が殺すかどうかは、12位の種族が選択できるということ。今回は入れ替わりはなかった。
+
+あの流れだと芸人は美人を殺せないな、と思った。
+
+最下位になってしまい、猫に「芸人の師匠をつけてやる」とそそのかされたが、美人のエネルギーで塗り替えた。おもしろいことしろよ、という絶対嫌なフリだが、ここはそれしかないなと思った。「フラッグシップ」で「黒船来航、、、ご来光」みたいな意味不明なダジャレが生まれた。これはおもしろくない。大笑いした。なんじゃそら。なんやかややってもおもしろいことは出ず、美人に「今できないことを認めて、前に進むんだよ。私たちといっしょに」と言われる。こんなん言われたらついていくしかないやん。
+
+寝返らせたはずの芸人が寝返らなかった。そうすると元の1位である美人が全軍率いて山頂を目指すのね。
+
+### 配信について
+
+なんと、ラストシーンあたりで音声トラブル。映像は観れるが音声が来ない。
+
+が、話の筋を語り終わった時点でのトラブルだったので、あとは無声劇でも類推はできた。
+
+そして、カーテンコールの途中で音声が復活した。
+
+トラブルが起こらないほうがいいとは思うが、盛り上がりをすべて消し去るほどではなかったように思う。
+
+
+
+### 芝居について
+
+さあ、いろいろ観れた気がする。自分の理解で分析するので、心外なこともあるとは思うが、考えつく限りをメモしておこう。
+
+
+
+
+
+もっとも笑ったのは工人のシーン。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">工人、最高にかっこいい→マヌケか！</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338078676391395332?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+悪人に利用されそうになるのなら勝利の権利を放棄する、というかっこいいシーンだが、工人はトランプを投げ捨てたつもりがヒラリと返ってきちゃって悪人に拾われてしまうという。マヌケ極まりない事件だった。これこそ、ハプニングだろう。本気だから、このマヌケが笑える。
+
+そして、もっとも印象深いのは官人と医人のシーン。お手本のようなシーンだったように思う。お手本というかケーススタディというか。
+
+医療格差を憂う医人、自分の後ろ盾となる悪人を勝たせたい（悪人に依存している？）官人。どちらもステータスの上位を取ろうとしていた。ストーリー上、キャラクター上、その場の雰囲気、俳優の心理、などいろいろな影響はあったと思うが、とにかくどちらもステータスの上位、言い換えるとコントロール権を得ようとしていた。官人がアクションを取るが、医人はステータス上位を取るために無効化する（銃に対する防弾服とか。ほかにも心理的な面でも）。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">銃が効かない！　どうしたものか。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338074980890726400?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+要求がカチ合って、膠着状態に見えた。そこで官人が自分の命を人質に取り、コントロール権を得る。たしかにルール上、誰かが死ぬと全員死ぬという縛りがある。この脅しは効果が上がる。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自分の命を人質に取るかー。確かに死なれては困る。悪人を勝たせるという目的。<br><br>5対11か</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338075471750172672?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+（防弾服を着ているとはいえ、銃弾にちょいちょい怯える医人におかしみがあった）
+
+次の官人・医人のシーン（4人シーンの序盤）でも膠着が見られるが、そこで官人がストーリーの要素、なぜ官人がこんなにがんばるかというPlatform（団体名ではなくインプロ用語。シーンの基盤となる情報）を提供するだけでなく、そこから感情としてどうなのかというアクションを起こす。イメージは、スポ根漫画で、過去の回想シーンを経たキャラクターが競り勝つみたいな。違うか。いや、だいたいそうだと思う。そこで医人は揺れる。神人が医人をサポートする。しかし、さらに官人が医人を揺らす。結局、揺らされてその場は官人に屈する。両側のステイクスを積まれた人間が決断するという流れだった。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ストーリーの要素の組み合わせ→パーソナルの要素。流れるような流れ。すごい。<br><br>シウンにさらに戦うことを積む<br><br>シウンの正義感を揺らす<br><br>シウンどうする</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338083591427772417?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+（流れるような流れ、ってなんだ。こんなに頼もしいとは頼もしい、みたいなおもしろい言葉が生まれた）
+
+ともかく、膠着したら別ルートから攻めていく、というケーススタディを見ることができた。実際にこれをやるには、びっくり国宝人間クラスのストーリー構築能力やパーソナルな感情をぶち込む能力が必要になってくるとは思うが。そして医人は揺らされ、選択する。ひとつの興味深いケースだ。
+
+MCのファインプレーとして2つ勉強できた。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あだ名は何だったんだろうか。絶妙のところで引くな。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338071108520615936?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+62シャッフル中、1エピソードを話さないといけない役回りなのだが、オチを話す直前で撤退する。オチが聞きたかったようにも思うが、本筋の話に素早く向かうために、自分の話を切り上げたように見えた。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">三浦さん自分の発言を切ってでも進行に貢献する</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338073282541547521?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+いきなり個人名が出ているが、これも全体進行に向かうケース。三浦さんは少なくとも3回、自分の言葉を飲み込んだ。ともかく早く本筋を進めるため、自分の発言を切り、次に行く。多少、「なにがいいたかったんだろう」という気持ちは残るが、進行がテンポよく進むことのメリットは大きいと思う。
+
+電人と武人のシーンでは、自分が生きるために外の世界を自分好みに作り替えるという壮大な合意があった。自然の中で生き、なぜかキノコ食って小人になる。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おや、、、<br><br>なんで小さくなる<br><br>「なんでだ」</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338077230698700800?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+いやほんと、「なんでだ」と突っ込みたくなるよ。
+
+美人と飯人のシーン、虐げられた側の気持ちがよく出ていた。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">美人、飯人。義務教育時代からの同級生。<br><br>そうか、3位と4位だから1位と2位にいいようにやられるのか。<br><br>マジいじめ状態やないか。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338079335480102912?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+これをひっくり返すのに奮闘したが、ひっくり返せなかった。
+
+「今日ぐらい、今日ぐらい特別なことが起きたって」と飯人は言う。希望に見える。が、自分の力だけではどうにもならないあきらめを感じる。でも希望である。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">マツヤかっこええ声やな。かっこええ声で毒盛ったのか。<br><br>学友はどんな目に遭わされたんだろう。<br><br>「美しい世界」か。<br><br>「今日ぐらい、今日ぐらい特別なことが起きたって」<br><br>希望のようなあきらめのような希望。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338080232079704066?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+愛人の序盤、意識レベルが低→高となる設定というか遊びをしていた。遊べるっていい。虐げられているからひっくり返したい、というのは低い序列が持つ自然な感情のように思う。地球破壊爆弾の話題が出たときに旅人が「それがなんでここにあるの」という、クライマックスから始めるというお遊びをしていた。遊べるっていい。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「10年前の種族絶滅事件」<br><br>「地球破壊爆弾」<br><br>「それがなんでここにあるの」<br><br>ええっ</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338080900123258882?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+悪人、工人、電人、小人の武人のシーンでは、政治への関心が話題になった。序盤、ボロの口がまったく回っていなかったな。自分で言っていたが。政治に関心を持つにはどうすればいいか、なんていうのも考えていたので、示唆をもらえた。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">友達ができると政治を考える、か。そうかもしれない。社会のことを考えるとき、身近な人から始めるのはいいかもしれない。もちろん、身近な人だけを見てたら全体は見れないんだろうけど。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338084134464311296?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+美人、飯人、愛人、旅人のシーンでは、中盤までただご飯を食べているだけだった。平和でよかった。同じ時間を過ごしていた。かと思えば、悪人に勝てるのかという現実的な話も。革命を起こしてよいとはいえ、支配階級をひっくり返すというのは恐怖だと思う。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">食べてるだけだ。平和だ。<br><br>かと思えばSerious、現実も。</p>&mdash; 中野直重/ヤーゼ (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1338086261261668357?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+このあたりから息子がハッスルしだしたのでメモが取れなくなっていく。
+
+印象的だったのは悪人チームの「表現」で、全員が小さくなるミクロの決死圏作戦をやった上で、武人が悪人を拳で一閃したところ。優勝は美人チームとなた。
+
+ネコ登場。「ダイアモンド」という題名で歌う。ミュージカルのために作曲したんじゃねえかというメロディーを聞かせてもらった。
+
+ネコは12位の芸人を追いつめる。「誰のことも笑顔にできない」と。ひどい。つらい。揺れまくる芸人。あ、これは陥落したなと思ったが、序盤にも書いたように美人が塗り替える。どっちになるんだろう、とも思ったし、やっぱこっちだよね、という納得感もあってエキサイティングだった。
+
+
+
+
+
+### その他
+
+種族序列が下の方になって、120年続くと言われたらつらい。自分の子供はいじめられ人生を送るってわかってるっていうこと。ありえん。おそらく陰湿になる。ただ、陰湿なことばっかりやっててもお話としておもしろくない。Raceではわだかまりはありつつも、ルールにのっとって戦っていた。現実世界ではもっと卑怯な手がいっぱい取られることだろう。意識的・無意識的に。せめてこの作品ぐらい、正々堂々と戦えるフィールドがあればいいと思った。そうでない現実を生きなければならない我々は、力をつけて、仲間を作って、自分を慰める方法を見つけて、逃げて、生き延びていくしかない。そうね、生きよう。
+
+舞台監督の小林さんが今後はPlatformから離れるとのこと。Platform出演時は何度もお世話になりました。休憩とかでダーっとしゃべるのが楽しかったです。あと、私の公演で使ってよと言ってくださったことは本当にうれしかったです。主催公演やるときは声かけます。またどこかで。
+
+
+
+---
+
+##### コメント
+
+[→コメント機能がないので、お問い合わせフォームからコメントください]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a> 
