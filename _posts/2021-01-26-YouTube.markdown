@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "動画はじめました"
+date:   2021-01-26 07:33:43 +0900
+categories: Blog
+---
+
+
+
+<iframe width="280" height="300" src="https://www.youtube.com/embed/0BJLprwlq8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+YouTubeに動画を投稿しました。
+
+YouTuberになる、というわけではありませんが、動画を撮ってみたいというのは前々から思っていたので、やってみました。
+
+コロナによって人前での芝居がやりづらくなってきているため、というのもあるし、文化庁なり市町村なりが「文化芸術やってください！ 支援します！」というメッセージをくれたのが後押しになりました。
+
+今から動画はじめたってYouTuberで稼ぎまくれるかというとそうでもないだろうし、私よりおもしろい人なんてたくさんいるし、じゃあ自分が投稿する意味って何だろうと思います。
+
+まあ、自分がやりたいからと、きっと誰かは喜んでくれるだろうと思ってるからです。
+
+
+
+動画は、優秀なスタッフたちのおかげで、私の実力以上に仕上がっています。
+
+そして、ありがたいことに中野のおもしろさをそのまま出そうとみんな協力してくれています。
+
+みんな忙しい中、何度も会議に出てもらって、作業してもらって、本当にありがたいことです。
+
+
+
+2月末までに5本、もしくはそれ以上の投稿をするつもりです。
+
+別に難しい話はしていないので、気軽な感じでご覧ください。
+
+
+
+
+
+
+
+
+
+---
+##### コメント
+[→コメント機能がないので、お問い合わせフォームからコメントください]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a> 
