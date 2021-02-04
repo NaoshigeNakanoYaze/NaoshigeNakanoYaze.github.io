@@ -9,11 +9,9 @@ categories: Blog
 
 
 
+<a href="http://ptix.at/sEfTvn.html"><img src={{site.baseurl}}/img/20200203_01.jpeg alt="申し込みサイト"></a>
 
 
-
-
-![flyer]({{site.baseurl}}/img/20200203_01.jpeg){: .img-responsive}
 
 2021年2月20日20時から、演劇教育ナレッジフォーラムをオンライン開催します。
 
@@ -33,7 +31,7 @@ categories: Blog
 
 （引用元：[FutureEdu Tokyo](http://www.futureedu.tokyo/most-likely-to-succeed))
 
-> Most Likely to Succeed とは？
+> Most Likely to Succeed とは？  
 > 「Most Likely to Succeed」 は、「人工知能 (AI) やロボットが生活に浸透していく21世紀の子ども達にとって必要な教育とはどのようなものか？」というテーマについて、「学校は創造性を殺しているのか？」TEDトークで著名なケン・ロビンソン卿、カーンアカデミーのサルマン・カーン氏、ハーバード・イノベーション・ラボ所属の、トニー・ワグナー氏などの有識者や多くの学校取材を2年間積み重ねられ制作されたドキュメンタリー作品です。2015年の公開以来、7000以上の学校や図書館、公民館といった公共施設や、SXSW edu を含む教育カンファレンスなどで上映されています。
 >
 > 米国のカリフォルニア州にある High Tech High というチャータースクールに通う二人の高校１年生の成長を追いかける過程で、日本と同様な受験偏重型教育と、生きる力を身につける実践的な教育のバランスをどう考えるかなど、国は違えど似た状況も多く、教育を取り囲む様々な視点について考えさせられる作品です。
