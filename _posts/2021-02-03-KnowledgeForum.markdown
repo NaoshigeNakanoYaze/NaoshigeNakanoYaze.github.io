@@ -9,7 +9,11 @@ categories: Blog
 
 
 
-<a href="http://ptix.at/sEfTvn.html"><img src={{site.baseurl}}/img/20200203_01.jpeg alt="申し込みサイト"></a>
+<a href="http://ptix.at/sEfTvn">
+
+![flyer]({{site.baseurl}}/img/20200203_01.jpeg){: .img-responsive}
+
+</a>
 
 
 
