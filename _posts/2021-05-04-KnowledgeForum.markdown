@@ -11,7 +11,7 @@ categories: Blog
 
 
 
-![flyer]({{site.baseurl}}/img/20200504_01.png){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20200504_01.jpg){: .img-responsive}
 
 
 
