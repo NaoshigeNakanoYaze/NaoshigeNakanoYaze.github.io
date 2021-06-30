@@ -11,7 +11,7 @@ categories: Blog
 
 2021年度の1年間、中学校演劇部への外部講師を務めることになりました。
 
-https://www.gekidandarui.com/text/010-this-planet-is-ours/tayori/主宰大島と2人で対応中です。
+[劇団だるい](https://www.gekidandarui.com/)主宰大島と2人で対応中です。
 
 経緯、大島との役割分担、どんなことやってるか、やってみてどうだったか、というのを書いておきます。
 
