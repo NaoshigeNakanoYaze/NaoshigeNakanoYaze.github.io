@@ -5,7 +5,7 @@ date:   2021-11-13 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/20211113_01.jpeg){: .img-responsive-border} 
+![IMG]({{site.baseurl}}/img/20211113_01.png){: .img-responsive-border} 
 
 外部講師の日でした。  
 緊急事態宣言などの影響で、3ヶ月以上あいてしまった。  
