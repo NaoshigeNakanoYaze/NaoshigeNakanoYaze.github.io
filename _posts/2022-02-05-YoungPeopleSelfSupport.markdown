@@ -10,9 +10,7 @@ categories: Blog
 かわぐち若者サポートステーション(以下、サポステ)のイベントで、即興劇のセミナーとショーを担当してきました。  
 ダイジェストの報告動画(0分43秒)↓  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pqIatYulg_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPl9fRUeqHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 チラシ画像↓  
 
@@ -63,9 +61,7 @@ categories: Blog
 元々、知っている人同士というのもあって、お互いに応援しやすい関係性があったからこそのものだと思いますが、それを損なわないような場ができたのはよかったです。  
 セミナー中、私のチャレンジングな内容に対し、参加者も「難しそうだけどやってみたい」というポジティブな声が聞けたのがとてもうれしかったし、そこから印象深いシーンが出来上がった（シーンにしようと思ってたわけではないですが）のは大収穫だったと思います。  
 
-
-一方、会場にいた人からは「人前に出るなんて、、、」という拒絶感を感じることも何度かありました。  
-これは私の実力の問題ももちろんあるでしょうし、さまざまな背景が重なった、根深い問題な気もしています。
+一方、会場にいた人を巻き込んでショーをするためには、もっと参加しやすい配慮が必要かなと感じました。  
 今後の活動で、もっと気楽に楽しめるような機会をひとつでも作っていこうと思いました。  
 
 
