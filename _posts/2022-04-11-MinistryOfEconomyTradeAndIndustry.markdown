@@ -9,6 +9,8 @@ categories: Blog
 
 ![flyer]({{site.baseurl}}/img/20220411_01.jpg){: .img-responsive}
 
+(画像は株式会社フィアレスのホームページより)
+
 
 株式会社フィアレス主催のインプロワークショップのアシスタントとして参加してきました。  
   
