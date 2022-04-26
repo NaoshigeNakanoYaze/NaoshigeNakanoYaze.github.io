@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ダンスが繋いでくれた演劇"
-date:   2022-04-11 07:33:43 +0900
+date:   2022-04-27 07:33:43 +0900
 categories: Blog
 ---
 
