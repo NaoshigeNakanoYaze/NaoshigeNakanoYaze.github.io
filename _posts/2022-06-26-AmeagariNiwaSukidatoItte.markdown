@@ -67,7 +67,7 @@ U-22：1500円
 
 【チケット予約方法】  
 フォームにアクセスし、必要事項をご記入ください  
-[https://forms.gle/uyyLrnCnF3mCfLPDA(https://forms.gle/uyyLrnCnF3mCfLPDA)  
+[https://forms.gle/uyyLrnCnF3mCfLPDA](https://forms.gle/uyyLrnCnF3mCfLPDA)  
 
 【出演】  
 『オリキュレールの糸』(vol.6 ～8月編～)  
