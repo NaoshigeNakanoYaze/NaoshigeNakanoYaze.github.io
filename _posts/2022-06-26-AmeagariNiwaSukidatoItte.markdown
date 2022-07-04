@@ -47,10 +47,10 @@ categories: Blog
 
 ・アクセス  
 JR川崎駅直結徒歩5分 ラゾーナ川崎プラザ5F  
-http://www.plazasol.jp/map.html  
+[http://www.plazasol.jp/map.html](http://www.plazasol.jp/map.html)  
 
 ・ラゾーナ川崎プラザソル オフィシャルサイト  
-http://www.plazasol.jp  
+[http://www.plazasol.jp](http://www.plazasol.jp)  
 
 【タイムテーブル】  
 2022年8月20日(土) ◇13:00～／◆17:00～  
@@ -66,8 +66,8 @@ U-22：1500円
 ※日時指定、全席自由  
 
 【チケット予約方法】  
-リンクからフォームにアクセスし、必要事項をご記入ください  
-https://forms.gle/uyyLrnCnF3mCfLPDA  
+フォームにアクセスし、必要事項をご記入ください  
+[https://forms.gle/uyyLrnCnF3mCfLPDA(https://forms.gle/uyyLrnCnF3mCfLPDA)  
 
 【出演】  
 『オリキュレールの糸』(vol.6 ～8月編～)  
@@ -101,14 +101,14 @@ https://forms.gle/uyyLrnCnF3mCfLPDA
 【問い合わせ】  
 Mail： ao@nijinomoto.com  
 Twitter：@aono_moto  
-https://mobile.twitter.com/aono_moto/  
+[https://mobile.twitter.com/aono_moto/](https://mobile.twitter.com/aono_moto/)  
 Instagram：@aono_moto  
-https://www.instagram.com/aono_moto/  
+[https://www.instagram.com/aono_moto/](https://www.instagram.com/aono_moto/)  
 虹の素  
-https://www.nijinomoto.com/  
-https://ameblo.jp/element-of-rainbow  
+[https://www.nijinomoto.com/](https://www.nijinomoto.com/)  
+[https://ameblo.jp/element-of-rainbow](https://ameblo.jp/element-of-rainbow)  
 青の素稽古ブログ(キャスト・スタッフが毎稽古ごとに日替わりで書いています  
-https://ameblo.jp/element-of-rainbow/theme-10095921549.html  
+[https://ameblo.jp/element-of-rainbow/theme-10095921549.html](https://ameblo.jp/element-of-rainbow/theme-10095921549.html)  
 
 
 
