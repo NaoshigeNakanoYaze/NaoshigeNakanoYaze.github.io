@@ -183,11 +183,26 @@ OKをもらい、こんな長文が書けるぐらいの経験をさせてもら
 幸運、それに尽きる。  
 **主宰の猪熊さんに声をかけてもらったこと、家族のサポートがあったこと、座組が温かかったこと、これまでの経験があったこと、私を含む全員が健康のまま公演に突入できたこと、いい芝居ができたこと。**  
 もちろん書き出せばミスや課題はいくらでもあるけど、それを覆い尽くすほどの喜びを与えてもらいました。取りに行けました。  
+
 今後も恩返しをしつつ、自分も楽しんでいこうと思います。  
+
+
+---
 
 ![flyer]({{site.baseurl}}/img/20220827_05.jpg){: .img-responsive}
 
 ![flyer]({{site.baseurl}}/img/20220827_08.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20220827_10.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20220827_11.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20220827_12.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20220827_13.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20220827_14.jpg){: .img-responsive}
+
 
 ![flyer]({{site.baseurl}}/img/20220827_09.jpg){: .img-responsive}
 
