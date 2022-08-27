@@ -8,7 +8,7 @@ categories: Blog
 ![flyer]({{site.baseurl}}/img/20220827_01.jpg){: .img-responsive}
 
 
-【終演しました：青の素第7回公演】
+
 
 寂しい。終わってしまった。
 
@@ -133,6 +133,8 @@ Platformでは、**シーンで課題が見つかると、それを解消する�
 **悪の組織風、爽やか風、右手に魔物が潜んでる風**、など。これも効果的で、テイストごとに発見できることがある。  
 セリフの意味に、多面的に気付ける。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は右手に魔物が棲んでる風でやってみました。自分で見返してみましたがまったくセリフが入ってきません笑　噛んだ手が汚い！<br><br>「<a href="https://twitter.com/hashtag/%E3%82%AA%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E7%B3%B8?src=hash&amp;ref_src=twsrc%5Etfw">#オリキュレールの糸</a>」サニー店長の長台詞練習動画2022/8/8 <a href="https://t.co/iSSsEYDAo6">https://t.co/iSSsEYDAo6</a> <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a>より <a href="https://twitter.com/hashtag/%E9%9D%92%E3%81%AE%E7%B4%A0?src=hash&amp;ref_src=twsrc%5Etfw">#青の素</a> <a href="https://twitter.com/hashtag/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%82%B5%E3%83%8B%E3%83%BC%E5%BA%97%E9%95%B7?src=hash&amp;ref_src=twsrc%5Etfw">#今日のサニー店長</a></p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1556637556648775682?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 そして、稽古場や小屋など、**声を出せるところでひたすら音読する。**  
 これは、カムヰヤッセン「レドモン」でクロムモリブデンの板倉チヒロさんと同じ現場になった時、チヒロさんが**これでもかとひたすら音読しまくってた**姿を見て、俺も真似しようと思ってやってみた。  
 いや、当たり前の練習法ではあると思うが、何度もやると飽きる。って思ってたが**今回は全然飽きなかった。**  
@@ -170,6 +172,8 @@ Platformでは、**シーンで課題が見つかると、それを解消する�
 妻には**「出ていい？」と質問するというよりも「出させてほしい」とリクエスト**した。  
 今後の演劇事業、特に演劇教育に良い影響が見込めるという説明もしたが、とにかく「出たいです！」という気合が強かった。  
 OKをもらい、こんな長文が書けるぐらいの経験をさせてもらった。  
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ズーラシアでした <a href="https://t.co/wiZzL7lcTl">pic.twitter.com/wiZzL7lcTl</a></p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1538400466895110144?ref_src=twsrc%5Etfw">June 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 幸運、それに尽きる。  
 **主宰の猪熊さんに声をかけてもらったこと、家族のサポートがあったこと、座組が温かかったこと、これまでの経験があったこと、私を含む全員が健康のまま公演に突入できたこと、いい芝居ができたこと。**  
