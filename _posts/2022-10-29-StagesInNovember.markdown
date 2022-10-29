@@ -9,13 +9,13 @@ categories: Blog
 今年決まっている活動情報まとめです。こんなに活動できる！　素晴らしい！　大丈夫か俺！
 
 | 日時 | 活動種別 | タイトル | やること | 場所 | 予約・申込 |
-|—————|-———————|-————|————————|—————|——————|
+|-|-|-|-|-|-|
 | 11月3日（木・祝）13時〜  | 講演 | GLODEA演劇教育フェスティバル  | 簡単な活動報告と、当日の出席者が興味ありそうな議題についてディスカッションします | [シアターウイング(四ツ谷・信濃町)](https://studio-wing.com/map/) | [公式ページ(ページ下部に予約フォーム)](https://globaldrama.org/event/festival2022) |
 | 11月7日（月）19時〜  | 出演 | 海辺で見た犬  | ゲスト枠（30分）で[株式会社フィアレスの我妻さん](https://fearlessinc.jp/about/)といっしょにショーとワーク、本編に少しだけ出演 | [象の鼻テラス(横浜、日本大通り)](https://zounohana.com/map/) | [PassMarket](https://passmarket.yahoo.co.jp/event/show/detail/02v7wqxfy1j21.html) |
 | 11月12日（土）14時〜  | 出演 | 山形ワンコイン演劇祭in新庄  | [アトランダム](https://twitter.com/atrandomymgt/status/1579766255250075648?s=61&t=OYRf2g9QD2mqXnOLINPvhw)さんに混じって、インプロショーに出演します。 | [新庄市エコロジーガーデン(山形県新庄市)](http://www.city.shinjo.yamagata.jp/g/kanko/020/010/010/index.html) | [CoRich](https://stage.corich.jp/stage/168137) |
 | 11月21日（月）19時30分〜  | 出演 | セカンドサークル  | 1時間、ノンストップの即興芝居に出演 | [i Rego Garage(荻窪)](https://www.ikedaregogarage.com/) | Coming soon |
 | 11月26日（土）14時〜  | ファシリテーター | 演劇教育ファシリテーター養成講座  | [ひなぎく幼稚園](http://www.lime78.co.jp/pre/hinagiku_kari/top.html)園長、加藤先生とともに、「いかに子どもの学びを邪魔しないか」みたいな観点で楽しくシアターゲームしようと思います。 | [プーク人形劇場5階(新宿)](https://theatre.puk.jp/access/) | 下記チラシ画像ご参照 |
-| 12月9日（金）19時〜  | 聞き手 | いろはにらくご  | [桂笹丸さん](http://www.geikyo.com/lite/profile/profile_detail.php?id=292)が落語や寄席に関する講義をするので、話を引き出したりする係をやります。 | [Intersection Cafe()](https://www.intersectioncafe.tokyo/) | 下記チラシ画像ご参照 |
+| 12月9日（金）19時〜  | 聞き手 | いろはにらくご  | [桂笹丸さん](http://www.geikyo.com/lite/profile/profile_detail.php?id=292)が落語や寄席に関する講義をするので、話を引き出したりする係をやります。 | [Intersection Cafe(秋葉原、小川町、淡路町)](https://www.intersectioncafe.tokyo/) | 下記チラシ画像ご参照 |
 
 
 以下、それぞれのチラシ画像やコメントを少しずつ。
