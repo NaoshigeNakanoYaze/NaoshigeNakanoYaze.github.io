@@ -14,7 +14,7 @@ categories: Blog
 | 11月12日（土）14時〜  | 出演 | 山形ワンコイン演劇祭in新庄  | [新庄市エコロジーガーデン(山形県新庄市)](http://www.city.shinjo.yamagata.jp/g/kanko/020/010/010/index.html) | [CoRich](https://stage.corich.jp/stage/168137) |
 | 11月21日（月）19時30分〜  | 出演 | セカンドサークル   | [i Rego Garage(荻窪)](https://www.ikedaregogarage.com/) | Coming soon |
 | 11月26日（土）14時〜  | ファシリテーター | 演劇教育ファシリテーター養成講座  | [プーク人形劇場5階(新宿)](https://theatre.puk.jp/access/) | 下記チラシ画像ご参照 |
-| 12月9日（金）19時〜  | 聞き手 | いろはにらくご   | [Intersection Cafe()](https://www.intersectioncafe.tokyo/) | 下記チラシ画像ご参照 |
+| 12月9日（金）19時〜  | 聞き手 | いろはにらくご   | [Intersection Cafe(小川町・淡路町)](https://www.intersectioncafe.tokyo/) | 下記チラシ画像ご参照 |
 
 以下、それぞれの簡単な説明です。
 
