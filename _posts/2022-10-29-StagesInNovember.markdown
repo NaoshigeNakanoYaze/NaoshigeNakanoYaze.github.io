@@ -10,14 +10,51 @@ categories: Blog
 
 | 日時 | 活動種別 | タイトル |  場所 | 予約・申込 |
 |—————|———————|-————|—————|——————|
-| 11月3日（木・祝）13時〜 | 日時 | 活動種別 | タイトル |  場所 | 予約・申込 |
-|—————|———————|-————|—————|——————|
 | 11月3日（木・祝）13時〜  | 講演 | GLODEA演劇教育フェスティバル  |  [シアターウイング(四ツ谷・信濃町)](https://studio-wing.com/map/) | [公式ページ(ページ下部に予約フォーム)](https://globaldrama.org/event/festival2022) |
 | 11月7日（月）19時〜  | 出演 | 海辺で見た犬   | [象の鼻テラス(横浜、日本大通り)](https://zounohana.com/map/) | [PassMarket](https://passmarket.yahoo.co.jp/event/show/detail/02v7wqxfy1j21.html) |
 | 11月12日（土）14時〜  | 出演 | 山形ワンコイン演劇祭in新庄  | [新庄市エコロジーガーデン(山形県新庄市)](http://www.city.shinjo.yamagata.jp/g/kanko/020/010/010/index.html) | [CoRich](https://stage.corich.jp/stage/168137) |
 | 11月21日（月）19時30分〜  | 出演 | セカンドサークル   | [i Rego Garage(荻窪)](https://www.ikedaregogarage.com/) | Coming soon |
 | 11月26日（土）14時〜  | ファシリテーター | 演劇教育ファシリテーター養成講座  | [プーク人形劇場5階(新宿)](https://theatre.puk.jp/access/) | 下記チラシ画像ご参照 |
 | 12月9日（金）19時〜  | 聞き手 | いろはにらくご   | [Intersection Cafe()](https://www.intersectioncafe.tokyo/) | 下記チラシ画像ご参照 |
+
+以下、それぞれの簡単な説明です。
+
+———
+#### 11月3日（木・祝）GLODEA演劇教育フェスティバル
+
+入場無料。  
+
+私が何をやっているか、何をやってきたかがダイジェストで聞けます。
+演劇活動、演劇教育活動について。  
+インプロについては、自分のインプロ活動もそうですが、海外のインプロ情報をひたすら調べたところからちょっとピックアップして紹介しようと思います。  
+また、演劇部外部講師の経験や「青の素」での出演（かつ演技指導ポジション）で気づいたこと、会場の皆さんに聞きたいことなどを発表します。  
+あと、演劇教育をもっとオモローなものに、もっと広げるためにどういう活動をしていて、これからどうするべきかをみなさんとディスカッションしたいと思います。
+
+![flyer]({{site.baseurl}}/img/20221029_01.PNG){: .img-responsive}
+
+———
+#### 11月7日（月）海辺で見た犬
+
+ゲスト枠（30分）で[株式会社フィアレスの我妻さん](https://fearlessinc.jp/about/)といっしょにショーとワーク、本編に少しだけ出演。
+
+先日、別現場で彼女のアシスタントをやりましたが、すごい人だなあと。自信に満ちていて、でも受け入れやすくて、自分のステータスを講師ポジションから限りなくフラットに変えて、、、などなど。一緒にお客様の前でショーができるのが超楽しみです。
+
+![flyer]({{site.baseurl}}/img/20221001_01.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221001_02.jpg){: .img-responsive}
+
+———
+#### 11月12日（土）山形ワンコイン演劇祭in新庄
+山形にまた行ける！
+
+[アトランダム](https://twitter.com/atrandomymgt/status/1579766255250075648?s=61&t=OYRf2g9QD2mqXnOLINPvhw)さんに混じって、インプロショーに出演します。 
+
+4月末に行った時は「一緒にインプロで遊びましょう」だったんですが、今回はショーに出させてもらえるという。  
+打ち合わせもアツくて、こっちも頑張らんと！ という気持ちになっています。  
+山形にまた行けるというのがありがたく、うれしいです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ワンコイン演劇祭in新庄まであと一ヶ月！<br>超豪華ゲストを迎えての予測不可能、一回限りのスペシャルステージ！<br>その全貌が明らかに？！<a href="https://twitter.com/hashtag/%E3%83%AF%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%B3%E6%96%B0%E5%BA%84?src=hash&amp;ref_src=twsrc%5Etfw">#ワンコイン新庄</a><br>ご予約はこちら→<a href="https://t.co/GbQdMC0BbS">https://t.co/GbQdMC0BbS</a> <a href="https://t.co/ZXELNJPMZN">pic.twitter.com/ZXELNJPMZN</a></p>&mdash; アトランダム (@atRandomYMGT) <a href="https://twitter.com/atRandomYMGT/status/1579766255250075648?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ———
 #### 11月21日（月）セカンドサークル出演
