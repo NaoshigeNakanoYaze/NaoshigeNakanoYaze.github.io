@@ -5,7 +5,7 @@ date:   2022-11-15 07:33:43 +0900
 categories: Blog
 ---
 
-![flyer]({{site.baseurl}}/img/20221106_01.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20221115_01.jpg){: .img-responsive}
 
 山形県新庄市でインプロショーをしてきました。
 1時間のショーでした。
@@ -55,7 +55,7 @@ categories: Blog
 「ワンコイン新庄」という演劇祭。  
 パンフの裏には「演劇をもっと自由に、うかつに」と書いてある。
 
-![flyer]({{site.baseurl}}/img/20221106_02.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20221115_02.jpg){: .img-responsive}
 
 すごくいいなと思う。  
 「こういう演劇をやらなければ」という強迫観念を薄めてくれる、すごくいい言葉。  
@@ -69,7 +69,9 @@ categories: Blog
 
 #### 山形への旅について
 
-4月末に行ってインプロで遊んで、「いつか山形で公園できたらいいね」などと言っていたら、いきなり夢が叶ってしまった。
+4月末に行ってインプロで遊んで、「いつか山形で公演できたらいいね」などと言っていたら、いきなり夢が叶ってしまった。
+
+
 当時の動画がまだ残ってた。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">向かってるぞぉ〜。<br>待ってろよぉ〜。 <a href="https://t.co/ifJIm9sO7D">pic.twitter.com/ifJIm9sO7D</a></p>&mdash; ひろせなおや(イヌ科) (@naoyaxV3) <a href="https://twitter.com/naoyaxV3/status/1519560096585453568?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -78,7 +80,7 @@ categories: Blog
 
   <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">出発の時の動画。 <a href="https://t.co/xsIZtn0FeG">https://t.co/xsIZtn0FeG</a></p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1591747278238519296?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">帰る途中の動画。山形県内のパーキングエリア。<a href="https://twitter.com/hashtag/%E3%83%AF%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%B3%E6%96%B0%E5%BA%84?src=hash&amp;ref_src=twsrc%5Etfw">#ワンコイン新庄</a> <a href="https://t.co/nVLTaAnTdk">pic.twitter.com/nVLTaAnTdk</a></p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1591758471212732416?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">帰ってきた時の動画。半年前と同じこと言ってる。<a href="https://twitter.com/hashtag/%E3%83%AF%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%B3%E6%96%B0%E5%BA%84?src=hash&amp;ref_src=twsrc%5Etfw">#ワンコイン新庄</a> <a href="https://t.co/NBWXR5giL5">pic.twitter.com/NBWXR5giL5</a></p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1591758752180760576?ref_src=twsrc%5Etfw">November 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 いい旅でした。
 
@@ -91,6 +93,35 @@ categories: Blog
 11月21日は私も出ます！ ぜひ観てください！
 
 (セカンドサークルの出演予定はこちら[→1時間ノンストップの即興芝居に出ます]({{site.baseurl}}/blog/2022/11/06/SecondCircle/)。ただし、30分×2に変更しました。)
+
+
+#### 写真集
+
+![flyer]({{site.baseurl}}/img/20221115_03.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_04.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_05.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_06.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_07.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_08.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_09.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_10.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_11.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_12.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221115_13.jpg){: .img-responsive}
+
+
+
+
 
 
 ---
