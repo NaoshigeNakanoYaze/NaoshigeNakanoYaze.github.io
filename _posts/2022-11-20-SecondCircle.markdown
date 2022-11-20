@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "明日、セカンドサークルライブ！"
 date:   2022-11-20 07:33:43 +0900
 categories: Blog
 ---
