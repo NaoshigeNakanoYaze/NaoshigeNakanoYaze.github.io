@@ -10,6 +10,17 @@ categories: Blog
 記事を書いているのは2023年1月。12月のライブも終わってしまった。  
 とはいえ、振り返りたくなったので記録。
 
+まずは当日の自分の感想。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AB%E3%82%B5%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#セカサー</a> 終演。ゲストということで2本とも出させてもらった。インプロやってきてよかったなあと思った。もちろん自分の力だけではないけど、いいキメができたなと。セカンドサークルのメンバーの安心感があるからこそ、何のアイデアもないけど舞台上に出た方がいいという身体を信じることができた。</p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1594695102441869317?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+セカサーメンバー、照明のみくてぃに解説いただいた。
+
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">前半、3人30分エレベーターに閉じ込められる話。もう当たり前のように｢どう脱出するか｣の話をせず、救助を頼んで待っている間の友達どうしの会話をするプレイヤーたち。ここでどう脱出するかの話を中心にしてしまうとアイデア合戦になってしまうんです。キャラクターが見えてこない(続く)<a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AB%E3%82%B5%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#セカサー</a></p>&mdash; 平野みくてぃ (@mikuteeeeeee) <a href="https://twitter.com/mikuteeeeeee/status/1595022684479684610?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 うれしい感想もいっぱいいただいた。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">11月21日　273本目　今年100本目<br>SECOND CIRCLE<br>Vale tudo Style Live(2022-11)<br><br>中野さん出演回。<br><br>観劇三昧で観ていたとはいえ、中野さんの演技を客目線で観るのはいつ以来なんだろうか。当時から憧れの先輩なのだがもちろんパワーアップしている。</p>&mdash; Kose (@Kose83994670) <a href="https://twitter.com/Kose83994670/status/1595383349493002240?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -34,9 +45,10 @@ categories: Blog
 
 ![flyer]({{site.baseurl}}/img/20221121_05.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20221121_06.jpg){: .img-responsive}
 
 ![flyer]({{site.baseurl}}/img/20221121_07.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20221121_06.jpg){: .img-responsive}
 
 
 ---
