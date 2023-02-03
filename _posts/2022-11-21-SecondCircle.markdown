@@ -14,10 +14,21 @@ categories: Blog
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AB%E3%82%B5%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#セカサー</a> 終演。ゲストということで2本とも出させてもらった。インプロやってきてよかったなあと思った。もちろん自分の力だけではないけど、いいキメができたなと。セカンドサークルのメンバーの安心感があるからこそ、何のアイデアもないけど舞台上に出た方がいいという身体を信じることができた。</p>&mdash; 中野直重/ヤーゼ/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1594695102441869317?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+自分で映像も見返したけど、自分でも納得いく演技ができたと思った。  
+これを許容し、引き出してくれたセカサーメンバーの皆様。ありがたい、感謝、もそうだけど、「出会ったね！」という感じ。  
 
-セカサーメンバー、照明のみくてぃに解説いただいた。
+インプロやってきてよかった、と思ったし、今はそれに加えて、演劇やってきてよかった、と思った。  
+自分で納得いく演技って、初めてかもしれない。
 
+満足したら終わり、っていう面もあると思うけど、まずは最高のものができた。  
+そしてまた次の現場の話もある。  
+次はもっと最高になるかもしれない。
 
+---
+
+解説、感想もいろいろあったのでまとめとこう。
+
+まずはセカサーメンバー、照明のみくてぃに解説いただいた。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">前半、3人30分エレベーターに閉じ込められる話。もう当たり前のように｢どう脱出するか｣の話をせず、救助を頼んで待っている間の友達どうしの会話をするプレイヤーたち。ここでどう脱出するかの話を中心にしてしまうとアイデア合戦になってしまうんです。キャラクターが見えてこない(続く)<a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AB%E3%82%B5%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#セカサー</a></p>&mdash; 平野みくてぃ (@mikuteeeeeee) <a href="https://twitter.com/mikuteeeeeee/status/1595022684479684610?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -35,6 +46,8 @@ categories: Blog
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日は久しぶりに <a href="https://twitter.com/hashtag/%E3%82%BB%E3%82%AB%E3%82%B5%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#セカサー</a> 観劇しました。<br>前半は閉じ込められたエレベーターの中という場面の転換ができない設定で3人、30分。どうやって展開していくんだろう！？と思ったけど、そんな動きが制限されたシチュエーションだからこそ関係性やそれぞれの個性、感情の動きがじっくり描かれた回でした。 <a href="https://t.co/d5pK1SebLN">pic.twitter.com/d5pK1SebLN</a></p>&mdash; S (@sky222sora) <a href="https://twitter.com/sky222sora/status/1594951163916394496?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+やっててよかった。またやろう。
 
 
 ![flyer]({{site.baseurl}}/img/20221121_02.jpg){: .img-responsive}
