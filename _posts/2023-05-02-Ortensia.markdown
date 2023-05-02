@@ -61,7 +61,6 @@ categories: Blog
 [→予約フォーム](https://forms.gle/9Ar9dANY6196YrNx5)  
 ⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎  
 
-![flyer]({{site.baseurl}}/img/20230502_06.jpeg){: .img-responsive}
 
 ーー以下、公式からの詳細情報 + 中野のコメントーー
 
@@ -125,7 +124,7 @@ Vol.4 6月編『オルテンシアの種』
 ・舞子ひかり／石田Jそん（虹の素）   
 ・宇津木光太郎(現在)／菊地英登（猫ノ手シアター）  
 ・墨田／斉藤らいふ（Platform）  
-・父／中野直重（中野直重興業） <font color=“deepskyblue”>（← ほら、ここ！　私！）</font>  
+・父／中野直重（中野直重興業） <span style=“color:blue”>（← ほら、ここ！　私！）</span>  
 ・母／江花実里（架空畳）
 
 【スタッフ】  
