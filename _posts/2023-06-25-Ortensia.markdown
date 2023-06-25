@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "出演します：オルテンシアの種"
+title:  "終演しました：オルテンシアの種"
 date:   2023-06-25 07:33:43 +0900
 categories: Blog
 ---
