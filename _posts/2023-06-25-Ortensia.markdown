@@ -22,7 +22,7 @@ categories: Blog
 
 私にとっては、非常に嬉しい拍手をいっぱい頂きました。
 
-こう言うと志が低い人ですが、本当に、投げ出さなくて良かったと思っています。制作過程で私もかなり悩みました。自分自身の演技というよりも、いかにチームを良くしていくか。若手を引き上げていけるか。
+こう言うと志が低い人ですが、本当に、投げ出さなくて良かったと思っています。作品のクオリティを上げるためとはいえ、無念も含む配役変更などがあり、制作過程で私もかなり悩みました。自分自身の演技というよりも、いかにチームを良くしていくか。若手を引き上げていけるか。
 
 若手の方々（に限らずですが）からも「居てくれてありがとう」という言葉を多数いただきました。  
 なので、貢献はできたのでしょう。
@@ -41,6 +41,26 @@ categories: Blog
 
 応援いただき、ありがとうございました。  
 今後とも中野直重をご贔屓に。
+
+![flyer]({{site.baseurl}}/img/20230625_03.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_04.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_05.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_06.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_07.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_08.jpeg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20230625_09.jpeg){: .img-responsive}
+
+
+
+
+
+—-
 
 
 ![flyer]({{site.baseurl}}/img/20230502_01.jpeg){: .img-responsive}
