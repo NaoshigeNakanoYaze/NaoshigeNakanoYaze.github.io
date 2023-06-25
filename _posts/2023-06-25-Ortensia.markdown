@@ -7,6 +7,7 @@ categories: Blog
 
 ![flyer]({{site.baseurl}}/img/20230625_01.jpeg){: .img-responsive}
 
+![flyer]({{site.baseurl}}/img/20230625_02.jpeg){: .img-responsive}
 
 虹の素12ヶ月連続公演 vol.4 6月編「オルテンシアの種」終演しました。
 
