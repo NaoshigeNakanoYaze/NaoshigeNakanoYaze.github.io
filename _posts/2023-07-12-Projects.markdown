@@ -7,7 +7,7 @@ categories: Blog
 
 8月は3本も出番をいただきました！
 
-まずは1本目。
+まずは1本目。8月13日(日)。
 
 ![flyer]({{site.baseurl}}/img/20230712_01.jpg){: .img-responsive}
 
@@ -29,6 +29,11 @@ categories: Blog
 
 [→予約フォーム](https://www.quartet-online.net/ticket/wdeck-vol11?m=0ldhhaj)
 
+---
+
+そして2本目！ 8月26日(土)！
+
+
 
 ![flyer]({{site.baseurl}}/img/20230712_02.jpg){: .img-responsive}
 
@@ -42,7 +47,9 @@ categories: Blog
 
 [→予約フォーム](https://forms.gle/7up99TrWNiDgCc4A6)
 
+---
 
+さらに3本目。8月27日(日)！
 
 
 ![flyer]({{site.baseurl}}/img/20230712_03.jpg){: .img-responsive}
