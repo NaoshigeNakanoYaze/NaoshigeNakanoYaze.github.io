@@ -9,11 +9,11 @@ categories: Blog
 
 まずは1本目。
 
-![flyer]({{site.baseurl}}/img/20230712_01.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230712_01.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230712_04.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230712_04.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230712_05.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230712_05.jpg){: .img-responsive}
 
 出たい出たいと思いつつ都合がつかなかった、ダブルデックにようやく出させてもらいます！
 
@@ -30,7 +30,7 @@ categories: Blog
 [→予約フォーム](https://www.quartet-online.net/ticket/wdeck-vol11?m=0ldhhaj)
 
 
-![flyer]({{site.baseurl}}/img/20230712_02.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230712_02.jpg){: .img-responsive}
 
 6月に続き、「虹の素」に出演します。
 
@@ -45,7 +45,7 @@ categories: Blog
 
 
 
-![flyer]({{site.baseurl}}/img/20230712_03.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230712_03.jpg){: .img-responsive}
 
 
 落語家、桂笹丸さんに呼んでいただきました。何度も共演しているので、今回も楽しみです！
