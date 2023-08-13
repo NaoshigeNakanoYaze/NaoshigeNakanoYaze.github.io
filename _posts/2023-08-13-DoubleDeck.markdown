@@ -5,7 +5,7 @@ date:   2023-08-13 07:33:43 +0900
 categories: Blog
 ---
 
-![flyer]({{site.baseurl}}/img/20230813_01.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_01.jpg){: .img-responsive}
 
 ダブルデックに出ました。
 
@@ -63,25 +63,25 @@ categories: Blog
 
 こんな幸せな夜はあるか。
 
-![flyer]({{site.baseurl}}/img/20230813_02.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_02.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_03.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_03.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_04.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_04.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_05.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_05.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_06.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_06.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_07.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_07.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_08.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_08.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_09.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_09.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_10.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_10.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20230813_11.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20230813_11.jpg){: .img-responsive}
 
 
 
