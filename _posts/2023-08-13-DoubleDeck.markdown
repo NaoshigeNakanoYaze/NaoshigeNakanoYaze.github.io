@@ -61,6 +61,8 @@ categories: Blog
 
 娘「おとうさんの女装がおもしろかった」
 
+妻「芝居うまくなったね」
+
 こんな幸せな夜はあるか。
 
 ![flyer]({{site.baseurl}}/img/20230813_02.jpg){: .img-responsive}
