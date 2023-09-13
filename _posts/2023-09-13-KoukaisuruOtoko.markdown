@@ -6,7 +6,7 @@ categories: Blog
 ---
 
 
-![IMG]({{site.baseurl}}/img/20230913_01.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20230913_01.jpeg){: .img-responsive-border}
 
 Platformに久々に出演します。4年ぶり。
 
@@ -92,9 +92,9 @@ Platformは超楽しめるような配慮がこれでもかとあるので、利
 
 [→ご予約はこちら](https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj)
 
-![IMG]({{site.baseurl}}/img/20230913_02.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20230913_02.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20230913_03.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20230913_03.jpeg){: .img-responsive-border}
 
 
 
