@@ -14,12 +14,12 @@ Platformに久々に出演します。4年ぶり。
 
 #### 日程
 
-11月4日(土)13:00/16:30/19:30
+11月4日(土)13:00/16:30/19:30  
 11月5日(日)12:00/16:30
 
 #### 場所
 
-桜台JOYJOYシアター
+桜台JOYJOYシアター  
 [https://joyjoy-theatre.com/access/](https://joyjoy-theatre.com/access/)
 
 
@@ -28,6 +28,7 @@ Platformに久々に出演します。4年ぶり。
 [→ご予約はこちら](https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj)
 
 —-
+
 では、背景とか意気込みとかその辺りを。
 
 4年前、Platformに出演した時の記事↓
