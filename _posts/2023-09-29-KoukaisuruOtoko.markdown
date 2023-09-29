@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "稽古：コウカイする男。"
-date:   2023-09-13 07:33:43 +0900
+date:   2023-09-29 07:33:43 +0900
 categories: Blog
 ---
 
