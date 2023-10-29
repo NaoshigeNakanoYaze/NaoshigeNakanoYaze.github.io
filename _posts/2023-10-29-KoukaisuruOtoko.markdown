@@ -80,10 +80,10 @@ categories: Blog
 ぜひ、このチームをご覧ください。
 
 ・劇場で観る↓（日々、売り切れていくのでお早めにゲットをお願いします！）  
-[https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj]{https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj}
+[https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj](https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj)
 
 ・配信で観る↓（おかげさまでカメラ3台体制が実現しました！　アーカイブチケットをお求めください！）  
-[https://motion-gallery.net/projects/koukai]{https://motion-gallery.net/projects/koukai}
+[https://motion-gallery.net/projects/koukai](https://motion-gallery.net/projects/koukai)
 
 あとは本番を楽しくやって、楽しく振り返りができるといいですね。
 
@@ -116,7 +116,7 @@ categories: Blog
 そして、私をここまでインプロの世界で楽しませてくれているみんなとの記念写真も、もっと増やしたく思います。自分でも勝手に撮りますが、魅力的な共演者との写真も、ぜひご注文いただけると、私の世界がさらに広がります。どうぞご支援を、よろしくお願いします。
 
 ・ブロマイドやチェキを買う↓（ペアチェキ、でかブロマイド等をお求めください！）  
-[https://motion-gallery.net/projects/koukai]{https://motion-gallery.net/projects/koukai}
+[https://motion-gallery.net/projects/koukai](https://motion-gallery.net/projects/koukai)
 
 ---
 
@@ -125,6 +125,11 @@ categories: Blog
 後悔のある人生、別れのある人生、それをそのまま。
 
 
+---
+
+![IMG]({{site.baseurl}}/img/20230913_02.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20230913_03.jpeg){: .img-responsive-border}
 
 
 ---
