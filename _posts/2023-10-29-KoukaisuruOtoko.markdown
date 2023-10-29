@@ -27,10 +27,11 @@ categories: Blog
 
 [→ご予約はこちら](https://www.quartet-online.net/ticket/kokai010ko?m=0ldhhaj)
 
-#### 全公演無料配信を目標としたクラウドファンディング支援ページ（達成。ストレッチゴールとして次回公演スタジオビジュアル撮影を目標）
+#### クラウドファンディング支援ページ
 
 [→クラウドファンディングはこちら](https://motion-gallery.net/projects/koukai)
 
+※ 無料生配信達成。ストレッチゴールとして次回公演スタジオビジュアル撮影を目標
 
 —-
 
