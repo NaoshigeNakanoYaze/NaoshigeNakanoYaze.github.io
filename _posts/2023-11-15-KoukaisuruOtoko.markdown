@@ -88,6 +88,8 @@ categories: Blog
 
 ファンアートまでいただいたトイレダンスができたのは良かった。ファンアート本当にうれしかったです。
 
+![IMG]({{site.baseurl}}/img/20231115_03.jpg){: .img-responsive-border}
+
 グフトクとすごくコミュニケーションを舞台上で取れたのが良かったと思う。伝染病の話はもっと前で出しても良かったと思いつつ、出すと決めたらかなりエコノミカルに出せた（当社比。もっともっとエコノミカルになれるけど）。
 
 ##### 10ステージ「断髪式の島」
@@ -96,7 +98,7 @@ categories: Blog
 
 そこにもっとこだわっても良かったかなと思いつつも、幽霊として存在し続けられたのは楽しかった。執着があっても諦めてしまうスバルと、何が何でも諦めないポラリスという差が好きだった。
 
-ほんと、超今さらだけど、せっかくエックスの体を乗っ取ったんなら、嘘でもいいからエックスのふりをして、ポラリスと仲直りして超楽しく過ごして船に戻れば良かった。システム的に無理だが、まあそこは後でなんとかなっただろう。
+ほんと、超今さらだけど、せっかくエックスの体を乗っ取ったんなら、嘘でもいいからエックスのふりをして、当てつけでポラリスと仲直りして超楽しく過ごして船に戻れば良かった。システム的に無理だが、まあそこは後でなんとかなっただろう。
 
 後からなら思いつくオモローがある。
 
@@ -105,8 +107,8 @@ categories: Blog
 
 ストーリー。そしてキャラクターの維持。早口。この3点かなあ。
 
-たぶん、すぐ直せるのが早口。
-自信のなさが早口に表れてしまっている。
+たぶん、すぐ直せるのが早口。  
+自信のなさが早口に表れてしまっている。  
 大丈夫、みんな聞いてくれてる。
 
 
@@ -137,9 +139,95 @@ categories: Blog
 
 ご覧いただき、応援いただき、気にしていただき、本当にありがとうございました。
 
-もう芝居ムリかも、と一度も思わない現場はないですが、終わってみて、まだやれる、と思いました。
+もう芝居ムリかも、と一度も思わない現場はないです。今回も思いました。でも、終わってみて、まだやれる、と思いました。
 
 今後とも中野直重をご贔屓に。
+
+![IMG]({{site.baseurl}}/img/20231115_04.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_05.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_06.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_07.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_08.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_09.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_10.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_11.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_12.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_13.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_14.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_15.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_16.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_17.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_18.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_19.jpeg){: .img-responsive-border}
+
+
+![IMG]({{site.baseurl}}/img/20231115_20.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_21.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_22.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_23.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_24.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_25.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_26.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_27.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_28.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_29.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_30.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_31.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_32.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_33.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_34.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_35.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_36.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_37.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_38.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_39.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_40.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_41.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_42.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231115_43.jpeg){: .img-responsive-border}
+
+
+
+
+
 
 
 
