@@ -10,10 +10,11 @@ categories: Blog
 
 #### 12月
 
-12月22日(金)　ImprOtaku「秘密のインプロショー」
+![IMG]({{site.baseurl}}/img/20231209_01.png){: .img-responsive-border}
 
-ご予約 → 中野に直接ご連絡ください！
+12月22日(金)　ImprOtaku「秘密のインプロショー」 @ 荻窪i Rego Garage
 
+ご予約 → [予約・詳細ページ（料金は当日精算です）](https://peatix.com/event/3749143)
 
 ImprOtakuというチームに呼んでもらい、出演いたします。
 
@@ -21,6 +22,10 @@ ImprOtakuというチームに呼んでもらい、出演いたします。
 
 
 #### 1月
+
+![IMG]({{site.baseurl}}/img/20231209_02.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20231209_03.jpeg){: .img-responsive-border}
 
 1月27日(土)・28日(日) ハネゴコロ「さよならフラドール」
 
