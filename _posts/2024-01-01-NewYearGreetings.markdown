@@ -36,8 +36,6 @@ categories: Blog
 
 まずは1月27日・28日のハネゴコロ「さよならフラドール」に出演いたします。どうぞ見届けていただきますよう、お願いします。
 
-[→紹介ページ](https://naoshigenakanoyaze.github.io/.../SayonaraHulaDoll/)
-
 
 [→予約フォーム](https://www.quartet-online.net/ticket/sayonara_huladoll?m=0ydhicc)
 
