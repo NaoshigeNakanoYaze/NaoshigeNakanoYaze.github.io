@@ -58,17 +58,14 @@ categories: Blog
 
 ※ 中野は「前半キャスト」です。
 
-＜場所＞
+＜場所＞  
 [上野ストアハウス](https://www.storehouse.ne.jp/access.html)  
 JR上野駅　入谷口から徒歩5分(改札からは8分)  
 東京メトロ入谷駅　1番出口から徒歩5分  
 
-＜ご予約(中野応援フォーム)＞
+＜ご予約(中野応援フォーム)＞  
 [→ご予約はこちら](https://ticket.corich.jp/apply/305312/007/)
 
-
-
-![IMG]({{site.baseurl}}/img/20240228_02.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240228_03.jpg){: .img-responsive-border}
 
