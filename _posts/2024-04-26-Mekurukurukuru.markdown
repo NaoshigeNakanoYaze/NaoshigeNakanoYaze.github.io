@@ -104,9 +104,7 @@ JR上野駅　入谷口から徒歩5分(改札からは8分)
 
 ![IMG]({{site.baseurl}}/img/20240228_03.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240228_04.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240228_05.jpg){: .img-responsive-border}
 
 
 --以下、公式情報--
