@@ -162,11 +162,9 @@ categories: Blog
 
 ------
 
-以下、写真たち。60枚もある。まだまだ載せ足りない。
+以下、写真たち。まだまだ載せ足りない。
 
 
-
-![IMG]({{site.baseurl}}/img/20240512_07.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_08.jpg){: .img-responsive-border}
 
@@ -280,7 +278,11 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20240512_98.jpg){: .img-responsive-border}
 
+シャッフルキャストでは、タンザナイト様をやれました！
+
 ![IMG]({{site.baseurl}}/img/20240512_99.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/20240512_92.jpg){: .img-responsive-border}
 
 
 ---
