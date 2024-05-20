@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(記載中)終演の御礼：めくるくるくる"
+title:  "終演の御礼：めくるくるくる"
 date:   2024-05-12 07:33:43 +0900
 categories: Blog
 ---
@@ -9,6 +9,9 @@ categories: Blog
 
 ご覧いただき、何かと気にかけていただき、誠にありがとうございました。  
 すぐさま御礼をしなければならないところでしたが、ご容赦ください。  
+少し無理をしていたようで、あまり調子のよくない2週間を過ごしておりました。  
+本記事も、5月12日から書きはじめ、1週間以上経ってしまいました。  
+ご挨拶が遅れ、大変失礼いたしました。
 
 観てもらえるから、助けてもらえるから演じられる。  
 私は他人への感謝を忘れがちですが、観てもらえるというのは本当に大きな力になりました。  
@@ -16,10 +19,17 @@ categories: Blog
 人前で演じるというのは、何度もやってきたことではありますが、すごく特別なことです。  
 応援してもらえるというのは、私を認められていることだと、強く思えます。
 
+本当にありがたいことに、昨年から今まで、とても多くのお声かけをいただき、頻繁にショーやワークショップ活動を行うことができました。  
+その締めくくりとして、「めくるくるくる」がありました。
+走り切れて、ほっとしています。
+
+今後ですが、大規模な活動は来年3月まで休止し、他の案件もなるべく入れず、回復と勉強、そして負担をかけつづけてきた家族のために時間を取ろうと思います。  
+とはいえ、定例活動（月2回のワークショップ、隔月のショー）はありますので、そこでまたお会いできればと思います。
+
 ありがとうございました。
 
 ここでご挨拶は以上となるのですが、終わってみての長い感想を書いておきますので、よろしければお読みください。  
-推敲した名文ではなく、書き散らしたものではありますが、記録として。
+推敲した名文ではなく、書き散らしたものではありますし、文体も不統一で読みづらいですが、記録として。
 
 ![IMG]({{site.baseurl}}/img/20240512_02.jpg){: .img-responsive-border}
 
@@ -68,12 +78,12 @@ categories: Blog
 そこに居続けるというよりは変化していく楽しさがあったのだけど、基本ラインは「ご主人様に絶対服従」だった。  
 これが楽しく感じてしまうのは、なんだか危ない気もするけど、楽しかったんだからしょうがない。
 
-第5ステージ「植物」の回で、王子に「裸踊りをせよ」と命令され、それに従うというのは自分の服従レベルを証明できたように思ったんだろう。そして、王子も楽しくなってくれたことが本当にうれしかった。
+第5ステージ「植物」の回で、王子に「裸踊りをせよ」と命令され、それに従うというのは自分の服従レベルを証明できたように思ったんだろう。そして、王子も楽しくなってくれたことが本当にうれしかった。そして最後は少年まで加わってくれて裸踊りをするという、公序良俗とは別の世界線を作ることができました。
 
 キャラクターを維持するというのが苦手な私ですが、今回はかなりキャラクターで居られたように思います。  
 役になってリアルに生きる。演劇だなあと。演劇やったなあと思います。
 
-演劇は楽しい。だから続けられる。
+演劇は楽しい。だから続けられる。  
 今回はあまり思い悩まなかった方だとは思いますが、こんな気持ちになることもありました（この写真自体はそういう気持ちを撮られたものではないですが。むしろ、いい芝居だなあと感じているところ）。
 
 ![IMG]({{site.baseurl}}/img/20240512_05.jpg){: .img-responsive-border}
@@ -85,7 +95,7 @@ categories: Blog
 でもある意味、賢しくなっているのかもしれないなあと。  
 壊れないよう、疲れないよう、気を使ってきた。
 
-一度、精神疾患になった友人がよく言っているのが、「最大HPが減った」「ふんばりがきかなくなった」という言葉だ。  
+一度、私と似たような精神疾患になった友人がよく言っているのが、「最大HPが減った」「ふんばりがきかなくなった」という言葉だ。  
 程度問題もあるかと思うが、私も似たようなものを感じている。  
 その中で、かなり贅沢な活動をしようとしているのだから、何かしら無理はある。  
 でもなんとかやれているのは、助けてくれる人、特に妻がいるからだなと思う。
@@ -114,44 +124,45 @@ categories: Blog
 
 インプロバイザーとしての評価もそうだし、舞台俳優としての評価もいただけたのは、これまた嬉しいことです。
 
-舞台俳優としての鍛錬は、主に大学時代にやりました。
+舞台俳優としての鍛錬は、主に大学時代にやりました。  
 というか、インプロ以外のインプットは、ほぼ大学でしかない。
 
-大阪大学ESSドラマセクション（別名として、劇団登竜門というのがあったらしい。使ったことはないけど）、劇団綺畸で教えられたことがそのまま通用している。もちろん、毎回思い悩み、何かと工夫してやってきたのだが、身体訓練を集中的にやれたんだろう。
+大阪大学ESSドラマセクション（別名として、劇団登竜門というのがあったらしい。使ったことはないけど）、劇団綺畸で教えられたことがそのまま通用している。もちろん、毎回思い悩み、何かと工夫してやってきたのだが、基礎は身体訓練を集中的にやったあの時代なんだろう。  
+学生劇団での経験というものが、ここまで重宝されるとは。いいこと教えてもらってたんだなあ、と今になってわかる。  
 これを書いている日は複数にまたがるわけだが、演劇部の外部指導でも身体訓練についてシェアすることがあるが、自分にも積み重ねたものがあるんだなあ、と再認識した。
 
-もっと勉強せんとなあ、と思う。
-気力がカスッカスなのが続いていて手が出せてない。
+もっと勉強せんとなあ、と思う。  
+気力がカスッカスなのが続いていて手が出せてない。  
 じゃあ気力を潤すための行動を取っていけばいいんだなと。
 
-酒はほどほどに。ちゃんと寝る。まずはそこから。
+酒はほどほどに。ちゃんと寝る。まずはそこから。  
 でもそれすらできてないんだから、今、ひとつ、深呼吸をすることから。
 
 
 ![IMG]({{site.baseurl}}/img/20240512_06.jpg){: .img-responsive-border}
 
-今回、ちゃんとやれたと思う。
-「これでしばらく休む」と宣言したことが大きい。区切りだ、と思うことで手抜きから遠ざかることができた。
+今回、ちゃんとやれたと思う。  
+「これでしばらく休む」と宣言したことが大きい。区切りだ、と思うことで手抜きから遠ざかることができた。  
 よかった。
 
-一方で、そんなものなしに、気合が出せないものか。
+一方で、そんなものなしに、気合が出せないものか。  
 まあ、それは、その時に考えるか。
 
-しばらくは本公演レベルのものには関わりません。
+しばらくは本公演レベルのものには関わりません。  
 他の活動もなるべく辞退して、家族と仕事と、そして休みの比重を増やします。
 
 ![IMG]({{site.baseurl}}/img/20240228_01.jpg){: .img-responsive-border}
 
 意欲的に次の活動ができるよう、しばらくお暇をいただきます。
 
-舞台の上から、皆様にショーというご奉仕をいたしました。
+舞台の上から、皆様にショーというご奉仕をいたしました。  
 幸せでございました。ありがとうございました。
 
 
 
 ------
 
-以下、写真たち。まだまだ載せ足りない。
+以下、写真たち。60枚もある。まだまだ載せ足りない。
 
 
 
@@ -164,7 +175,6 @@ categories: Blog
 ![IMG]({{site.baseurl}}/img/20240512_10.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_11.jpg){: .img-responsive-border}
-
 
 ![IMG]({{site.baseurl}}/img/20240512_12.jpg){: .img-responsive-border}
 
@@ -185,6 +195,7 @@ categories: Blog
 ![IMG]({{site.baseurl}}/img/20240512_20.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_21.jpg){: .img-responsive-border}
+
 ![IMG]({{site.baseurl}}/img/20240512_22.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_23.jpg){: .img-responsive-border}
@@ -227,7 +238,6 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20240512_42.jpg){: .img-responsive-border}
 
-
 ![IMG]({{site.baseurl}}/img/20240512_43.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_44.jpg){: .img-responsive-border}
@@ -258,78 +268,6 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20240512_57.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240512_58.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_59.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_60.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_61.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_62.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_63.jpg){: .img-responsive-border}
-
-
-![IMG]({{site.baseurl}}/img/20240512_64.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_65.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_66.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_67.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_68.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_69.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_70.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_71.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_72.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_73.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_74.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_75.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_76.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_77.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_78.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_79.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_80.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_81.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_82.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_83.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_84.jpg){: .img-responsive-border}
-
-
-![IMG]({{site.baseurl}}/img/20240512_85.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_86.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_87.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_88.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_89.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_90.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_91.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_92.jpg){: .img-responsive-border}
-
 ![IMG]({{site.baseurl}}/img/20240512_93.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_94.jpg){: .img-responsive-border}
@@ -343,10 +281,6 @@ categories: Blog
 ![IMG]({{site.baseurl}}/img/20240512_98.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_99.jpg){: .img-responsive-border}
-
-
-
-
 
 
 ---
