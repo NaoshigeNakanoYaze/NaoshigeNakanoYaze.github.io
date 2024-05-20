@@ -59,7 +59,7 @@ categories: Blog
 本当に、公演が終わって、自分の密度が薄くなったように思う。  
 ちゃんと無理ができたんだなあ。それはそれで、うれしいなあ。
 
-![IMG]({{site.baseurl}}/img/20240512_03.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240228_01.jpg){: .img-responsive-border}
 
 そして、このビジュアルです。
 
@@ -157,7 +157,7 @@ categories: Blog
 しばらくは本公演レベルのものには関わりません。  
 他の活動もなるべく辞退して、家族と仕事と、そして休みの比重を増やします。
 
-![IMG]({{site.baseurl}}/img/20240228_01.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240512_03.jpg){: .img-responsive-border}
 
 意欲的に次の活動ができるよう、しばらくお暇をいただきます。
 
