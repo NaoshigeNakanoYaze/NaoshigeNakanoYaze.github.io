@@ -221,59 +221,18 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20240512_32.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240512_33.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_34.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_35.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_36.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_37.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_38.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_39.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_40.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_41.jpg){: .img-responsive-border}
-
 ![IMG]({{site.baseurl}}/img/20240512_42.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_43.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_44.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240512_45.jpg){: .img-responsive-border}
-
 ![IMG]({{site.baseurl}}/img/20240512_46.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240512_47.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_48.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_49.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_50.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_51.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_52.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_53.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_54.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_55.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_56.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_57.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_93.jpg){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/20240512_94.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/20240512_95.jpg){: .img-responsive-border}
 
