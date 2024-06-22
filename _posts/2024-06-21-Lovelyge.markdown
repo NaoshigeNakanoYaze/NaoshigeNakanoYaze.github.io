@@ -13,11 +13,11 @@ categories: Blog
 
 まだまだお休み重視の期間は続きますが、定例のショーである「らぶりーじゅ」の時期が迫ってまいりました。
 
-![IMG]({{site.baseurl}}/img/20240621_01.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_01.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240621_02.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_02.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240621_03.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_03.jpeg){: .img-responsive-border}
 
 ▼ご予約. 
 [quartet-online.net/ticket/love74[(quartet-online.net/ticket/love74)
@@ -40,13 +40,13 @@ categories: Blog
 
 庄司さんはインプロ初体験、原田さんは少し経験はあるものの、インプロショーという形式は初だそうです。
 
-![IMG]({{site.baseurl}}/img/20240621_04.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_04.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240621_05.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_05.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240621_06.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_06.jpeg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/20240621_07.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/20240621_07.jpeg){: .img-responsive-border}
 
 山形、というキーワードで繋がった、即興演劇のチーム。
 
