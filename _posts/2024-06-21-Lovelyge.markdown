@@ -19,7 +19,7 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/20240621_03.jpeg){: .img-responsive-border}
   
-[→ご予約](quartet-online.net/ticket/love74)
+[→ご予約](https://www.quartet-online.net/ticket/love74)
 
 山形でのインプロ振興を目的とした団体。首都圏でのショーの収益を山形への旅費など、活動費に充てることを考えています。
 
@@ -70,7 +70,7 @@ categories: Blog
 🗾兎亭(江古田)  
 
 ▼ご予約  
-[quartet-online.net/ticket/love74](quartet-online.net/ticket/love74)
+[https://www.quartet-online.net/ticket/love74](https://www.quartet-online.net/ticket/love74)
 
 ▼会場. 
 兎亭(江古田)  
