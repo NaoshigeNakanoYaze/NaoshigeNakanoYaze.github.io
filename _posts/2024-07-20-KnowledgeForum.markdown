@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "一期一会：演劇教育ナレッジフォーラム"
+date:   2024-07-20 07:33:43 +0900
+categories: Blog
+---
+
+![flyer]({{site.baseurl}}/img/20230409_01.jpeg){: .img-responsive}
+
+
+私が共同世話人を務める「演劇教育ナレッジフォーラム」にて、初の対面フォーラムを開催いたします。
+
+9月7日(土)14時から、オリンピックセンター（参宮橋）にて。
+  
+創価大学准教授 ドネリ・ユーケリア先生をお招きし、「一期一会：すべての瞬間を大切に」と題して、ご講演とワークショップを実施いただきます。
+
+詳しいことは私もわかっていませんが、演劇教育ナレッジフォーラムは「演劇的教育手法はいっぱいあるけど、手法関係なく、やろうとしていることが似通っている人たち、また、興味を持っている人たちがゆるやかなつながりを持つ」ことを目的としています。
+
+この団体が世界をリードしてやるぜ！　というわけではなく、孤軍奮闘する演劇教育関係者が、少しでも孤独でなくなるよう、願っています。
+
+コロナ禍で生まれた団体でもあり、これまでの活動はすべてオンラインでしたが、今回は初の対面ワークショップです。
+
+貴重なお話となりますので、ぜひご参加ください。
+
+[→申込ページ](https://knowledgeforum2024.peatix.com/)
+
+演劇教育というキーワードにご興味がありましたら、是非ともご参加をお願い致します。
+
+
+
+
+---
+#### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+#### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+#### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
