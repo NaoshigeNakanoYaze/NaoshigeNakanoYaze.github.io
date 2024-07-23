@@ -5,7 +5,7 @@ date:   2024-07-20 07:33:43 +0900
 categories: Blog
 ---
 
-![flyer]({{site.baseurl}}/img/20230409_01.jpeg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/20240720_01.jpg){: .img-responsive}
 
 
 私が共同世話人を務める「演劇教育ナレッジフォーラム」にて、初の対面フォーラムを開催いたします。
