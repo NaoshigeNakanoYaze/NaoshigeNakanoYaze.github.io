@@ -1,8 +1,15 @@
 ---
-title: あなたの会社に「演劇部」を作ろう
+title: Service
 permalink: /docs/service/
 redirect_from: /docs/service.html
 ---
+
+# あなたの会社に「演劇部」を作ろう
+
+
+
+
+
 
 ![ロゴ]({{site.baseurl}}/img/logo_01.png){: .img-responsive}
 
