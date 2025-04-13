@@ -8,7 +8,7 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/2025/20250321_01.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/2025/20250321_02.jpg){: .img-responsive-border}
+
 
 
 終演しました。
@@ -550,6 +550,7 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 
+![IMG]({{site.baseurl}}/img/2025/20250321_idokaraderu.jpg){: .img-responsive-border}
 
 
 
@@ -564,7 +565,6 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 
-![IMG]({{site.baseurl}}/img/2025/20250321_idokaraderu.jpg){: .img-responsive-border}
 
 
 
@@ -620,14 +620,7 @@ OKしたものの、自分だけではとてもやりたいことができそう
 ![IMG]({{site.baseurl}}/img/2025/20250321_13.jpg){: .img-responsive-border}
 
 
-![IMG]({{site.baseurl}}/img/2025/20250321_14.jpg){: .img-responsive-border}
-
-
-![IMG]({{site.baseurl}}/img/2025/20250321_15.jpg){: .img-responsive-border}
-
-
-![IMG]({{site.baseurl}}/img/2025/20250321_16.jpg){: .img-responsive-border}
-
+![IMG]({{site.baseurl}}/img/2025/20250321_02.jpg){: .img-responsive-border}
 
 ---
 ##### コメント
