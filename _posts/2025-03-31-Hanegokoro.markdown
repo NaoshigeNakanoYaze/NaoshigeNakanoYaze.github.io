@@ -58,6 +58,8 @@ categories: Blog
 
 #### 2024年2月　参加決定
 
+![IMG]({{site.baseurl}}/img/2025/20250321_yaze.jpg){: .img-responsive-border}
+
 早すぎる。いや、まあ、そんなものなのか。
 
 前回公演が終わってから2週間後に打診があり、さらにその2週間後に飲み屋で出演が決定した。
@@ -70,6 +72,8 @@ categories: Blog
 
 #### 2024年3月〜5月　体制構築
 
+![IMG]({{site.baseurl}}/img/2025/20250321_Keiko02.jpg){: .img-responsive-border}
+
 OKしたものの、自分だけではとてもやりたいことができそうにないと思いました。
 
 演出と言っても、アクティングコーチにだいぶ寄ったものですが、最初からその責任を負った状態で出演までできるわけがない。
@@ -77,6 +81,11 @@ OKしたものの、自分だけではとてもやりたいことができそう
 ということでリクルーティングをはじめました。
 
 くらげ・はるかに打診。
+
+![IMG]({{site.baseurl}}/img/2025/20250331_Keiko07_.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2025/20250321_Keiko06_Facilitation.jpg){: .img-responsive-border}
+
 
 役として、私の子ども役2名の見通しが立っていなかったことがあります。あと、くらげ・はるかならぜったい助けてくれるし、すごく実力があるし、来てくれたらいいなと思っていました。
 
@@ -101,6 +110,9 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 #### 2024年7月から8月　戦争に関するディスカッション
 
+![IMG]({{site.baseurl}}/img/2025/20250321_Keiko01_Giron.jpg){: .img-responsive-border}
+
+
 戦争を扱うということで、気軽にはできないぞ、という雰囲気が全員から感じ取れました。不安を感じました。
 
 ということで、稽古もまだ先ではあるのですが、まずは戦争についてみんながどう考えているのかを共有する会を設けました。
@@ -116,6 +128,8 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 #### 2024年11月から12月　稽古開始
+
+![IMG]({{site.baseurl}}/img/2025/20250321_Keiko03.jpg){: .img-responsive-border}
 
 台本が上がり、いよいよ稽古始動。
 
@@ -159,6 +173,8 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 #### 2025年1月　体力の限界
+
+![IMG]({{site.baseurl}}/img/2025/20250321_Tsukareteru.jpg){: .img-responsive-border}
 
 新年早々、仕事がかなりきつい。
 
@@ -218,6 +234,8 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 #### 2025年2月　稽古復帰
+
+![IMG]({{site.baseurl}}/img/2025/20250321_Keiko04_Ido.jpg){: .img-responsive-border}
 
 体調不良のピークは超えたかもしれないが、依然としてあまりよろしくない。
 
@@ -287,7 +305,9 @@ OKしたものの、自分だけではとてもやりたいことができそう
 #### 2025年3月上旬　小屋入り直前
 
 
-![IMG]({{site.baseurl}}/img/2025/20250321_action.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2025/20250321_HarukatoOOwarai.jpg){: .img-responsive-border}
+
 
 
 空の雑巾を絞るような気持ちでした。
@@ -432,7 +452,7 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 #### 役者のみんな
 
-
+スタッフも含めて全員ひとこと御礼を申し上げたいところですが、スタッフについては私がぜんぜん見えてないところもあるし、役者にひとこと御礼を。
 
 
 ![IMG]({{site.baseurl}}/img/2025/20250321_yuzu.jpg){: .img-responsive-border}
@@ -557,21 +577,20 @@ OKしたものの、自分だけではとてもやりたいことができそう
 ![IMG]({{site.baseurl}}/img/2025/20250321_idokaraderu.jpg){: .img-responsive-border}
 
 
+![IMG]({{site.baseurl}}/img/2025/20250321_action.jpg){: .img-responsive-border}
+
+
+
+
+
+![IMG]({{site.baseurl}}/img/2025/20250321_SpaceAlta.jpg){: .img-responsive-border}
+
+
+![IMG]({{site.baseurl}}/img/2025/){: .img-responsive-border}
 
 
 
 ![IMG]({{site.baseurl}}/img/2025/20250321_hide.jpg){: .img-responsive-border}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -587,7 +606,7 @@ OKしたものの、自分だけではとてもやりたいことができそう
 
 
 
-![IMG]({{site.baseurl}}/img/2025/20250321_yaze.jpg){: .img-responsive-border}
+
 
 
 
