@@ -10,7 +10,7 @@ categories: Blog
 
 ![IMG]({{site.baseurl}}/img/2025/20250509_02.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/2025/20250509_02.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/2025/20250509_03.jpg){: .img-responsive-border}
 
 私の古い友人である小島啓寿氏との2人での即興芝居です。
 
