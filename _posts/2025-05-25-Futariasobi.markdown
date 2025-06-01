@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "出演しました。ASOBIBA：ふたりあそび"
-date:   2026-05-25 07:33:43 +0900
+date:   2025-05-25 07:33:43 +0900
 categories: Blog
 ---
 
@@ -28,10 +28,21 @@ categories: Blog
 
 その辺りの経緯↓
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ひろきゅん（小島氏）は楽しみたいエネルギーを内側から出せない、あの、蔵馬が血で妖気を封じられたときのような印象を受けた。私はその時どうだったんだろう。たぶんロジカルにスマートにやろうとしてて、しかも大してうまくいってなくて、遊ぶという気持ちがよくわかってなかった。今でもあんまり。</p>&mdash; 中野直重/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1926438761115590856?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">休憩中すらもおもしろかった。一番印象的なのは、休憩中にマイクパフォーマンスをやりはじめて、「即興激闘」のジングルを勝手に作って歌ってた。こんなにずっとおもしろい人がいるのか。スゲー奴になった、絶対自由になった、そう感じました。</p>&mdash; 中野直重/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1926439859259871254?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">その後、コロナが登場してオンライン一色の世界になり、アメリカのインプロシアターの年間クラスをオンライン受講する機会にめぐまれた。そこに参加してるのは極めて高いレベルの人たちばかり。小島氏もそこにいた。私がそのコミュニティに居続けるには「がんばる、がんばりを見せる」しかなかった。</p>&mdash; 中野直重/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1926441552445874294?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%89%E3%81%B6%E3%82%8A%E3%83%BC%E3%81%98%E3%82%85?src=hash&amp;ref_src=twsrc%5Etfw">#らぶりーじゅ</a> にも出てもらった。相変わらずずっとおもしろかった。稽古ができないほどに彼はおもしろい。プレイヤーとしてだけではなく、チームとしてどうあるべきかについても議論ができた。確実な答えがないところで、密度濃くエネルギーを持って意見するのは大変だが、それをくれた。</p>&mdash; 中野直重/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1926443101373026688?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そして今、彼の渾身のインプロフェスティバルに呼んでもらい、ふたりで30分、演じる枠をくれたことはありがたいし光栄です。<br><br>2時間後には本番。本番ボンバイェ。</p>&mdash; 中野直重/ya-ze (@ya_ze_) <a href="https://twitter.com/ya_ze_/status/1926443662256333262?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 そしてさらに、路上でインプロやるぞ、という時に駆けつけてくれた人でもあります。
+
+![IMG]({{site.baseurl}}/img/20190503_07.JPG){: .img-responsive-border}
+
 
 [→その時（路上でやった時）の記事](https://naoshigenakanoyaze.github.io/blog/2025/05/09/Futariasobi/)
 

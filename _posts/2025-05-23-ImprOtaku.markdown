@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "出演しました。ImprOtaku：秘密のインプロショー2025年5月"
-date:   2026-05-23 07:33:43 +0900
+date:   2025-05-23 07:33:43 +0900
 categories: Blog
 ---
 
