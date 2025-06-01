@@ -6,11 +6,11 @@ categories: Blog
 ---
 
 
+![IMG]({{site.baseurl}}/img/2025/20250525_00.jpg){: .img-responsive-border}
+
 ![IMG]({{site.baseurl}}/img/2025/20250525_01.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/2025/20250525_02.jpg){: .img-responsive-border}
 
-![IMG]({{site.baseurl}}/img/2025/20250525_03.jpg){: .img-responsive-border}
 
 終演しました。
 
@@ -69,6 +69,9 @@ categories: Blog
 
 ーー以下、思い出の写真たちーー
 
+![IMG]({{site.baseurl}}/img/2025/20250525_02.jpg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2025/20250525_03.jpg){: .img-responsive-border}
 
 ![IMG]({{site.baseurl}}/img/2025/20250525_04.jpg){: .img-responsive-border}
 
