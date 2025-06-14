@@ -284,7 +284,7 @@ redirect_from: /docs/service.html
 20. [プレイバックシアターの活用](https://www.r-gscefs.jp/pdf/ce08/kk01.pdf)
 21. [社内イベントの参加率を上げたい！実例から見る企画成功の秘訣 - バヅクリ](https://buzzkuri.com/columns/event/2818/)
 22. [ウェルビーイング研修で社員のエンゲージメントをUP！研修内容・取り組み例を詳説](https://www.sbrain.co.jp/cc/special/onlinekensyu/kensyu-howto/41594/)
-23. [ストレス管理と職場のウェルビーイング ①職場でのストレスとその影響 |公式コラム - 産業医](https://mestate.jp/column/2024/09/10/%E8%81%B7%E5%A0%B4%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%81%A8%E3%81%9D%E3%81%AE%E5%BD%B1%E9%9F%BF/)
+23. [ストレス管理と職場のウェルビーイング ①職場でのストレスとその影響 公式コラム - 産業医](https://mestate.jp/column/2024/09/10/%E8%81%B7%E5%A0%B4%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%81%A8%E3%81%9D%E3%81%AE%E5%BD%B1%E9%9F%BF/)
 24. [【社内研修Vol.8】社員満足度向上！ユニークで楽しい研修事例12選をご紹介します！](https://cuseful.co.jp/gp/cf/hr-0015/)
 25. [心理劇を用いた保育の授業](https://www.saga-ed.jp/kenkyu/kenkyu_chousa/h17/koukatei/sinri/index.htm)
 26. [社内イベントの面白い企画67選！レクリエーションに最適 - IKUSA.JP](https://ikusa.jp/20180322309)
