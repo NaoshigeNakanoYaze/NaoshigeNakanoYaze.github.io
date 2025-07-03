@@ -5,9 +5,6 @@ date:   2025-07-03 07:33:43 +0900
 categories: Blog
 ---
 
-![IMG]({{site.baseurl}}/img/2025/20250604_01.png){: .img-responsive-border}
-
-![IMG]({{site.baseurl}}/img/2025/20250604_02.png){: .img-responsive-border}
 
 稽古が進んでおります。
 
@@ -38,7 +35,7 @@ categories: Blog
 
 どの役も、誰かが生きてきたものだし、誰かが生きたかったものだなあ、と思ってやってます。
 
-劇団のメンバーはみんな誠心誠意、場づくりをしている。集まった人たちはこぞって優秀な人ばかり。
+劇団のメンバーはみんな誠心誠意、場づくりをしている。集まった人たちはこぞって優秀な人ばかり。演出の要求にすぐさま対応するし、困ったときには前のめりにアイデアを出し合う。
 
 そんな若者たちの中に私が呼んでもらえたことを幸せに思います。
 
@@ -71,6 +68,11 @@ categories: Blog
 
 
 --以下、公式の詳細文--
+
+![IMG]({{site.baseurl}}/img/2025/20250604_01.png){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2025/20250604_02.png){: .img-responsive-border}
+
 
 日日是丸丸　旗揚げ公演  
 「いろは匂へど　夢ゆかし」
