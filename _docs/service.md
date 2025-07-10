@@ -91,7 +91,7 @@ redirect_from: /docs/service.html
 
 ![ロゴ]({{site.baseurl}}/img/logo_01.png){: .img-responsive}
 
-
+ 
 
 ---
 ## SNS
