@@ -5,7 +5,7 @@ date:   2025-07-29 07:33:43 +0900
 categories: Blog
 ---
 
-![flyer]({{site.baseurl}}/img/20250729_01.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/2025/20250729_01.jpg){: .img-responsive}
 
 大学からの依頼で、短期留学生向け50名程度にワークショップをやりました。なんと英語で。
 
@@ -35,13 +35,13 @@ categories: Blog
 
 
 
-![flyer]({{site.baseurl}}/img/20250729_02.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/2025/20250729_02.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20250729_03.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/2025/20250729_03.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20250729_04.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/2025/20250729_04.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/20250729_05.jpg){: .img-responsive}
+![flyer]({{site.baseurl}}/img/2025/20250729_05.jpg){: .img-responsive}
 
 
 
