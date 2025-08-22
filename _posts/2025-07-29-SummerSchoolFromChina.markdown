@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "演劇教育実践報告：留学生向けワークショップやりました"
+date:   2025-07-29 07:33:43 +0900
+categories: Blog
+---
+
+![flyer]({{site.baseurl}}/img/20250729_01.jpg){: .img-responsive}
+
+大学からの依頼で、短期留学生向け50名程度にワークショップをやりました。なんと英語で。
+
+目的は「お互いを好きになる」。留学生同士の交流を促進するために演劇を使ってみようという試みです。
+
+うまくいったと思います。
+
+座学ではなく、立って、相手と関わっていくことに多大な抵抗があると予想できたので、だいぶステップを小さく設計しました。
+
+仲間が何人も手伝ってくれて、笑顔が溢れ、深く考え、仲良くなった。そんな最高の場だったと思います。
+
+よかったこと、今後の挑戦をいくつか挙げます。
+
+#### よかったこと
+
+* 今回の学習達成目標が達成されていた。
+** 受講生同士での連絡先の交換。感想共有の際のコメントでも「チームを作ることについて考えられた」「知らない人を知れた」などの感想が多かった。
+* 受講生の温度感に合わせて、授業内容の変更を即時に判断・調整できた
+* ペアワークの際に同じペアになりすぎないよう、何回も組み直させてシャッフルすることにより新しい人と交流させることができた
+* 英語を使えるアシスタントが複数いた
+
+#### 今後の挑戦
+
+* 英語という「言葉」で説明しすぎようとしてしまった面がある。体験・体感で説明する比重を増やしてもよい
+* 授業概要の説明が不足していた。何に集中して授業を受ければよいかが伝わっていなかった（途中で解説しましたが）
+* 演劇のワークにもっと積極的に参加したくなるような、効果的なステップ・刺激を探究したい
+
+
+
+![flyer]({{site.baseurl}}/img/20250729_02.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20250729_03.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20250729_04.jpg){: .img-responsive}
+
+![flyer]({{site.baseurl}}/img/20250729_05.jpg){: .img-responsive}
+
+
+
+
+---
+#### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+#### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+#### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
