@@ -12,13 +12,12 @@ categories: Blog
 
 ---
 
-即興・インプロライブFIVECRANEGAME8周年記念公演  
+*即興・インプロライブFIVECRANEGAME8周年記念公演*  
+
 - 9/27(土) 12:00/15:30/18:30  
 - 9/28(日) 12:00/15:30/交流会17:00～20:00  
 
-会場:イカロスの森
-
-[→ご予約](https://ticket.corich.jp/apply/396693/)
+会場:神戸、イカロスの森
 
 ---
 
@@ -36,7 +35,30 @@ categories: Blog
 
 [→ご予約](https://ticket.corich.jp/apply/396693/)
 
+##### 出演にあたって
 
+今年で、私にとっては3年目。
+
+毎回、呼んでいただけてありがたいです。
+
+地元、関西で公演できるというのは毎回、本当にありがたいです。
+
+関西にいる頃は、こんなに演劇やるなんて思っていなかった。というか、関東に行くとも思っていなかった。
+
+もう今となっては別の道があったとも思えない。何かにぶつかって乗り越えた、というよりも軌道修正し続けてこうなった気がします。まともにぶつかって乗り越えたことなんてなかったんじゃないか。通学路の激坂ぐらいか。
+
+それでも、「今でも演劇やれてます」と言えるのは幸せだし、応援してくれる方々もいらっしゃいます。
+
+おかげさまで講演・ワークショップの機会も増え、いろんな公演にも呼んでいただけるようになりました。
+
+今回の公演は私のコア技術である即興演劇。関西で盛り上げていく一助となればと思います。
+
+どのステージも私と、共演者やスタッフの方々と、主宰・秋桜天丸さんの魅力を存分に楽しんでいただければと思います。
+
+台本ありません。その場でみんなで楽しみましょう。
+
+
+[→ご予約](https://ticket.corich.jp/apply/396693/)
 
 ##### これまでの様子
 
@@ -171,13 +193,20 @@ categories: Blog
 -------------------------------------------------------------------------------------------------
 
 FIVECRANEGAMEは神戸を中心に活動中！！！
-ハッシュタグ　：＃５CGAME
-カンパ箱：[https://fivecranegame.gumroad.com/l/WxkPH](https://fivecranegame.gumroad.com/l/WxkPH)
+
+ハッシュタグ　：＃５CGAME. 
+
+カンパ箱：[https://fivecranegame.gumroad.com/l/WxkPH](https://fivecranegame.gumroad.com/l/WxkPH). 
+
 YouTube：[https://youtube.com/@fivecranegame8256](https://youtube.com/@fivecranegame8256)
-twitter : @FIVE_CRANEGAME
-HP: [https://fivecranegame.wixsite.com/fivecranegame](https://fivecranegame.wixsite.com/fivecranegame)
-facebookpage: [https://www.facebook.com/fivecranegame/](https://www.facebook.com/fivecranegame/)
-blog:  [http://fivecranegame.blog.fc2.com/](http://fivecranegame.blog.fc2.com/)
+
+twitter : @FIVE_CRANEGAME. 
+
+HP: [https://fivecranegame.wixsite.com/fivecranegame](https://fivecranegame.wixsite.com/fivecranegame). 
+
+facebookpage: [https://www.facebook.com/fivecranegame/](https://www.facebook.com/fivecranegame/). 
+
+blog:  [http://fivecranegame.blog.fc2.com/](http://fivecranegame.blog.fc2.com/)  
 mail : fivecranegame@gmail.com
 
 
