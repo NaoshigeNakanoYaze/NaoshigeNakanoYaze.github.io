@@ -12,11 +12,12 @@ categories: Blog
 
 ---
 
-即興・インプロライブFIVECRANEGAME8周年記念公演  
+** 即興・インプロライブFIVECRANEGAME8周年記念公演 **  
+
 - 9/27(土) 12:00/15:30/18:30  
 - 9/28(日) 12:00/15:30/交流会17:00～20:00  
 
-会場:イカロスの森
+会場:神戸、イカロスの森
 
 [→ご予約](https://ticket.corich.jp/apply/396693/)
 
@@ -171,13 +172,20 @@ categories: Blog
 -------------------------------------------------------------------------------------------------
 
 FIVECRANEGAMEは神戸を中心に活動中！！！
-ハッシュタグ　：＃５CGAME
-カンパ箱：[https://fivecranegame.gumroad.com/l/WxkPH](https://fivecranegame.gumroad.com/l/WxkPH)
+
+ハッシュタグ　：＃５CGAME. 
+
+カンパ箱：[https://fivecranegame.gumroad.com/l/WxkPH](https://fivecranegame.gumroad.com/l/WxkPH). 
+
 YouTube：[https://youtube.com/@fivecranegame8256](https://youtube.com/@fivecranegame8256)
-twitter : @FIVE_CRANEGAME
-HP: [https://fivecranegame.wixsite.com/fivecranegame](https://fivecranegame.wixsite.com/fivecranegame)
-facebookpage: [https://www.facebook.com/fivecranegame/](https://www.facebook.com/fivecranegame/)
-blog:  [http://fivecranegame.blog.fc2.com/](http://fivecranegame.blog.fc2.com/)
+
+twitter : @FIVE_CRANEGAME. 
+
+HP: [https://fivecranegame.wixsite.com/fivecranegame](https://fivecranegame.wixsite.com/fivecranegame). 
+
+facebookpage: [https://www.facebook.com/fivecranegame/](https://www.facebook.com/fivecranegame/). 
+
+blog:  [http://fivecranegame.blog.fc2.com/](http://fivecranegame.blog.fc2.com/)  
 mail : fivecranegame@gmail.com
 
 
