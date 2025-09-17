@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "出演します：ONE"
+date:   2026-09-17 07:33:43 +0900
+categories: Blog
+---
+
+![flyer]({{site.baseurl}}/img/2025/20250917_01.jpg){: .img-responsive}
+
+
+
+![flyer]({{site.baseurl}}/img/2025/20250917_02.jpg){: .img-responsive}
+
+
+Liverary企画インプロショー  
+『ONE』  
+
+▽日時  
+2025年11月8日(土) 19:30~20:40  
+
+▽会場  
+SOY-POY(下北沢)  
+[https://soypoy.com/#contact](https://soypoy.com/#contact)
+
+
+▽料金  
+¥2,000＋ワンドリンク  
+
+▽ご予約  
+[https://www.quartet-online.net/ticket/liverary_one?m=0ldhhaj](https://www.quartet-online.net/ticket/liverary_one?m=0ldhhaj)
+
+▽出演  
+会原実希(らぶりーじゅ)  
+海原優騎  
+中野直重(らぶりーじゅ/演劇教育ナレッジフォーラム)  
+ナカムラヤスユキ(座・シトラス)  
+福本桜  
+
+▽音響  
+ベルヨシダ(オセチ・オ・セッチ/座・シトラス)
+
+▽受付  
+原田和真  
+
+▽コンセプト  
+障がいの有無を超えて、  
+ありのままで響き合う。  
+制約や配慮が必要な中で、  
+自由に遊び合う一夜！
+
+
+---
+##### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+##### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
