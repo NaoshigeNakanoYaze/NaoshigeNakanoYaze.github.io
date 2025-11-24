@@ -5,19 +5,43 @@ date:   2026-10-30 07:33:43 +0900
 categories: Blog
 ---
 
-![flyer]({{site.baseurl}}/img/2025/20250917_01.jpg){: .img-responsive}
 
 
-振り返ります。遅くなりましたが。
+![flyer]({{site.baseurl}}/img/2025/20251030_01.jpg){: .img-responsive}
 
+えっ、道徳！　道徳を私が教えるんですか！
 
-開場中
-
-カジュアルな中でもピリッとしてるのがあってよい。
-グダグダになってないな。
+なんとかやってきました。
 
 
 
+
+
+
+
+テーマはこれ。
+
+![flyer]({{site.baseurl}}/img/2025/20251030_03.jpg){: .img-responsive}
+
+
+
+
+
+がんばりすぎて足がつってしまった。
+
+![flyer]({{site.baseurl}}/img/2025/20251030_02.jpg){: .img-responsive}
+
+
+
+大教室↓
+
+![flyer]({{site.baseurl}}/img/2025/20251030_04.jpg){: .img-responsive}
+
+
+
+学校の前で↓
+
+![flyer]({{site.baseurl}}/img/2025/20251030_04.jpg){: .img-responsive}
 
 
 
