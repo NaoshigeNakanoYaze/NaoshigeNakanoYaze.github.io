@@ -6,7 +6,7 @@ categories: Blog
 ---
 
 
-![IMG]({{site.baseurl}}/img/2024/20251231_01.jpg){: .img-responsive-border}
+![IMG]({{site.baseurl}}/img/2025/20251231_01.jpg){: .img-responsive-border}
 
 2025年、いろいろありました。  
 家族ともども、無事に年末を迎えました。  
