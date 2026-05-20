@@ -39,7 +39,7 @@ categories: Blog
 
 ---
 
-あとは写真たち。
+写真たち。
 
 ![IMG]({{site.baseurl}}/img/2026/20260520_05.jpeg){: .img-responsive-border}
 
