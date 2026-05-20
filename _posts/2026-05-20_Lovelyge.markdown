@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "山形でワークショップをやりました"
+date:   2026-05-20 07:33:43 +0900
+categories: Blog
+---
+
+
+![IMG]({{site.baseurl}}/img/2026/20260520_01.jpeg){: .img-responsive-border}
+
+山形でワークショップでした。
+
+午前は初心者向け、午後は経験者向け。
+
+講師は、らぶりーじゅ主宰・会原実希。アシスタントに原田和真氏と私。受講参加者は午前2名、午後3名。小規模でしたが、だからこそ濃密な演劇体験になったかなと思います。
+
+どちらも、レクチャー・自己紹介、ウォームアップゲーム・エクササイズ、最後はシーンという構成でした。経験者クラスではシーンの比重が大きかったなと思います。こういう構成を見るのもとても勉強になります。
+
+![IMG]({{site.baseurl}}/img/2026/20260520_04.jpeg){: .img-responsive-border}
+
+レクチャーではインプロとは何か？　をなるべく端的に説明した後、会原が大切にしている価値観を共有。平たい言葉と分かりやすいラベリングで、ワークショップ中ずっとその価値観に立ち戻れる、うまいやり方だなと思いました。
+
+午前の部で印象的だったのは、私も入った筋トレのシーン。ただ単に筋トレ好きの2人が掛け声かけて筋トレして、プロテイン飲んで終わり。とても楽しかった。ストーリーとかどうでもいい。ただただ、エネルギーだけだった。
+
+![IMG]({{site.baseurl}}/img/2026/20260520_02.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_03.jpeg){: .img-responsive-border}
+
+
+午後の部で印象的だったのは、複数のグループで同時並行でやってるのに、アイデアがバッチリ同じになってしまうことが複数回ありました。そういうこともあるんだなあ。
+
+あと、デモで入った「ルーム」からのシーンで、「ルーム」で作り上げたモノたちが活躍する様を「すごい」と感動していただけたこと。インプロってすごいよね！？　という気持ちになり、大変うれしかったです。
+
+「もっとやりたい。ワークショップ時間が短い」という感想をいただけたのは、うれしいことです。しかし短い、というご意見もあるので次回はどうしましょうかね。
+
+山形に行ってアシスタントができる。ここまでできるようになったんだな、と思いました。受講参加者の方々と話してて思い出しましたが、そういえば会社勤めしながらインプロの訓練を5年ぐらい受け続け、いろんなインプロ団体に出させてもらって、がんばってきたというのもあるなあと思いました。（今も会社員やってますが）
+
+今後も山形で活動していきます。山形で、日本中でインプロに触れやすくなりますように。応援どうぞよろしくお願いします。
+
+---
+
+あとは写真たち。
+
+![IMG]({{site.baseurl}}/img/2026/20260520_05.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_06.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_07.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_08.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_09.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_10.jpeg){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_11.JPG){: .img-responsive-border}
+
+![IMG]({{site.baseurl}}/img/2026/20260520_12.JPG){: .img-responsive-border}
+
+---
+##### コメント
+コメント機能がないので、お問い合わせフォームやTwitterからコメントください。
+
+##### お問い合わせフォーム
+[→お問い合わせフォームを開く]({{site.baseurl}}/docs/contact/)
+
+##### Twitter
+
+<a href="https://twitter.com/ya_ze_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ya_ze_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### LINE
+
+サービス内容や記事の更新について通知します（週に一度ぐらいの頻度です）。
+ご登録よろしくお願いします。
+
+![LINE@]({{site.baseurl}}/img/lineat.png){: .img-responsive}
+
+<a href="https://line.me/R/ti/p/%40tqt3140x"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
