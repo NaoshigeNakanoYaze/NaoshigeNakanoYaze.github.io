@@ -23,7 +23,7 @@ categories: Blog
 
 それが今、関西での経験をベースとしつつも関東での経験、公演、演劇の技術、チームからの刺激を得て、「こうなりましたよ」と関西に報告できる、ご披露できるというのは本当にありがたいことです。
 
-そして４年目ということで、これまでよりも組織的にやっていきたいという天丸さんのご意向もあり、実行委員会が結成されまして。私もそのメンバーに入っております。昨年9月に公演がおわり、10月から会議の日程調整を始め、月に1～2回の定例会を開催してきました(たぶんこれからもっと増える)。つまり、公演期間だけでなく、ほぼ1年間、運営メンバーとして関わってきた公演です。
+そしてこれまでよりも組織的にやっていきたいという天丸さんのご意向もあり、実行委員会が結成されまして。私もそのメンバーに入っております。昨年9月に公演がおわり、10月から会議の日程調整を始め、月に1～2回の定例会を開催してきました(たぶんこれからもっと増える)。つまり、公演期間だけでなく、ほぼ1年間、運営メンバーとして関わってきた公演です。
 
 特に深く触れた「即興演劇」というジャンルで、関西のみなさまにご披露いたします。ぜひ、ご覧ください。
 
@@ -48,23 +48,8 @@ FIVE CRANEGAME 9周年記念公演
 
 以下、公式からの情報↓
 
-> 【嬉しいお知らせその❷】  
->   
-> /／  
-> ９周年公演の詳細が決定しました！  
-> 明石での8/15プレ公演から、  
-> 5CGAME、9周年へ！！！！！！  
-> \＼  
->   
-> 即興・インプロライブ  
-> FIVE CRANEGAME 9周年記念公演  
-> 2026年9月25日（金）〜27日（日）  
-> @イカロスの森  
->   
-> ▼公演詳細  
-> https://stage.corich.jp/stage/478232  
->   
-> — 即興・インプロライブFIVE CRANE GAME (@FIVE_CRANEGAME) July 17, 2026
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【嬉しいお知らせその❷】<br><br>/／<br>９周年公演の詳細が決定しました！<br>明石での8/15プレ公演から、<br>5CGAME、9周年へ！！！！！！<br>\＼<br><br>即興・インプロライブ<br>FIVE CRANEGAME 9周年記念公演<br>2026年9月25日（金）〜27日（日）<br>@イカロスの森<br><br>▼公演詳細<a href="https://t.co/3aLOwCTa3H">https://t.co/3aLOwCTa3H</a><a href="https://x.com/hashtag/%E5%8A%87%E5%A0%B1?src=hash&amp;ref_src=twsrc%5Etfw">#劇報</a> <a href="https://x.com/hashtag/FCG9%E5%91%A8%E5%B9%B4?src=hash&amp;ref_src=twsrc%5Etfw">#FCG9周年</a> <a href="https://x.com/hashtag/5CGAME?src=hash&amp;ref_src=twsrc%5Etfw">#5CGAME</a> <a href="https://t.co/1Qix2uk7GP">pic.twitter.com/1Qix2uk7GP</a></p>&mdash; 即興・インプロライブFIVE CRANE GAME▶︎プレ公演8/15(土) @町劇akashi (@FIVE_CRANEGAME) <a href="https://x.com/FIVE_CRANEGAME/status/2077954443082187094?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 即興・インプロライブ  
 FIVE CRANEGAME 9周年記念公演  
