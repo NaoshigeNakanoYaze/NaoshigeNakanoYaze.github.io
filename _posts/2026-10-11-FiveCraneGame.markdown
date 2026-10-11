@@ -70,6 +70,9 @@ FIVECRANEGAME9周年記念公演が全て終演しました！
 - **内容**: 最終ステージ。代打ピエールと演じられてよかった。自身の直感に従って自由に動けたかなと思います。
 - [その1はこちら](https://note.com/yaze_notespace/n/n2e8ad1026e30?sub_rt=share_pw) / [その2はこちら](https://note.com/yaze_notespace/n/nad79a1c5bcf0?sub_rt=share_pw)
 
+#### 写真たち
+
+いっぱい載せようと思いましたが、それは上記記事にあります！
 
 ![flyer]({{site.baseurl}}/img/2026/20261011_03.jpg){: .img-responsive}
 
@@ -80,7 +83,6 @@ FIVECRANEGAME9周年記念公演が全て終演しました！
 ![flyer]({{site.baseurl}}/img/2026/20261011_06.jpg){: .img-responsive}
 
 ![flyer]({{site.baseurl}}/img/2026/20261011_08.jpg){: .img-responsive}
-
 
 
 
