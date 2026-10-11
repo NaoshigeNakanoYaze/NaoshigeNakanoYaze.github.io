@@ -79,8 +79,6 @@ FIVECRANEGAME9周年記念公演が全て終演しました！
 
 ![flyer]({{site.baseurl}}/img/2026/20261011_06.jpg){: .img-responsive}
 
-![flyer]({{site.baseurl}}/img/2026/20261011_07.jpg){: .img-responsive}
-
 ![flyer]({{site.baseurl}}/img/2026/20261011_08.jpg){: .img-responsive}
 
 
